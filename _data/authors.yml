@@ -9,3 +9,9 @@ john_doe:
     name: John Doe
     email: johndoe@email.com
     web: http://twitter.com/johndoe
+alicia_delara:
+    name: Alicia de Lara
+    twitter: porqueeeyo
+    bio: Coordinadora de Diseño Web
+    image: alicia.jpg
+    link: https://twitter.com/porqueeeyo
