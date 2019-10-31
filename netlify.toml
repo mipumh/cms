@@ -20,8 +20,8 @@
 # Redirect rule example
 
 #[[redirects]]
-from = "/*"
-to = "/blog/:splat"
+# from = "/*"
+# to = "/blog/:splat"
 
 # The default HTTP status code is always 301, but you can define a different
 # one e.g. status = 302
