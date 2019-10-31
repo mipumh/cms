@@ -1,15 +1,11 @@
 ---
 layout: contact
-title: Contact
-permalink: /contact
+title: Contacto
+permalink: /contacto
 section: contact
 intro_paragraph: |-
 
-  The contact form on this page uses
-  [Netlify Forms](https://www.netlify.com/docs/form-handling/) to process
-  submissions, and saves them in your Netlify account where you can optionally
-  set up notifications. Each submission is passed through a spam filter and if
-  flagged, will display a CAPTCHA challenge to the user.
+  Si tienes alguna consulta, por favor, completa este formulario. Trataremos de responderte lo antes posible 🤓.
 ---
 
-**Send us a message**
+**Enviar**
