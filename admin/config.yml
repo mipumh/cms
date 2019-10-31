@@ -25,7 +25,6 @@ collections: # A list of collections the CMS should be able to edit
         name: "author"
         widget: "select"
         options:
-          - { label: "Dan Urbanowicz", value: "dan_urbanowicz" }
           - { label: "Miguel Carvajal", value: "miguel_carvajal" }
           - { label: "Félix Arias", value: "felix_arias" }
           - { label: "José Alberto García Avilés", value: "jaga" }
