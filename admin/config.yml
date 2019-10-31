@@ -31,6 +31,5 @@ collections: # A list of collections the CMS should be able to edit
           - { label: "José Alberto García Avilés", value: "jaga" }
           - { label: "Alicia de Lara", value: "alicia_delara" }
       - {label: "Fecha", name: "date", widget: "datetime", format: "YYYY-MM-DD HH:mm:ss"}
-      - {label: "Entradilla", name: "excerpt", widget: "markdown", required: false}
       - {label: "Body", name: "body", widget: "markdown", required: false}
       - {label: "Categorias", name: "categories", widget: "string", required: false}
