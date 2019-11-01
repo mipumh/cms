@@ -20,7 +20,7 @@ collections: # A list of collections the CMS should be able to edit
     fields: # The fields each document in this collection have
       - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
       - {label: "Titular", name: "title", widget: "string", tagname: "h1"}
-      - {label: "Subtitular", name: "subtitle", widget: "string", tagname: "h2"}
+      - {label: "Subtitular", name: "subtitle", widget: "string", tagname: "h2", required: false}
       - label: "Autor"
         name: "author"
         widget: "select"
@@ -29,6 +29,7 @@ collections: # A list of collections the CMS should be able to edit
           - { label: "Félix Arias", value: "felix_arias" }
           - { label: "José Alberto García Avilés", value: "jaga" }
           - { label: "Alicia de Lara", value: "alicia_delara" }
-      - {label: "Fecha", name: "date", widget: "datetime", format: "YYYY-MM-DD HH:mm:ss"}
-      - {label: "Body", name: "body", widget: "markdown", required: false}
+      - {label: "Nuevo autor", name: "new_author", widget: "string", required: false}
+      - {label: "Fecha", name: "date", widget: "hidden", format: "YYYY-MM-DD HH:mm:ss"}
+      - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Categorias", name: "categories", widget: "string", required: false}
