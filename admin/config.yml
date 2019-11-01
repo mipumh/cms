@@ -24,6 +24,7 @@ collections: # A list of collections the CMS should be able to edit
       - label: "Autor"
         name: "author"
         widget: "select"
+        required: false
         options:
           - { label: "Miguel Carvajal", value: "miguel_carvajal" }
           - { label: "Félix Arias", value: "felix_arias" }
