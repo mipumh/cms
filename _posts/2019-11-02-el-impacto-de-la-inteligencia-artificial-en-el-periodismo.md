@@ -7,53 +7,23 @@ La creciente irrupción de la Inteligencia Artificial (IA) y la tecnología auto
 
 El origen del término “Inteligencia Artificial” se remonta a la década de 1950, [cuando toda una generación de matemáticos, científicos y filósofos](http://sitn.hms.harvard.edu/flash/2017/history-artificial-intelligence/), entre los que destacan **Alan Turing** y **Claude Shannon**, profundizaron en el concepto y desarrollaron su enorme potencial. Desde entonces, existe un consenso general en torno a la naturaleza de la IA como la teoría que fundamenta el desarrollo de sistemas informáticos capaces de realizar tareas que normalmente requieren de la inteligencia humana.
 
-La investigación sobre Periodismo Asistido por Ordenador data de los años setenta, con el trabajo pionero de Philip Meyer y su obra Periodismo de precisión, que impulsó una sólida línea de trabajo mediante el uso de metodologías científicas, procesos estadísticos y tratamiento de datos para generar informaciones. Como afirma Meyer, “los datos brutos nunca bastan por sí mismos. Para que sean útiles e inteligibles han de ser procesados, conceptualizados, integrados en algún tipo de esquema. Hay que insertar el dato material en algún marco de referencia mental que ayude a su interpretación y comprensibilidad”.
+La investigación sobre Periodismo Asistido por Ordenador data de los años setenta, con el trabajo pionero de **Philip Meyer** y su obra [Periodismo de precisión](https://www.amazon.es/Precision-Journalism-4th-Reporters-Introduction/dp/0742510883), que impulsó una sólida línea de trabajo mediante el uso de metodologías científicas, procesos estadísticos y tratamiento de datos para generar informaciones. Como afirma Meyer, “los datos brutos nunca bastan por sí mismos. Para que sean útiles e inteligibles han de ser procesados, conceptualizados, integrados en algún tipo de esquema. Hay que insertar el dato material en algún marco de referencia mental que ayude a su interpretación y comprensibilidad”.
 
-Según el profesor Neil Thurman, el periodismo computacional como disciplina científica se basa en el uso de algoritmos y Big Data, y en la automatización de procesos, permitiendo que el periodista pueda liberarse de las tareas superfluas o menos relevantes. Thurman sostiene que las labores esenciales en un trabajo periodístico de calidad, como la investigación o la verificación, recaerán sobre el periodista mientras que los trabajos más rutinarios relacionados con el procesamiento de los datos, los desempeñarán las máquinas. 
+Según el profesor **Neil Thurman**, el [periodismo computacional](https://www.taylorfrancis.com/books/e/9781315167497) como disciplina científica se basa en el uso de algoritmos y Big Data, y en la automatización de procesos, permitiendo que el periodista pueda liberarse de las tareas superfluas o menos relevantes. **Thurman** sostiene que las labores esenciales en un trabajo periodístico de calidad, como la investigación o la verificación, recaerán sobre el periodista mientras que **las máquinas desempeñarán los trabajos más rutinarios relacionados con el procesamiento de los datos**. 
 
-Diversos estudios muestran que las herramientas de IA pueden ayudar a los periodistas a elaborar algunas informaciones que antes eran muy difíciles de llevar a cabo con los recursos disponibles o que técnicamente quedaban fuera de su alcance. En general, aquellos medios que han implantado técnicas de IA y algoritmos coinciden en que mejorará, en lugar de reemplazar, el trabajo de los profesionales. 
+[Diversos estudios](https://www.tandfonline.com/doi/abs/10.1080/21670811.2015.1096748) muestran que las herramientas de IA pueden ayudar a los periodistas a elaborar algunas informaciones que antes eran muy difíciles de llevar a cabo con los recursos disponibles o que técnicamente quedaban fuera de su alcance. En general, aquellos medios que han implantado técnicas de IA y algoritmos coinciden en que mejorará, en lugar de reemplazar, el trabajo de los profesionales. 
 
- 
-
-Chatbot de la BBC, creado en 2017, para mantener conversaciones sobre informaciones políticas.
+![]( "Chatbot de la BBC, creado en 2017, para mantener conversaciones sobre informaciones políticas.")
 
 Las principales empresas de comunicación están apostando por el periodismo computacional en Europa y Estados Unidos. Una de las pioneras es la agencia estadounidense Associated Press, que en 2013 inició la elaboración de noticias sobre mercados bursátiles y resultados deportivos de forma automatizada, a través de una herramienta de software desarrollada por Automated Insights. Desde 2014, Associated Press publica 4.000 piezas al trimestre generadas automáticamente, de modo que sus periodistas disponen de más tiempo para reportajes complejos y coberturas elaboradas. En febrero de 2019 comenzaron a publicar informaciones automatizadas previas sobre los partidos de las ligas de basket en Estados Unidos. Desde octubre de 2019, también han automatizado las noticias sobre la liga de fútbol norteamericana.  
 
 Más de una veintena de medios emplean algún tipo de periodismo automatizado en Estados Unidos. Algunos ejemplos destacados se resumen en este cuadro:
 
-País	Medio	Año	Iniciativa	Proceso	Herramienta
-
-EE. UU.	Associated Press	2013	Noticias sobre deportes y mercados	Producción	Automatic Insights
-
-EE. UU.	The New York Times	2017	Sugiere contenidos para redes	Captación	Blossom
-
-EE. UU.	The New York Times	2018	Algoritmo para reconocer personas, localizaciones…	Producción	Editor
-
-EE. UU.	The Washington Post	2017	Detectar temas virales	Captación	Virality Oracle 
-
-EE. UU.	The Washington Post	2017	Avisar del cierre	Producción	Martybot
-
-EE. UU.	The Washington Post	2018	Ayudar a marcas a generar contenidos	Comercialización	Own, Heliograf
-
-EE. UU.	The Washington Post	2018	Gestionar comentarios de los lectores	Moderación	Modbot
-
-EE. UU.	The Washington Post	2019	Cobertura  del Congreso	Producción	Heliograf
-
-EE. UU.	Los Angeles Times	2015	Bot que genera información sobre terremotos	Producción	Quakebot
-
-EE. UU.	Los Angeles Times	2018	Informes sobre homicidios 	Producción	
-
-EE. UU.	Sports Illustrated	2018	Grafismo sobre deportes	Producción	Arkadium
-
-EE. UU.	Wall Street Journal	2019	Cobertura de los candidatos a las elecciones 2020	Producción	Talk2020
-
-Fuente: elaboración propia con datos de los medios.
+![Fuente: elaboración propia con datos de los medios.]()
 
 Diversos medios de información económica, como las agencias Bloomberg y Reuters, apuestan por el uso de algoritmos y de la automatización para analizar grandes cantidades de datos y generar contenidos a partir de esos datos. La creciente disponibilidad de dispositivos y herramientas de IA -actualmente hay unas 700 tecnologías conversacionales de IA en el mercado- permite abaratar sus costes y que sean cada vez más versátiles para adaptarse a las necesidades de medios y periodistas. Por ejemplo, algunos medios usan los datos generados por AI para ver qué lectores interactúan con sus sitios web y qué pautas siguen. Otros adoptan la IA para moderar los comentarios, como hace The Washington Post con su tecnología ModBot.
 
 También crece el número de medios europeos que apuestan por la automatización. En nuestro país, El Confidencial, RTVE y la consultora Prodigioso Volcán, entre otros, han desarrollado herramientas basadas en IA:
-
-
 
 País	Medio	Año	Iniciativa	Proceso	Herramienta
 
@@ -79,39 +49,23 @@ España	Prodigioso Volcán	2017	Elaboración automatizada de gráficos 	Producci
 
 Fuente: elaboración propia con datos de los medios.
 
-
-
 La agencia estatal de noticias china Xinhua lanzó en 2018 un presentador de noticias robótico, "libre de ego y siempre listo para trabajar". Esta simulación se creó modelando informáticamente la identidad del robot, a partir de las voces, los movimientos de labios y las expresiones de los presentadores reales de la agencia de noticias. Las primeras versiones tienden a mostrar una falta de calidez y cierto automatismo, pero los ingenieros ya trabajan para dotarles de mayor humanidad y sentido del humor.
-
-
-
- 
 
 Presentador virtual de la agencia estatal de noticias china Xinhua.
 
-
-
 Las investigaciones muestran que los procesos robotizados en la producción de noticias facilitan una mayor eficiencia en el trabajo mediante la automatización de las tareas rutinarias más monótonas y propensas a errores. Sin embargo, también generan nuevos retos de aprendizaje, ya que plantean formas de trabajo innovadoras, que requieren el uso del pensamiento computacional. En 2018, el 72% de los editores dijeron que estaban experimentando con IA. En 2019 asistimos un mayor despliegue en las redacciones, en tres ámbitos principales, según el Reuters Digital News Report:
 
-1) Personalizar los contenidos y crear mejores recomendaciones para los usuarios.
-
-2) Automatizar más piezas y videos.
-
-3) Herramientas para que los periodistas afronten la sobrecarga informativa.
-
-
+1. Personalizar los contenidos y crear mejores recomendaciones para los usuarios.
+2. Automatizar más piezas y videos.
+3. Herramientas para que los periodistas afronten la sobrecarga informativa.
 
 Los expertos indican que la incorporación de la IA en las redacciones plantea las siguientes ventajas:
 
-1.	Libera la carga de trabajo, para invertir tiempo en tareas más complejas.
-
-2.	Mejora la eficacia y la velocidad en la generación de noticias.
-
-3.	Permite procesar grandes cantidades de datos, textos o imágenes.
-
-4.	Aporta una mayor personalización de los contenidos.
-
-5.	Potencia la creación de nuevos formatos.
+1. Libera la carga de trabajo, para invertir tiempo en tareas más complejas.
+2. Mejora la eficacia y la velocidad en la generación de noticias.
+3. Permite procesar grandes cantidades de datos, textos o imágenes.
+4. Aporta una mayor personalización de los contenidos.
+5. Potencia la creación de nuevos formatos.
 
 También se identifican diversos retos en la implantación de la IA. Es necesario combatir el sesgo oculto de los algoritmos, a menudo no reconocido, pero siempre presente, ya que las herramientas son programadas por humanos. Los periodistas deben ser transparentes, señalando en términos divulgativos y no técnicos, cómo utilizan la IA en sus piezas. Y conviene profundizar en el uso ético de la IA y la divulgación de los datos, es decir, cómo se recopila, almacena, analiza y comparte la información sobre los usuarios.
 
