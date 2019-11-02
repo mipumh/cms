@@ -25,29 +25,7 @@ Diversos medios de información económica, como las agencias Bloomberg y Reuter
 
 También crece el número de medios europeos que apuestan por la automatización. En nuestro país, El Confidencial, RTVE y la consultora Prodigioso Volcán, entre otros, han desarrollado herramientas basadas en IA:
 
-País	Medio	Año	Iniciativa	Proceso	Herramienta
-
-UK	The Guardian 	2016	Conversación sobre temas internacionales	Distribución	Chatbot
-
-UK	Press Asociation	2017	Generar noticias locales	Producción	RADAR
-
-Francia	Le Monde	2015	Noticias sobre elecciones legislativas	Producción	Syllabs
-
-Finlandia	YLE	2018	Dialogar con los usuarios sobre sus elecciones	Distribución	Voitto
-
-Alemania	Finanzen100.de	2017	Noticias sobre economía	Producción	
-
-Alemania	Goekick.com	2018	Información deportiva local	Producción	
-
-España	TVE	2017	Alertas de noticias locales	Captación	Dataminr
-
-España	Vocento	2015	Información de servicio sobre playas y esquí	Producción	Proyecto Medusa
-
-España	El Confidencial	2017	Automatización noticias deportivas y financieras	Producción	Grabielle
-
-España	Prodigioso Volcán	2017	Elaboración automatizada de gráficos 	Producción	GrafIA
-
-Fuente: elaboración propia con datos de los medios.
+![Fuente: elaboración propia con datos de los medios.]()
 
 La agencia estatal de noticias china Xinhua lanzó en 2018 un presentador de noticias robótico, "libre de ego y siempre listo para trabajar". Esta simulación se creó modelando informáticamente la identidad del robot, a partir de las voces, los movimientos de labios y las expresiones de los presentadores reales de la agencia de noticias. Las primeras versiones tienden a mostrar una falta de calidez y cierto automatismo, pero los ingenieros ya trabajan para dotarles de mayor humanidad y sentido del humor.
 
