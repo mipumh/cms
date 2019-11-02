@@ -13,23 +13,23 @@ Según el profesor **Neil Thurman**, el [periodismo computacional](https://www.t
 
 [Diversos estudios](https://www.tandfonline.com/doi/abs/10.1080/21670811.2015.1096748) muestran que las herramientas de IA pueden ayudar a los periodistas a elaborar algunas informaciones que antes eran muy difíciles de llevar a cabo con los recursos disponibles o que técnicamente quedaban fuera de su alcance. En general, aquellos medios que han implantado técnicas de IA y algoritmos coinciden en que mejorará, en lugar de reemplazar, el trabajo de los profesionales. 
 
-![]( "Chatbot de la BBC, creado en 2017, para mantener conversaciones sobre informaciones políticas.")
+![](/images/shots/gif-bbc-chat-bot.gif "Chatbot de la BBC, creado en 2017, para mantener conversaciones sobre informaciones políticas.")
 
-Las principales empresas de comunicación están apostando por el periodismo computacional en Europa y Estados Unidos. Una de las pioneras es la agencia estadounidense Associated Press, que en 2013 inició la elaboración de noticias sobre mercados bursátiles y resultados deportivos de forma automatizada, a través de una herramienta de software desarrollada por Automated Insights. Desde 2014, Associated Press publica 4.000 piezas al trimestre generadas automáticamente, de modo que sus periodistas disponen de más tiempo para reportajes complejos y coberturas elaboradas. En febrero de 2019 comenzaron a publicar informaciones automatizadas previas sobre los partidos de las ligas de basket en Estados Unidos. Desde octubre de 2019, también han automatizado las noticias sobre la liga de fútbol norteamericana.  
+Las principales empresas de comunicación están apostando por el periodismo computacional en Europa y Estados Unidos. Una de las pioneras es la agencia estadounidense Associated Press, que en 2013 inició la elaboración de noticias sobre mercados bursátiles y resultados deportivos de forma automatizada, a través de una herramienta de software desarrollada por Automated Insights. Desde 2014, Associated Press publica 4.000 piezas al trimestre generadas automáticamente, de modo que sus periodistas disponen de más tiempo para reportajes complejos y coberturas elaboradas. En febrero de 2019 comenzaron a publicar [informaciones automatizadas previas sobre los partidos de las ligas de basket en Estados Unidos](https://automatedinsights.com/blog/the-ap-and-automated-insights-expand-partnership-with-college-basketball-previews/). Desde octubre de 2019, también han automatizado [las noticias sobre la liga de fútbol norteamericana](https://www.ap.org/press-releases/2019/ap-to-grow-major-league-soccer-coverage-with-automated-stories).  
 
 Más de una veintena de medios emplean algún tipo de periodismo automatizado en Estados Unidos. Algunos ejemplos destacados se resumen en este cuadro:
 
-![Fuente: elaboración propia con datos de los medios.]()
+![](/images/shots/uso-ia-en-eeuu.jpg)
 
 Diversos medios de información económica, como las agencias Bloomberg y Reuters, apuestan por el uso de algoritmos y de la automatización para analizar grandes cantidades de datos y generar contenidos a partir de esos datos. La creciente disponibilidad de dispositivos y herramientas de IA -actualmente hay unas 700 tecnologías conversacionales de IA en el mercado- permite abaratar sus costes y que sean cada vez más versátiles para adaptarse a las necesidades de medios y periodistas. Por ejemplo, algunos medios usan los datos generados por AI para ver qué lectores interactúan con sus sitios web y qué pautas siguen. Otros adoptan la IA para moderar los comentarios, como hace The Washington Post con su tecnología ModBot.
 
 También crece el número de medios europeos que apuestan por la automatización. En nuestro país, El Confidencial, RTVE y la consultora Prodigioso Volcán, entre otros, han desarrollado herramientas basadas en IA:
 
-![Fuente: elaboración propia con datos de los medios.]()
+![](/images/shots/uso-ia-europa.jpg)
 
 La agencia estatal de noticias china Xinhua lanzó en 2018 un presentador de noticias robótico, "libre de ego y siempre listo para trabajar". Esta simulación se creó modelando informáticamente la identidad del robot, a partir de las voces, los movimientos de labios y las expresiones de los presentadores reales de la agencia de noticias. Las primeras versiones tienden a mostrar una falta de calidez y cierto automatismo, pero los ingenieros ya trabajan para dotarles de mayor humanidad y sentido del humor.
 
-Presentador virtual de la agencia estatal de noticias china Xinhua.
+![](/images/shots/gif-presentador-chino.gif "Presentador virtual de la agencia estatal de noticias china Xinhua.")
 
 Las investigaciones muestran que los procesos robotizados en la producción de noticias facilitan una mayor eficiencia en el trabajo mediante la automatización de las tareas rutinarias más monótonas y propensas a errores. Sin embargo, también generan nuevos retos de aprendizaje, ya que plantean formas de trabajo innovadoras, que requieren el uso del pensamiento computacional. En 2018, el 72% de los editores dijeron que estaban experimentando con IA. En 2019 asistimos un mayor despliegue en las redacciones, en tres ámbitos principales, según el Reuters Digital News Report:
 
