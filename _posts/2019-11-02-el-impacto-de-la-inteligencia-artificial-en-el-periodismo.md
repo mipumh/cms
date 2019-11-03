@@ -39,11 +39,11 @@ Las investigaciones muestran que los procesos robotizados en la producción de n
 
 Los expertos indican que la incorporación de la IA en las redacciones plantea **las siguientes ventajas**:
 
-1. Libera la carga de trabajo, para invertir tiempo en tareas más complejas.
-2. Mejora la eficacia y la velocidad en la generación de noticias.
-3. Permite procesar grandes cantidades de datos, textos o imágenes.
-4. Aporta una mayor personalización de los contenidos.
-5. Potencia la creación de nuevos formatos.
+* Libera la carga de trabajo, para invertir tiempo en tareas más complejas.
+* Mejora la eficacia y la velocidad en la generación de noticias.
+* Permite procesar grandes cantidades de datos, textos o imágenes.
+* Aporta una mayor personalización de los contenidos.
+* Potencia la creación de nuevos formatos.
 
 También se identifican diversos retos en la implantación de la IA. Es necesario combatir el sesgo oculto de los algoritmos, a menudo no reconocido, pero siempre presente, ya que las herramientas son programadas por humanos. Los periodistas deben ser transparentes, señalando en términos divulgativos y no técnicos, cómo utilizan la IA en sus piezas. Y conviene profundizar **en el uso ético de la IA y la divulgación de los datos**, es decir, cómo se recopila, almacena, analiza y comparte la información sobre los usuarios.
 
