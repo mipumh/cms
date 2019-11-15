@@ -60,3 +60,7 @@ R. Me ha obligado a actualizarme. Hace 23 años que terminé la carrera y querí
 P. ¿Lo recomendaría?
 
 R. Sí, por supuesto. Aunque depende de lo que busques. Mi fin no era conseguir trabajo. Por lo tanto, se lo aconsejaría a alguien que hizo la carrera hace más de 20 años y piense que se ha quedado descolgado, ya que es una buena forma de renovarse.
+
+[Marina Cantó](https://twitter.com/marinaCL7)
+
+![](/images/shots/marina-cantó.jpg)
