@@ -27,7 +27,7 @@ R. Tenía que hacer un proyecto para el Máster de Innovación en Periodismo y e
 
 ![](/images/shots/reaccion-en-cadena.jpg)
 
-**P. ¿Qué pretendía con el nombre del programa?**
+P. ¿Qué pretendía con el nombre del programa?
 
 R. No se me ocurrió a mí el nombre, sino que me puse a mirar canciones que tuviesen una temática de ciencia. Quería tener una sintonía principal que incluyese algo relacionado con este ámbito. Entonces encontré la canción Chain reaction de Diana Ross, una composición de los años 80 que me gustó muchísimo. Además, la cadena siempre se relaciona con la radio. Es como si usas la palabra onda que ya te evoca a este medio. De esta manera, la idea era despertar el virus de la wikipedia, que la gente no se conforme con lo que ha escuchado en la radio, sino que tengan curiosidad en buscar más cosas. 
 
@@ -39,7 +39,7 @@ P. Ese poder hace que se conviertan en protagonistas del aprendizaje.
 
 R. Sí, todo aquello que tenga que ver con educación debería ser más activo, dejar que los alumnos sean los encargados de investigar y preparar las cosas. 
 
-P. Entonces, ¿confirma que mediante el uso del podcast se puede lograr un aprendizaje más activo dentro de las aulas?
+P. Entonces, ¿mediante el uso del podcast se puede lograr un aprendizaje más activo dentro de las aulas?
 
 R. Sí, hay institutos que han pasado por el programa y después me han comentado que lo han usado para escucharse y corregirse. O que incluso han oído programas en los que no han participado ellos. Sin embargo, el tener a los niños en un aula sólo escuchando y sin poner en marcha otros sentidos como la vista resulta complicado. Podría ser útil para ampliar información y profundizar en los temas que les interesen. 
 
