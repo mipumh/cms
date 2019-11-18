@@ -21,13 +21,13 @@ P. Entonces, ¿es el podcast un nicho especializado que se ajusta mejor al oyent
 
 R. Sí, porque los fanáticos de la radio tienen más posibilidades para escucharla. Además, tengo muchos amigos a los que les encanta la ciencia ficción, los videojuegos o la tecnología y no hay programas especializados en estos ámbitos. Por lo tanto, **es la oportunidad que tenemos de que los jóvenes escuchen radio.** 
 
-P. ¿Cómo surge **Reacción en Cadena** el programa que usted ha creado en Onda Regional de Murcia?
+P. ¿Cómo surge **Reacción en Cadena,** el programa que usted ha creado en Onda Regional de Murcia?
 
 R. Tenía que hacer un proyecto para el Máster de Innovación en Periodismo y en la radio nos habíamos quedado sin programa de ciencia. Entonces decidí preparar uno pero que fuese distinto a lo que se había hecho hasta el momento en Murcia. El matiz que le diferencia, aparte de que le pongo un poco de sentido del humor, es que participan estudiantes. Tengo críos de 12 a 18 años que me ayudan a divulgar ciencia y la verdad es que con ellos se aprende un montón. 
 
 ![](/images/shots/reaccion-en-cadena.jpg)
 
-P. ¿Qué pretendía con el nombre del programa?
+**P. ¿Qué pretendía con el nombre del programa?**
 
 R. No se me ocurrió a mí el nombre, sino que me puse a mirar canciones que tuviesen una temática de ciencia. Quería tener una sintonía principal que incluyese algo relacionado con este ámbito. Entonces encontré la canción Chain reaction de Diana Ross, una composición de los años 80 que me gustó muchísimo. Además, la cadena siempre se relaciona con la radio. Es como si usas la palabra onda que ya te evoca a este medio. De esta manera, la idea era despertar el virus de la wikipedia, que la gente no se conforme con lo que ha escuchado en la radio, sino que tengan curiosidad en buscar más cosas. 
 
