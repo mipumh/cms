@@ -5,6 +5,8 @@ title: >-
   System
 new_author: Cristian Ramón Marín Sanchiz
 ---
+![Periodismo como Product-service System ](/images/shots/periodismo-product-service-system.jpg "Periodismo como Product-service System ")
+
 Los contenidos de calidad y el pago de los lectores tienen un gran protagonismo en la economía de los medios más innovadores. Cabeceras como el _Financial Times_ o _The Wall Street Journal_ demuestran que ofrecer un gran valor a los lectores favorece la sostenibilidad, pero una porción significativa del sector sufre dificultades para encontrar un modelo de futuro. Solo en Estados Unidos [se han perdido cerca de 28.000 puestos de trabajo en redacciones durante la última década](https://www.pewresearch.org/fact-tank/2019/07/09/u-s-newsroom-employment-has-dropped-by-a-quarter-since-2008/), mientras que en España, de acuerdo con [el último Informe de la Profesión Periodística](https://www.apmadrid.es/wp-content/uploads/2019/03/La-mujer-en-el-periodismo-Informe-2018.pdf), el empleo pasa por una fase estable. Hay motivos para ser optimistas, pero también para mantenerse alerta. Ante un contexto tan complejo, lo único claro es que el periodismo está obligado a alejarse del romanticismo para abrazar la visión empresarial si quiere sobrevivir y cumplir con su función social. Y, en este cometido tan ambicioso, puede resultar de gran ayuda el desarrollo de Product-Service Systems (PSS). 
 
 **El periodismo como producto**
@@ -44,6 +46,8 @@ Según José Manuel Rodríguez, productos y servicios periodísticos están muy 
 De acuerdo con Pau Llop, la aproximación a los PSS no supone ninguna aportación innovadora por parte de la profesión: “Si abrimos el foco veremos que esto tampoco es ninguna innovación, más bien es una llegada tardía a un modelo ya presente en otras industrias, como la banca con los seguros, o la distribución con la producción”. 
 
 Este experto en periodismo emprendedor advierte de que el negocio periodístico ha funcionado al contrario que otras industrias. “Un ejemplo inmejorable son las marcas blancas: el servicio de venta te crea el producto. En nuestro caso es al revés, el creador del producto se inventa servicios orbitando en torno a su producto informativo y tratando de aprovechar todas las sinergias posibles de su propia producción”, y alude a The Correspondent, un medio en el que los lectores participan en la creación del producto informativo planteando preguntas y proponiendo puntos de vista mientras los periodistas obtienen información sobre el campo que están investigando: “El usuario consume un producto informativo que ha contribuido a crear o cuyo proceso de creación ha consumido como un servicio”.
+
+![Periodismo como Product-service System ](/images/shots/periodismo-product-service-system.png "Periodismo como Product-service System ")
 
 En un escenario con margen para la aparición de nuevos productos y servicios, el gran reto de la industria periodística pasa por la creación de valor. Durante los últimos tiempos, la[ investigación académica y la industria se han centrado centrado en explorar nuevas fuentes de ingresos](http://journals.sfu.ca/indexcomunicacion/index.php/indexcomunicacion/article/view/525), como los muros de pago, pero lo cierto es que muy pocos usuarios ofrecerán dinero por un producto que no aporte algo relevante, de impacto para sus vidas. Si Netflix ha tenido éxito es porque se ha preocupado por proporcionar un entretenimiento perfecto para distintos segmentos de clientes.
 
