@@ -33,7 +33,7 @@ Pau Llop, profesor del Máster en Innovación en Periodismo y experto en emprend
 
 En resumen, el periodismo tradicionalmente ofrecía productos cerrados y, a causa de los cambios en el mercado, se vio obligado a diversificar ingresos a través de servicios que han demostrado buenos resultados para generar valor. Y, de forma paralela, el desarrollo de productos periodísticos está en auge gracias a la innovación. Funcionan nuevos productos, funcionan nuevos servicios.
 
-**Más que un producto y más que un servicio: los Product-Service Systems (PSS)**
+## **Más que un producto y más que un servicio: los Product-Service Systems (PSS)**
 
 Los Product-Service Systems (PSS) se pueden definir como soluciones integradoras que combinan los beneficios de vender un producto, ya sea físico o digital, con la prestación de servicios, de forma que se incrementa el valor ofrecido al cliente y se favorece la sostenibilidad de la empresa. Este tipo de propuestas, en esencia, combinan los beneficios de crear productos y ofrecer servicios al tiempo que se fomentan una interacción más cercana con el cliente y se reducen costes. 
 
