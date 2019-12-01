@@ -43,8 +43,8 @@ Varios expertos reivindican la necesidad de implantar un programa intensivo de a
 
 \- ¿Confías en la fuente?
 
-\- ¿Puedes encontrar otras imágenes que corroboren el contenido del video?
+\- ¿Puedes encontrar otras imágenes que corroboren el contenido del vídeo?
 
-\- ¿Cómo se puede examinar la ubicación geográfica, la fecha de la grabación, la geolocalización y todo tipo de metadatos?
+\- ¿Puedes comprobar la ubicación geográfica, la fecha de grabación, la geolocalización y otro tipo de metadatos?
 
 Nuestra experiencia de lo que sucede en el mundo y nuestra capacidad para tomar decisiones al respecto depende de que la información a la que accedemos sea veraz. Cuando se difunden masivamente contenidos falsos que se hacen pasar por auténticos, **el riesgo de manipulación es muy elevado, con perversas consecuencias en la opinión pública**. El problema que plantean los  _deepfakes_ y otras técnicas sofisticadas de desinformación es de qué modo los legisladores y las instituciones pueden preservar el derecho a la información veraz y restringir las técnicas de manipulación de contenidos sin entrar en conflicto con la libertad de expresión y sin ejercer un control contraproducente en internet. Medios y periodistas comparten la responsabilidad de combatir la desinformación generada por estos vídeos cada vez mejor elaborados, **con objeto de salvaguardar la calidad del debate en las sociedades democráticas**.
