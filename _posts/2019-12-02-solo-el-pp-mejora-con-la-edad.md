@@ -6,6 +6,7 @@ subtitle: >-
   partidos mayoritarios, aunque el PP consigue mejores resultados que el PSOE en
   las zonas censales con una población más envejecida
 new_author: Enrique Fernández Arques
+categories: '#resultados'
 ---
 ![](/images/shots/l2.png)
 
