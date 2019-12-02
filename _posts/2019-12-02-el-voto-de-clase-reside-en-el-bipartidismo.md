@@ -7,6 +7,8 @@ subtitle: >-
 new_author: Verónica Maciá Richarte
 categories: '#Resultados'
 ---
+![](/images/shots/l1.png)
+
 Los factores económicos pueden influir en el voto, y la renta per cápita y el cobro del desempleo son dos de los elementos que más inciden en la decisión de a qué partido político se entrega la confianza. La repetición de elecciones generales el pasado 10 de noviembre ha llevado a la población al desconcierto y al hastío. Si el 28 de abril votó el 75,69%  de los ilicitanos, dentro de la media nacional, seis meses después la participación descendió en 4.35 puntos, situándose en el 71,34%, aun así casi un punto y medio por encima del total de España.
 
 ## La renta per cápita afecta a PSOE y PP mientras el voto al resto de partidos aparentemente es inmune a este dato
