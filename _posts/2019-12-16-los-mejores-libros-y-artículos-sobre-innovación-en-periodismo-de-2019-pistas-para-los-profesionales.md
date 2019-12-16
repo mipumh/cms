@@ -94,7 +94,7 @@ Confiar en la audiencia para que contribuya con datos (crowdsourcing) es uno de 
 
 **Andoni Orrantia (CEU San Pablo, COPE)**
 
-En Estados Unidos se crearon cada día 100 podcasts durante 2018. Para los jóvenes con móviles inteligentes que nunca tendrán una radio, estos contenidos sonoros bajo demanda representan “su radio” y crean comunidad. Los podcasts cuentan, sin intermediarios, historias emocionalmente complejas, reales o inventadas. Ofrecen claridad dentro del caos y generalmente son fruto de un largo proceso de creación. En este libro encontrarás numerosos ejemplos y las claves para producir con éxito estas historias que mueven y conmueven.
+En Estados Unidos se crearon cada día 100 podcasts durante 2018. Para los jóvenes con móviles inteligentes que nunca tendrán una radio, estos contenidos sonoros bajo demanda representan “su radio” y crean comunidad. Los podcasts cuentan, sin intermediarios, historias emocionalmente complejas, reales o inventadas. Ofrecen claridad dentro del caos y generalmente son fruto de un largo proceso de creación. En este libro encontrarás numerosos ejemplos y **claves para producir con éxito estas historias que mueven y conmueven**.
 
 \***\*[**Análisis del nivel de inmersión de los reportajes en vídeo en 360º producidos por medios periodísticos españoles**](https://www.unav.edu/publicaciones/revistas/index.php/communication-and-society/article/view/37849/32096)\*\***
 
