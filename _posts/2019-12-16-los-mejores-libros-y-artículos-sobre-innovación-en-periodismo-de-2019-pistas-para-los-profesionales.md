@@ -24,7 +24,7 @@ El impacto social de la desinformación en la Sociedad Red, alimentado por el ef
 
 La transferencia de conocimiento es indispensable para potenciar las buenas prácticas y mejorar los resultados en las organizaciones periodísticas. Este proceso permite que la cultura de las empresas sea cada vez más innovadora y los profesionales entiendan la necesidad de adaptarse al cambio constante. Mediante la observación y entrevistas con los responsables de El Confidencial, Vocento, Civio y WeblogsSL, los autores exploran la importancia de la transferencia del conocimiento, qué métodos se emplean para encauzarla y qué obstáculos y potenciadores intervienen en el proceso. 
 
-![](/images/shots/modelos-suscripcion.jpg)
+![](/images/shots/modelos-de-suscripcion.jpg)
 
 \***\*[**Los medios ante los modelos de suscripción. Barcelona: UOC.
 **](http://www.editorialuoc.cat/los-medios-ante-los-modelos-de-suscripcion)\*\***
@@ -42,7 +42,7 @@ Los medios siguen inmersos en una permanente transformación a raíz de los camb
 
 La crisis en el sector mediático propicia el nacimiento de proyectos que buscan aprovechar el capital social y simbólico, así como fidelizar a sus audiencias. Este artículo analiza los casos de dos nativos digitales: eldiario.es y elconfidencial.com. Los resultados indican que ambos medios se consideran proveedores alternativos de noticias, con énfasis en la investigación periodística, que identifican como una señal diferenciadora de ambas marcas periodísticas, orientadas a crear comunidades de lectores fieles.
 
-****[**Automatización, bots y algoritmos en la redacción de noticias. Impacto y calidad del periodismo artificial**](http://www.revistalatinacs.org/074paper/1391/74es.html)****
+\***\*[**Automatización, bots y algoritmos en la redacción de noticias. Impacto y calidad del periodismo artificial**](http://www.revistalatinacs.org/074paper/1391/74es.html)\*\***
 
 **José Miguel Túñez-López, Carlos Toural (Universidad de Santiago) y Cesibel Valdiviezo (Universidad Técnica Particular de Loja)** (Revista Latina de Comunicación)
 
@@ -50,13 +50,13 @@ La implantación en los medios del periodismo basado en Inteligencia Artificial 
 
 ![](/images/shots/unfaking-news.jpg)
 
-****[**Unfaking News. Cómo combatir la desinformación. Madrid, Pirámide.**](https://unfakingnews.com/)****
+\***\*[**Unfaking News. Cómo combatir la desinformación. Madrid, Pirámide.**](https://unfakingnews.com/)\*\***
 
 **Raúl Magallón, Universidad Carlos III de Madrid**
 
 Según algunas estimaciones, en 2022 los contenidos falsos superarán a los verdaderos en Occidente. La desinformación mediante empresas especializadas, como en el caso de Cambridge Analytica, o la manipulación de los procesos electorales, como en las elecciones norteamericanas, el referéndum ilegal del 1 de octubre en Cataluña o el referéndum sobre el Brexit en Reino Unido, revelan la influencia de estas estrategias para desestabilizar a la opinión pública. Magallón **analiza el papel de las falsedades en las políticas de desinformación e investiga sobre quiénes las generan y cuáles son sus objetivos**. Esta obra contribuye a comprender que nosotros mismos podemos contribuir, sin advertirlo, a dar visibilidad a los bulos en las campañas de desinformación. 
 
-****[**Rocking the Boat: Proposing a Participatory Business Model for News**](https://journals.uio.no/TJMI/article/view/6561)****
+\***\*[**Rocking the Boat: Proposing a Participatory Business Model for News**](https://journals.uio.no/TJMI/article/view/6561)\*\***
 
 **Lene Pettersen (University of Oslo) y Arne H. Krumsvik (Kristiania University College), The Journal of Media Innovations** 
 
@@ -64,25 +64,25 @@ Los autores analizan cómo las estrategias de innovación relacionadas con la co
 
 ![](/images/shots/transformacion-de-la-radio.jpg)
 
-****[**La transformación digital de la radio. Diez claves para su comprensión profesional y académica. Valencia: Tirant Humanidades.**](https://www.tirant.com/editorial/ebook/la-transformacion-digital-de-la-radio-herrera-damas-susana-9788417973261)****
+\***\*[**La transformación digital de la radio. Diez claves para su comprensión profesional y académica. Valencia: Tirant Humanidades.**](https://www.tirant.com/editorial/ebook/la-transformacion-digital-de-la-radio-herrera-damas-susana-9788417973261)\*\***
 
 **Luis Miguel Pedrero (Universidad Nebrija) y José Mª García-Lastra (Cristaliza) (Coords.)**
 
 Esta obra identifica y sistematiza las claves sobre las que la industria radiofónica articula su propia transformación digital **para afrontar las exigencias de unos oyentes convertidos en usuarios activos**. Se trata de una obra colectiva que combina las reflexiones y experiencias de profesionales e investigadores académicos: 23 profesores de 17 universidades españolas y de 12 profesionales del sector avalan la envergadura de un libro muy completo, referencia obligatoria para conocer las innovaciones en el medio radiofónico.
 
-****[**La automatización en las coberturas deportivas. Estudio de caso del bot creado por The Washington Post durante los JJ.OO. de Río 2016 y Pyeongchang 2018**](http://www.revistalatinacs.org/074paper/1407/90es.html)****
+\***\*[**La automatización en las coberturas deportivas. Estudio de caso del bot creado por The Washington Post durante los JJ.OO. de Río 2016 y Pyeongchang 2018**](http://www.revistalatinacs.org/074paper/1407/90es.html)\*\***
 
 **Jose Luis Rojas Torrijos, Universidad de Sevilla** (Revista Latina de Comunicación)
 
 Una treintena de medios internacionales, entre ellos AP, Reuters y The Washington Post, ya utilizan la inteligencia artificial para la producción automática de noticias. Prolifera el uso de bots y algoritmos en las coberturas deportivas, favorecido por el gran volumen de datos y el carácter cíclico de las competiciones. El profesor Rojas analiza el caso del bot creado por el Post en sus coberturas de los Juegos Olímpicos de 2016 y 2018 en Twitter y concluye que la Inteligencia Artificial es útil en estas coberturas y complementa la labor de los reporteros, que pueden dedicarse a tareas más creativas.
 
-****[**Algoritmos y bots aplicados al periodismo. El caso de Narrativa Inteligencia Artificial: estructura, producción y calidad informativa**](http://www.doxacomunicacion.es/es/hemeroteca/articulos?id=318)****
+\***\*[**Algoritmos y bots aplicados al periodismo. El caso de Narrativa Inteligencia Artificial: estructura, producción y calidad informativa**](http://www.doxacomunicacion.es/es/hemeroteca/articulos?id=318)\*\***
 
 **María José Ufarte y Juan Luis Manfredi, Universidad Castilla La Mancha** (Doxa Comunicación)
 
 El artículo describe la organización, los procesos de trabajo y la calidad de las noticias elaboradas por Narrativa Inteligencia Artificial, la única empresa española que redacta textos periodísticos a través de un software, Gabriele, para distribuirlos a diferentes medios. La investigación se basa en entrevistas a cuatro profesionales de la compañía, observación participante durante el proceso de creación de una noticia automatizada y un cuestionario online para valorar la calidad de los textos que produce. Los resultados muestran que Narrativa Inteligencia Artificial incrementa la productividad de los contenidos, aunque todavía no genera textos complejos, una cualidad humana de entre las muchas de las que adolecen los robots.
 
-****[**Interactuando sin aportar: el infructuoso crowdsourcing periodístico en España** ](https://revistas.ucm.es/index.php/ESMP/article/view/64792)****
+\***\*[**Interactuando sin aportar: el infructuoso crowdsourcing periodístico en España **](https://revistas.ucm.es/index.php/ESMP/article/view/64792)\*\***
 
 **Ester Appelgren (Södertörn University) y Ramón Salaverría (Universidad de Navarra)** Estudios sobre el mensaje periodístico
 
@@ -90,25 +90,25 @@ Confiar en la audiencia para que contribuya con datos (crowdsourcing) es uno de 
 
 ![](/images/shots/podcast.jpg)
 
-****[**Diez claves para contar buenas historias en podcast. O cómo producir contenidos en un entorno digital cambiante. Barcelona: UOC**](http://www.editorialuoc.cat/diez-claves-para-contar-buenas-historias-en-podcast)****
+\***\*[**Diez claves para contar buenas historias en podcast. O cómo producir contenidos en un entorno digital cambiante. Barcelona: UOC**](http://www.editorialuoc.cat/diez-claves-para-contar-buenas-historias-en-podcast)\*\***
 
 **Andoni Orrantia (CEU San Pablo, COPE)**
 
 En Estados Unidos se crearon cada día 100 podcasts durante 2018. Para los jóvenes con móviles inteligentes que nunca tendrán una radio, estos contenidos sonoros bajo demanda representan “su radio” y crean comunidad. Los podcasts cuentan, sin intermediarios, historias emocionalmente complejas, reales o inventadas. Ofrecen claridad dentro del caos y generalmente son fruto de un largo proceso de creación. En este libro encontrarás numerosos ejemplos y las claves para producir con éxito estas historias que mueven y conmueven.
 
-****[**Análisis del nivel de inmersión de los reportajes en vídeo en 360º producidos por medios periodísticos españoles**](https://www.unav.edu/publicaciones/revistas/index.php/communication-and-society/article/view/37849/32096)****
+\***\*[**Análisis del nivel de inmersión de los reportajes en vídeo en 360º producidos por medios periodísticos españoles**](https://www.unav.edu/publicaciones/revistas/index.php/communication-and-society/article/view/37849/32096)\*\***
 
 **María José Benítez y Susana Herrera, Universidad Carlos III de Madrid,** (Communication & Society)
 
 El artículo analiza el nivel de inmersión en los vídeos en 360º producidos por los medios españoles. Las autoras describen los fundamentos sobre los que se sostiene el periodismo inmersivo y el reportaje en vídeo en 360º, y proponen una escala para medir el nivel de inmersión en este tipo de piezas. Aplican esta escala en una muestra de 148 reportajes en vídeo en 360º publicados entre 2015 y 2017. Los resultados plantean una serie de buenas prácticas, útiles para profesionales y académicos.
 
-****[**La innovación multimedia e interactiva en el ciberperiodismo argentino**](https://revistadecomunicacion.com/article/view/1032)****
+\***\*[**La innovación multimedia e interactiva en el ciberperiodismo argentino**](https://revistadecomunicacion.com/article/view/1032)\*\***
 
 **Jorge Vázquez-Herrero, Cruz Negreira-Rey y Xosé López-García, Universidad de Santiago,** (Revista de Comunicación)
 
 Este artículo presenta un estudio de caso de cuatro medios argentinos: La Nación, La Capital, La Voz del Interior y Clarín, identificando sus elementos innovadores y entrevistando a profesionales del área digital. A nivel global, los medios en Argentina muestran un carácter innovador, aunque inestable. Según los autores, la búsqueda de un modelo sostenible, la dotación de medios económicos, tecnológicos y humanos para el área digital y una apuesta estratégica de las empresas pueden aportar lo necesario para garantizar su consolidación en la red.
 
-****[**Reporting with WhatsApp: Mobile Chat Applications’ Impact on Journalistic Practices**](https://www.researchgate.net/publication/332144250_Reporting_with_WhatsApp_Mobile_Chat_Applications'_Impact_on_Journalistic_Practices)****
+\***\*[**Reporting with WhatsApp: Mobile Chat Applications’ Impact on Journalistic Practices**](https://www.researchgate.net/publication/332144250_Reporting_with_WhatsApp_Mobile_Chat_Applications'_Impact_on_Journalistic_Practices)\*\***
 
 **Tomás Dobbs (Leiden University),** Digital Journalism
 
@@ -116,7 +116,7 @@ Este artículo analiza los incentivos por los que los periodistas utilizan Whats
 
 ![](/images/shots/crisis-informativo-tv.png)
 
-****[**La crisis del informativo televisivo. Cómo innovar en los formatos audiovisuales**](https://mip.umh.es/blog/2019/05/10/nuevo-libro-informativo-television-innovar-formatos/)****
+\***\*[**La crisis del informativo televisivo. Cómo innovar en los formatos audiovisuales**](https://mip.umh.es/blog/2019/05/10/nuevo-libro-informativo-television-innovar-formatos/)\*\***
 
 **Jose A. García Avilés, Isabel González, Alba García y Jose Mª Valero (eds.),** Máster en Innovación en Periodismo 
 
