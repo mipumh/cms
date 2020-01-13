@@ -4,14 +4,14 @@ title: >-
   Ana López (periodista móvil): “Trabajar con el móvil tiene muchas ventajas.
   Puedo grabar y editar mi historia y no necesito pisar una redacción”
 ---
-<!--\\\\\[if gte mso 9]><xml>
+<!--\\\\\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:RelyOnVML/>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\\\\\[endif]-->
+</xml><!\\\\\\[endif]-->
 
-<!--\\\\\[if gte mso 9]><xml>
+<!--\\\\\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -51,9 +51,9 @@ title: >-
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\\\\\[endif]-->
+</xml><!\\\\\\[endif]-->
 
-<!--\\\\\[if gte mso 9]><xml>
+<!--\\\\\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="371">
@@ -622,9 +622,9 @@ title: >-
   <w:LsdException Locked="false" Priority="52"
    Name="List Table 7 Colorful Accent 6"/>
  </w:LatentStyles>
-</xml><!\\\\\[endif]-->
+</xml><!\\\\\\[endif]-->
 
-<!--\\\\\[if gte mso 10]>
+<!--\\\\\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -651,7 +651,7 @@ title: >-
 	mso-bidi-theme-font:minor-bidi;
 	mso-fareast-language:EN-US;}
 </style>
-<!\\\\\[endif]-->
+<!\\\\\\[endif]-->
 
 <!--StartFragment-->
 
@@ -671,15 +671,15 @@ No sabría decir ninguno exactamente, ya que todavía tenemos que experimentar e
 
 3. ¿Cómo se debe llevar a cabo la innovación en los medios para que sea realmente eficaz?
 
-Ojalá tuviese esa clave; entonces no sería una “autónoma precaria”, como suelo autodenominarme. Lo que sí sé es **que [no hay que tener miedo a experimentar y a equivocarnos, y de eso aprendemos al final, con el método prueba-error](<>).**
+Ojalá tuviese esa clave; entonces no sería una “autónoma precaria”, como suelo autodenominarme. Lo que sí sé es **que no hay que tener miedo a experimentar y a equivocarnos, y de eso aprendemos al final, con el método prueba-error.**
 
 4. ¿Cree que en el periodismo español se innova poco o mucho?
 
 España siempre ha ido “a remolque”, no solo en periodismo, sino en todo, como por ejemplo en el ámbito del entretenimiento. **Hasta que no vemos que es exitoso en otros sitios, no apostamos por “romper” aquí**. Sabemos que, si se apuesta, cuesta más, y ese es el miedo que hay en España. También es verdad que en este país te señalan cuando fracasas, algo que en otros países no pasa. Se trata de ir aprendiendo.
 
-5. Centrándonos en usted, se presenta como [periodista móvil](https://periodistamovil.com/). ¿Cuáles son las ventajas de su forma de trabajar que no es posible encontrar en el periodismo tradicional?
+5. Usted se presenta como [periodista móvil](https://periodistamovil.com/). ¿Cuáles son las ventajas de su forma de trabajar que no es posible encontrar en el periodismo tradicional?
 
-A la hora de trabajar con un móvil tenemos muchísimas ventajas. Tenemos acceso a la historia completa desde un mismo dispositivo. **[Yo puedo grabar y editar mi historia, y no necesito pisar una redacción](<>),** y puedo contarla desde donde está pasando. Además, como freelance, invertir en un equipo es mucho más barato. Si yo voy a determinados lugares, el móvil es menos invasivo, porque todo el mundo está acostumbrado a hablar, hacerse fotos o vídeos con él. Sin embargo, aparecer con una cámara grande intimida más. El hecho de poder contar mi propia historia como yo quiero, y editarla en el momento, da muchas ventajas y mucha versatilidad.
+A la hora de trabajar con un móvil tenemos muchísimas ventajas. Tenemos acceso a la historia completa desde un mismo dispositivo. **Yo puedo grabar y editar mi historia, y no necesito pisar una redacción,** y puedo contarla desde donde está pasando. Además, como freelance, invertir en un equipo es mucho más barato. Si voy a determinados lugares, el móvil es menos invasivo, porque todo el mundo está acostumbrado a hablar, hacerse fotos o vídeos con él. Sin embargo, aparecer con una cámara grande intimida más. El hecho de poder contar mi propia historia como yo quiero, y editarla en el momento, da muchas ventajas y mucha versatilidad.
 
 ## **Ana López: “Hay gente reticente a utilizar la tecnología móvil por la creencia de que hace desaparecer puestos de trabajo. Hay ejemplos en España de que eso no es así”**
 
@@ -693,7 +693,7 @@ Es muy difícil. Visto lo visto, la gente va al morbo y al infoentretenimiento, 
 
 ![](/images/shots/grabando-mojo-bn.png)
 
-8.  ¿Cómo pueden los periodistas innovar en su modo de trabajo como Mojo, en su manera de plantear, grabar y editar informaciones?
+8. ¿Cómo pueden los periodistas innovar en su modo de trabajo como Mojo, en su manera de plantear, grabar y editar informaciones?
 
 Lo primero que tienen que hacer es abrir la mente. He impartido formaciones internas dentro de algunos medios, y hay personas reticentes a utilizar el móvil como herramienta de trabajo. **Uno tiene que ver las posibilidades con las que cuenta**. Por ejemplo, trabajando en un informativo, puedes completar las imágenes grabadas por el compañero cámara con lo que hayas grabado con el móvil. No tiene por qué estar reñido, se pueden utilizar ambos recursos.
 
@@ -701,16 +701,16 @@ Lo primero que tienen que hacer es abrir la mente. He impartido formaciones inte
 
 9. La creciente desinformación ante las noticias falsas y los bulos amenazan la credibilidad de los medios. ¿Cómo deben los periodistas afrontar estos problemas?
 
-**[Hay que seguir sacando los bulos a la luz, combatirlos y refutarlos. Hay que decir qué es mentira y por qué con sus argumentos](<>)**. Este problema es peligroso porque mucha gente se queda con el primer titular de bulo que le llega, por lo que hay que trabajar este tema.Hay que machacar con la verdad siempre. Cada día pasan cosas, e incluso en los chats familiares se comparten bulos como rutina, y como periodistas hay que combatirlo (aunque se entre en discusiones de redes sociales que no apetecen) y decir que es mentira. Lo tenemos dentro de nosotros y así lo debemos luchar.
+**Hay que seguir sacando los bulos a la luz, combatirlos y refutarlos. Hay que decir qué es mentira y por qué con sus argumentos**. Este problema es peligroso porque mucha gente se queda con el primer titular de bulo que le llega, por lo que hay que trabajar este tema.Hay que machacar con la verdad siempre. Cada día pasan cosas, e incluso en los chats familiares se comparten bulos como rutina, y como periodistas hay que combatirlo (aunque se entre en discusiones de redes sociales que no apetecen) y decir que es mentira. Lo tenemos dentro de nosotros y así lo debemos luchar.
 
-10. Trabaja como periodista freelance, por lo que gestiona su propio tiempo y su trabajo. \\*\\*¿Es el periodismo freelance un ideal al que se aspira para que cada profesional desempeñe su trabajo de forma autónoma?
+10. Trabaja como periodista freelance, por lo que gestiona su propio tiempo y su trabajo. \*\*¿Es el periodismo freelance un ideal al que se aspira para que cada profesional desempeñe su trabajo de forma autónoma?
 
 Ser freelance tiene sus cosas buenas y malas. Como ya he dicho, más que freelance me considero “autónoma precaria”. **Lo bueno de trabajar en un medio es tener una nómina y una seguridad mensual, pero lo bueno de ser freelance es que tú gestionas tu tiempo**. Muchas veces eso es difícil, porque nunca sabes cuándo puede llegar una época de “vacas flacas”. Vas diciendo que sí a trabajos y llega un momento en el que estás desbordada, y sigues con ello a costa de tu vida personal. A las empresas les viene mejor que seamos freelance, porque se ahorran mucho dinero. Todo depende de cada uno. Lo ideal es que sea una elección y no una obligación.
 
 11. ¿Cree que así se puede hacer un periodismo más independiente que estando vinculado a un canal de televisión?
 
-Sí, pero el problema sería donde venderlo. Yo puedo hacer mis reportajes, que pueden ser para vender o para difundirlos yo. Y claro, hace falta un trabajo que pague tus facturas, y luego poder contar esas historias que no sabes si te van a comprar. Como freelance llegas a un acuerdo para poder empezar tus temas, no se hace el tema y luego se vende. Todo viene determinado por un proceso.
+Sí, pero el problema sería dónde venderlo. Yo puedo hacer mis reportajes, para venderlos o para difundirlos yo misma. Y hace falta un trabajo que pague tus facturas, y también poder contar esas historias que no sabes si te van a comprar. Como freelance llegas a un acuerdo para poder empezar tus temas, no se hace primero el tema y luego se vende. Todo viene determinado por un proceso.
 
-**12**. Por último y de cara al futuro, **¿cuáles son los próximos retos que se plantea a nivel profesional?**
+**12**. Por último , **¿cuáles son los próximos retos que se plantea a nivel profesional?**
 
-**Quiero seguir haciendo visible el mundo del periodismo móvil**. Hacer ver a la gente que tiene calidad suficiente como para poder trabajar en televisión o en medios locales pequeños, y a invertir en su plataforma audiovisual sin un gran esfuerzo económico. Aspiro a llegar a contar mis propias historias, vendibles o no, pero las que yo quiero, con una seguridad económica.
+**Quiero seguir haciendo visible el mundo del periodismo móvil**. Hacer ver a la gente que tiene calidad suficiente como para trabajar en televisión o en medios locales pequeños, y a invertir en su plataforma audiovisual sin un gran esfuerzo económico. Aspiro a llegar a contar mis propias historias, vendibles o no, pero las que yo quiero, con una seguridad económica.
