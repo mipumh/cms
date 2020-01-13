@@ -4,14 +4,14 @@ title: >-
   Ana López (periodista móvil): “Trabajar con el móvil tiene muchas ventajas.
   Puedo grabar y editar mi historia y no necesito pisar una redacción”
 ---
-<!--\\\\[if gte mso 9]><xml>
+<!--\\\\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:RelyOnVML/>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\\\\[endif]-->
+</xml><!\\\\\[endif]-->
 
-<!--\\\\[if gte mso 9]><xml>
+<!--\\\\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -51,9 +51,9 @@ title: >-
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\\\\[endif]-->
+</xml><!\\\\\[endif]-->
 
-<!--\\\\[if gte mso 9]><xml>
+<!--\\\\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="371">
@@ -622,9 +622,9 @@ title: >-
   <w:LsdException Locked="false" Priority="52"
    Name="List Table 7 Colorful Accent 6"/>
  </w:LatentStyles>
-</xml><!\\\\[endif]-->
+</xml><!\\\\\[endif]-->
 
-<!--\\\\[if gte mso 10]>
+<!--\\\\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -651,7 +651,7 @@ title: >-
 	mso-bidi-theme-font:minor-bidi;
 	mso-fareast-language:EN-US;}
 </style>
-<!\\\\[endif]-->
+<!\\\\\[endif]-->
 
 <!--StartFragment-->
 
@@ -689,11 +689,13 @@ El móvil no es para todo, y tiene sus limitaciones. Por ejemplo, **retransmitir
 
 7. La guerra por las audiencias y la lucha por la inmediatez informativa condiciona el trabajo en los medios de comunicación. ¿Cuál es la clave para acertar a la hora de contar historias audiovisuales y atraer a la audiencia, sin caer en el morbo ni el infoentretenimiento?
 
-Es muy difícil. Visto lo visto, la gente va al morbo y al infoentretenimiento, y da igual si es verdad o mentira. Considero que **desde los medios de comunicación hay que educar y hacer un esfuerzo mayor para acostumbrar a la audiencia a consumir información más trabajada y contrastada**. Pero claro, para hacer este tipo de información necesitamos tiempo, por lo que nos peleamos con la inmediatez, que es lo que nos ha aportado la tecnología, pero es costosa. **Hay que apostar más por la calidad, la veracidad y la rigurosidad, que por ser el primero, lo que conlleva un riesgo muy grande de equivocación.**
+Es muy difícil. Visto lo visto, la gente va al morbo y al infoentretenimiento, y da igual si es verdad o mentira. Considero que **desde los medios de comunicación hay que educar y hacer un esfuerzo mayor para acostumbrar a la audiencia a consumir información más trabajada y contrastada**. Pero claro, para hacer este tipo de información necesitamos tiempo, por lo que nos peleamos con la inmediatez, que es lo que nos ha aportado la tecnología, pero es costosa. **Hay que apostar más por la calidad, la veracidad y la rigurosidad que por ser el primero, lo que conlleva un riesgo muy grande de equivocación.**
 
-8. Ha impartido cursos de periodismo móvil en la Escuela de Comunicación de Unidad Editorial y en Atresmedia Formación. ¿Cómo pueden los periodistas innovar en su modo de trabajo como Mojo, en su manera de plantear, grabar y editar informaciones?
+![](/images/shots/grabando-mojo-bn.png)
 
-Lo primero que tienen que hacer es abrir la mente. He impartido formaciones internas dentro de algunos medios, y hay personas reticentes a utilizar el móvil como herramienta de trabajo. **Uno tiene que ver las posibilidades con las que cuenta**.Por ejemplo, trabajando en un informativo, puedes completar las imágenes grabadas por el compañero cámara con lo que hayas grabado con el móvil. No tiene por qué estar reñido, se pueden utilizar ambos recursos.
+8.  ¿Cómo pueden los periodistas innovar en su modo de trabajo como Mojo, en su manera de plantear, grabar y editar informaciones?
+
+Lo primero que tienen que hacer es abrir la mente. He impartido formaciones internas dentro de algunos medios, y hay personas reticentes a utilizar el móvil como herramienta de trabajo. **Uno tiene que ver las posibilidades con las que cuenta**. Por ejemplo, trabajando en un informativo, puedes completar las imágenes grabadas por el compañero cámara con lo que hayas grabado con el móvil. No tiene por qué estar reñido, se pueden utilizar ambos recursos.
 
 ## **Ana López: “Hay que seguir sacando los bulos a la luz, combatirlos y refutarlos. Hay que decir qué es mentira y por qué con sus argumentos”**
 
@@ -701,9 +703,9 @@ Lo primero que tienen que hacer es abrir la mente. He impartido formaciones inte
 
 **[Hay que seguir sacando los bulos a la luz, combatirlos y refutarlos. Hay que decir qué es mentira y por qué con sus argumentos](<>)**. Este problema es peligroso porque mucha gente se queda con el primer titular de bulo que le llega, por lo que hay que trabajar este tema.Hay que machacar con la verdad siempre. Cada día pasan cosas, e incluso en los chats familiares se comparten bulos como rutina, y como periodistas hay que combatirlo (aunque se entre en discusiones de redes sociales que no apetecen) y decir que es mentira. Lo tenemos dentro de nosotros y así lo debemos luchar.
 
-10. Trabaja como periodista freelance, por lo que gestiona su propio tiempo y su trabajo. \\\*\\\*¿Es el periodismo freelance un ideal al que se aspira para que cada profesional desempeñe su trabajo de forma autónoma?
+10. Trabaja como periodista freelance, por lo que gestiona su propio tiempo y su trabajo. \\*\\*¿Es el periodismo freelance un ideal al que se aspira para que cada profesional desempeñe su trabajo de forma autónoma?
 
-Ser freelance tiene sus cosas buenas y malas. Como ya he dicho, más que freelance me autodenomino “autónoma precaria”. **Lo bueno de trabajar en un medio es tener una nómina y una seguridad mensual, pero lo bueno de ser freelance es que tu gestionas tu tiempo**. Muchas veces eso es difícil, porque nunca sabes cuándo puede llegar una época de “vacas flacas”. Vas diciendo que sí a trabajos y llega un momento en el que estás desbordada, y sigues con ello a costa de tu vida personal. A las empresas les viene mejor que seamos freelance, porque se ahorran mucho dinero. Todo depende de cada uno. Lo ideal es que sea una elección y no una obligación.
+Ser freelance tiene sus cosas buenas y malas. Como ya he dicho, más que freelance me considero “autónoma precaria”. **Lo bueno de trabajar en un medio es tener una nómina y una seguridad mensual, pero lo bueno de ser freelance es que tú gestionas tu tiempo**. Muchas veces eso es difícil, porque nunca sabes cuándo puede llegar una época de “vacas flacas”. Vas diciendo que sí a trabajos y llega un momento en el que estás desbordada, y sigues con ello a costa de tu vida personal. A las empresas les viene mejor que seamos freelance, porque se ahorran mucho dinero. Todo depende de cada uno. Lo ideal es que sea una elección y no una obligación.
 
 11. ¿Cree que así se puede hacer un periodismo más independiente que estando vinculado a un canal de televisión?
 
