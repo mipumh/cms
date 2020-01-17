@@ -20,6 +20,12 @@ No obstante, mayores datos de empleo no suponen necesariamente mejores condicion
 
 La irrupción de la automatización suscita inquietud entre los periodistas, que temen que la tecnología ocupe su lugar. El reto es evidente, pero **los empleos de los profesionales de la información perdurarán en la medida en que estos consigan adaptarse**. Frente a la mecanización, el valor de los reporteros humanos se asentará en la creatividad y la búsqueda de nuevos enfoques.
 
+
+
+![Contenido de Quartz investigado mediante inteligencia artificial. Fuente: Quartz](/images/shots/machine.png "Contenido de Quartz investigado mediante inteligencia artificial. Fuente: Quartz")
+
+
+
 * **Hacia un periodismo dependiente de los lectores: la evolución de los muros de pago**
 
 No es ninguna novedad que la disrupción de los modelos de negocio tradicionales obliga a los medios a buscar nuevas formas de aportar valor y monetizar su actividad. **El pago de los usuarios se ha convertido en una de las apuestas más decididas** por parte de los medios innovadores, que han explorado diferentes modalidades de muros de pago para el acceso a sus contenidos*.*
@@ -30,9 +36,21 @@ Según el CTO de [Chartbeat](https://chartbeat.com/), [Josh Schwartz](https://tw
 
 A pesar de la importancia concedida a los ingresos directos de los usuarios, los medios de comunicación optan por **no poner todos los huevos en el mismo cesto**. Por ejemplo, el fundador y CEO de [Buzzfeed](https://www.buzzfeed.com/jonah/buzzfeed-in-2020?utm_source=dynamic&utm_campaign=bfsharecopy&sub=0_123911724)[Jonah Peretti](https://twitter.com/peretti) explica que la vía de ingresos que había sustentado la compañía desde la fundación era la publicidad nativa. Sin embargo, en los últimos años se han desarrollado [nuevas iniciativas que ya le reportan en torno al 70 % del total de los ingresos.](https://www.buzzfeed.com/jonah/buzzfeed-in-2020?utm_source=dynamic&utm_campaign=bfsharecopy&sub=0_123911724)
 
+
+
+![Estructura de ingresos en Buzzfeed. Fuente: Buzzfeed](/images/shots/sub-buzz-5800-1578044432-9.webp "Estructura de ingresos en Buzzfeed. Fuente: Buzzfeed")
+
+
+
 El **marketing de afiliación es la alternativa que más ha crecido** en este caso, con 425 millones de dólares generados en 2019. Una cifra que se prevé que crezca todavía más en el presente año. En el[marketing de afiliación](https://www.buzzfeed.com/nataliebrown/products-thatll-actually-help-make-you-productive-in-2020?origin=hpp), los medios recomiendan productos o servicios e introducen enlaces directos a las webs de los vendedores afiliados, por lo que reciben una comisión cada vez que se cierra una venta. Se trata de aprovechar la influencia y la confianza de los usuarios en la marca periodística, y evitar que otros intermediarios, como Google, acaben monetizando un valor que no han generado. Esta vía de ingresos también se aplica con éxito en otros medios con alto poder prescriptivo, como[Forbes](https://www.forbes.com/sites/forbes-personal-shopper/2019/12/13/forbes-shopping-holiday-gift-and-deal-guide/#2d65e5f956c2).
 
 La **venta a terceros de tecnología propia** se ha erigido también como una oportunidad suculenta para las grandes compañías mediáticas. Mientras que para la mayoría resulta inasequible diseñar herramientas a su medida, las empresas más boyantes pueden dedicarle muchos recursos. Es lógico que, una vez creadas, busquen recuperar la inversión mediante su licenciamiento a otras organizaciones.[Uno de los ejemplos más claros es el de los CMS o sistemas de gestión de contenidos](https://www.xataka.com/servicios/negocio-grandes-medios-comunicacion-vender-tecnologia-a-otros-medios), tecnologías muy costosas pero fundamentales para la publicación en el entorno web. En Estados Unidos, los CMS de medios más utilizados son Chorus, creado por el grupo Vox Media, y Arc Publishing, propiedad de The Washington Post.
+
+
+
+![](/images/shots/blogger-336371_1920.jpg)
+
+
 
 * **Búsqueda de un mayor control sobre la distribución y los datos**
 
@@ -45,6 +63,12 @@ De acuerdo con el CEO de [Bleacher Report](https://twitter.com/BleacherReport), 
 En los últimos cinco años se ha hablado sobre la necesidad de avanzar hacia un periodismo *mobile-first*debido al crecimiento del tráfico procedente de estos dispositivos. A pesar de ello, la mayoría de los medios se han limitado a implementar un diseño adaptativo o *responsive* y optimizar los tiempos de carga de los diferentes formatos, según [explica](https://laboratoriodeperiodismo.org/predicciones-de-directivos-internacionales-de-medios-para-2020/) la directora digital de [Vice Media](https://www.vice.com/), [Cory Haik](https://twitter.com/coryhaik). Resulta llamativo que **solo el 46 % de los medios nativos digitales con más tráfico en Estados Unidos cuenta con una aplicación propia** en Android o iOS, como revela [el último informe anual del Pew Research Center.](https://www.journalism.org/fact-sheet/digital-news/)
 
 Sin embargo, algunos medios sí aprovechan las posibilidades que ofrecen tanto móviles como tabletas. Por ejemplo, **la geolocalización resulta útil para que personalizar los contenidos** que se ofrecen a sus usuarios, permitiendo [que las notificaciones *push* aporten un mayor valor a la audiencia](https://www.niemanlab.org/2020/01/news-coverage-gets-geo-fragmented/), entre otras ventajas. NBC News [lleva años experimentando con esta tecnología](https://www.niemanlab.org/2014/06/the-notification-knows-where-you-are-breaking-news-debuts-news-alerts-tied-to-your-location/).
+
+
+
+![Ejemplo de verificación comunitaria de imágenes en Instagram](/images/shots/verificación.jpg "Ejemplo de verificación comunitaria de imágenes en Instagram")
+
+
 
 * **Alerta contra la desinformación**
 
