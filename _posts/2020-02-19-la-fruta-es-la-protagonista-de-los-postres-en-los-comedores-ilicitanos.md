@@ -1,6 +1,7 @@
 ---
 layout: post
-title: La fruta es la protagonista de los postres en los comedores ilicitanos
+title: La fruta es la protagonista de los postres
+new_author: Elisa Rodríguez y Cristina Riera
 ---
 <!--StartFragment-->
 
