@@ -1,8 +1,7 @@
 ---
 layout: post
-title: >-
-  La proteína de origen animal está más presente de lo que debería en los menús
-  escolares
+title: La proteína de origen animal está más presente de lo que debería
+new_author: Elisa Rodríguez y Cristina Riera
 ---
 Las raciones de carne en el menú de octubre de todos los colegios públicos de Elche sobrepasan las recomendaciones de la [Guía para los Menús Escolares 2018 de la Generalitat Valenciana](http://www.san.gva.es/documents/151311/7497836/Guia+Menu+Comedores+Escolares+GVA+2018.pdf). Esta aconseja limitar los derivados cárnicos a una vez a la semana. Sin embargo, incluso el que menos consume se excede. Los colegios con mayor número de carne consumida durante el mes de octubre son Clara Campoamor (empresa Scolarest) y La Alcudia (empresa Serunion) con 19 raciones al mes, duplicando la recomendación oficial de 8. Estas cantidades incluyen la carne procesada, siendo 11 las que se consumen en Alcudia y 9 en Clara Campoamor. Lucía Martínez, nutricionista y coautora del libro [¿Qué le doy de comer?](https://www.casadellibro.com/libro-que-le-doy-de-comer/9788449336157/9660622), comenta que “mucha gente cree que solo hay proteína de calidad en los alimentos de origen animal, piensan que una comida sin carne o pescado no es una comida”. Además, aclara que “los garbanzos son una proteína completa y las legumbres que no lo son se completan con otros alimentos”.
 
@@ -20,9 +19,9 @@ Estos datos forman parte de un trabajo más amplio en el que se ha analizado el 
 >
 > Hemos recopilado los menús de octubre de 2019 de todos los colegios públicos de Elche, con ayuda de los padres y madres, a los que estamos agradecidas. También hemos acudido a algunos colegios para obtener los menús.
 >
-> Después clasificamos los platos según el tipo de alimento principal guiándonos por la[Guía para los Comedores Escolares de la GVA](http://www.san.gva.es/documents/151311/7497836/Guia+Menu+Comedores+Escolares+GVA+2018.pdf)y gracias a Alejandro Oncina, que nos ayudó a encaminar mejor la clasificación.
+> Después clasificamos los platos según el tipo de alimento principal guiándonos por la [Guía para los Comedores Escolares de la GVA](http://www.san.gva.es/documents/151311/7497836/Guia+Menu+Comedores+Escolares+GVA+2018.pdf)y gracias a Alejandro Oncina, que nos ayudó a encaminar mejor la clasificación.
 >
-> En la primera parte del reportaje mostramos una base de datos donde aparecen los promedios de cada tipo de alimento y la cantidad de fruta consumida al mes.[En este enseñamos todos los menús y clasificaciones de alimentos.](https://docs.google.com/spreadsheets/d/1rEp5417S4xG7kYk8F3cnR8HZjbFzW68z0tfX1lXtui0/edit?usp=sharing)
+> En la primera parte del reportaje mostramos una base de datos donde aparecen los promedios de cada tipo de alimento y la cantidad de fruta consumida al mes. [En este enseñamos todos los menús y clasificaciones de alimentos.](https://docs.google.com/spreadsheets/d/1rEp5417S4xG7kYk8F3cnR8HZjbFzW68z0tfX1lXtui0/edit?usp=sharing)
 >
 > Gracias por atendernos tan bien y proporcionarnos información a Lucía Martínez, nutricionista y coautora del libro ¿Qué le doy de comer?, a la que entrevistamos el día que vino a las Jornadas de Ciencia y Periodismo en UMH.
 >
