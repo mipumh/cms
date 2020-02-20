@@ -5,13 +5,13 @@ title: >-
   Næringsliv (Noruega) y La Diaria (Uruguay)
 author: jaga
 ---
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -51,9 +51,9 @@ author: jaga
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -632,9 +632,9 @@ author: jaga
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -661,7 +661,7 @@ author: jaga
 	mso-bidi-theme-font:minor-bidi;
 	mso-fareast-language:EN-US;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
@@ -669,23 +669,23 @@ Al desarrollar cualquier proyecto periodístico, conviene redoblar los esfuerzos
 
 Las audiencias se han vuelto cada vez más **atomizadas y volátiles**. Los usuarios “no se casan con nadie”, por lo que resulta muy complicado retenerles y fidelizarles. En **esta batalla por la atención**, los medios compiten ferozmente con otros actores que ocupan el tiempo de los usuarios: desde Netflix y Amazon Prime, hasta WhatsApp y Spotify, pasando por YouTube, Instagram o los videojuegos.
 
-Además, la audiencia no es homogénea. Nunca lo ha sido. En función de sus intereses y necesidades, abundan distintos perfiles de usuarios<https://mip.umh.es/blog/2015/10/18/interactuar-audiencia-usuarios-activos/>tales como **seguidores, consumidores, colaboradores, activistas, conversadores o creadores**.
+Además, la audiencia no es homogénea. Nunca lo ha sido. En función de sus intereses y necesidades, [abundan distintos perfiles de usuarios](<https://mip.umh.es/blog/2015/10/18/interactuar-audiencia-usuarios-activos/>)[](https://mip.umh.es/blog/2015/10/18/interactuar-audiencia-usuarios-activos/), tales como **seguidores, consumidores, colaboradores, activistas, conversadores o creadores**.
 
 Los directivos de medios **han ido adoptando diversos “mantras”** sobre cómo tenían que relacionarse con sus audiencias: del “online first” al “user first”, del posicionamiento SEO al puro *clickbait*, pasando por el “engagement” y la **primacía del algoritmo**. Pero la clave de una buena estrategia se halla en los **objetivos** que se plantean según los **recursos disponibles**. Hemos seleccionado dos medios que destacan por sus **innovadoras estrategias para escuchar a sus audiencias.**
 
-El diario noruego**[Dagens Næringsliv](https://www.dn.no/)**(DN)<https://www.dn.no/>, especializado en negocios y economía, lanzó una campaña para conocer mejor a sus usuarios en 2018. A lo largo de seis meses, un equipo de desarrollo de audiencias trabajó intensamente para elaborar una radiografía de las necesidades de sus lectores, a partir de la escucha y el análisis de las métricas.La directora de participación, **Ingeborg Volan**,<https://medium.com/we-are-the-european-journalism-centre/making-audience-research-count-6-lessons-from-norways-leading-business-paper-b2d59c67b4df>comparte las principales lecciones aprendidas:
+El diario noruego **[Dagens Næringsliv](https://www.dn.no/)** (DN)[](https://www.dn.no/), especializado en negocios y economía, lanzó una campaña para conocer mejor a sus usuarios en 2018. A lo largo de seis meses, un equipo de desarrollo de audiencias trabajó intensamente para elaborar una radiografía de las necesidades de sus lectores, a partir de la escucha y el análisis de las métricas. La directora de participación, **Ingeborg Volan**,[](https://medium.com/we-are-the-european-journalism-centre/making-audience-research-count-6-lessons-from-norways-leading-business-paper-b2d59c67b4df) [comparte las principales lecciones aprendida](<https://medium.com/we-are-the-european-journalism-centre/making-audience-research-count-6-lessons-from-norways-leading-business-paper-b2d59c67b4df>)s:
 
 **1. Escuchar a la audiencia como antropólogos, no como periodistas**
 
-Volan organizóentrevistas en profundidadcon unos 40 lectores para conocerlos. **“En vez de preguntarles qué les parece el periódico, nuestras conversaciones se enfocaron en las personas, para averiguar cómo son sus vidas”**, con preguntas como ¿Qué tipo de persona eres? ¿Qué te preocupa? ¿Cómo es tu día? ¿Qué asuntos te interesan?”. Así consiguieron una valiosa información sobre sus necesidades e inquietudes.
+Volan organizó entrevistas en profundidad con unos 40 lectores para conocerlos. **“En vez de preguntarles qué les parece el periódico, nuestras conversaciones se enfocaron en las personas, para averiguar cómo son sus vidas”**, con preguntas como ¿Qué tipo de persona eres? ¿Qué te preocupa? ¿Cómo es tu día? ¿Qué asuntos te interesan?”. Así consiguieron una valiosa información sobre sus necesidades e inquietudes.
 
 **2. Analizar gran cantidad de datos para conocer a los lectores**
 
-El equipo de audiencias analizó un enorme volumen de datos para **averiguar qué temas preferían sus usuarios.**Seleccionaron cuatro meses de datos de 150.000 dispositivos de usuarios con más de 50 páginas vistas en las plataformas de DN. Los datos les permitieron identificar segmentos de lectores; al combinarlos con los resultados de las entrevistas, lograron identificar cinco grupos. Por ejemplo, a un grupo de lectores le interesaba los mercados y las finanzas, mientras que a otro le importaba la política. También descubrieron **temas transversales**, como el cambio climático, prioritario para un amplio grupo de lectores.
+El equipo de audiencias analizó un enorme volumen de datos para **averiguar qué temas preferían sus usuarios.** Seleccionaron cuatro meses de datos de 150.000 dispositivos de usuarios con más de 50 páginas vistas en las plataformas de DN. Los datos les permitieron identificar segmentos de lectores; al combinarlos con los resultados de las entrevistas, lograron identificar cinco grupos. Por ejemplo, a un grupo de lectores le interesaba los mercados y las finanzas, mientras que a otro le importaba la política. También descubrieron **temas transversales**, como el cambio climático, prioritario para un amplio grupo de lectores.
 
 **3. Pensar en las necesidades de tus lectores**
 
-El equipo de audiencias analizó cuándo y cómo los lectores accedían a las plataformas de DN y trataron de**comprender las razones emocionales de los usuarios para interactuar con algunas historias**. Según afirma Volan en una entrevista para WAN-IFRA<https://blog.wan-ifra.org/2018/09/21/how-norways-dn-built-its-audience-engagement-team>,“el segmento de lectores más interesado en política prefiere usar la aplicación de DN, mientras que el interesado en finanzas y mercados elige el ordenador, habitualmente durante el día”. Detectaron un segmento de lectores que consumen contenidos por la noche y los fines de semana, enfocados en el ocio, los deportes y las finanzas personales.
+El equipo de audiencias analizó cuándo y cómo los lectores accedían a las plataformas de DN y trataron de **comprender las razones emocionales de los usuarios para interactuar con algunas historias**.[ Según afirma Volan en una entrevista para WAN-IFRA](<https://blog.wan-ifra.org/2018/09/21/how-norways-dn-built-its-audience-engagement-team>), “el segmento de lectores más interesado en política prefiere usar la aplicación de DN, mientras que el interesado en finanzas y mercados elige el ordenador, habitualmente durante el día”. Detectaron un segmento de lectores que consumen contenidos por la noche y los fines de semana, enfocados en el ocio, los deportes y las finanzas personales.
 
 Con esta información, establecieron pautas sobre qué historias deberían publicarse por la mañana, la noche y el fin de semana; es decir, **una programación mucho más ajustada a los intereses de sus lectores.**
 
@@ -696,8 +696,6 @@ El estudio también mostró que algunos segmentos, como las mujeres y los jóven
 **5. Generar más contenido que fidelice y cree hábito de lectura**
 
 La investigación permitió identificar qué tipo de contenidos se podrán ver sólo bajo suscripción y cuáles se publicarán gratuitamente. “Parte del contenido no se convierte necesariamente en nuevas suscripciones, pero tiene gran valor para nuestros lectores y genera hábito de lectura”, señala Volan. 
-
-
 
 El otro caso seleccionado es el del periódico uruguayo La Diaria,<https://ladiaria.com.uy/>fundado en 2006. La idea surgió de **un grupo de universitarios que no estaba satisfecho con la prensa existente en Uruguay**. Pusieron en marcha una campaña para captar fondos y tras dos años de preparativos, surgió el nuevo medio, con un modelo basado en unacooperativa integrada por el 40% de los trabajadores de la empresa.
 
