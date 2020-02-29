@@ -3,13 +3,13 @@ layout: post
 title: Las mejores narrativas interactivas de 2019 (I)
 author: jaga
 ---
-<!--\\\[if gte mso 9]><xml>
+<!--\\\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\\\[endif]-->
+</xml><!\\\\[endif]-->
 
-<!--\\\[if gte mso 9]><xml>
+<!--\\\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -49,9 +49,9 @@ author: jaga
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\\\[endif]-->
+</xml><!\\\\[endif]-->
 
-<!--\\\[if gte mso 9]><xml>
+<!--\\\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -630,9 +630,9 @@ author: jaga
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\\\[endif]-->
+</xml><!\\\\[endif]-->
 
-<!--\\\[if gte mso 10]>
+<!--\\\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -659,7 +659,7 @@ author: jaga
 	mso-bidi-theme-font:minor-bidi;
 	mso-fareast-language:EN-US;}
 </style>
-<!\\\[endif]-->
+<!\\\\[endif]-->
 
 <!--StartFragment-->
 
@@ -679,7 +679,7 @@ En una serie de artículos, os mostramos los formatos interactivos más sobresal
 
 Es el resultado de un impresionante trabajo colaborativo de documentalistas, periodistas, diseñadores, redactores y realizadores coordinados desde el [Lab de RTVE](https://lab.rtve.es/), para contar quiénes son las mil mujeres que han sido víctimas de la violencia machista en España desde que hay registros. El objetivo es retratar su vida, no su muerte, y contar qué fue de sus asesinos, ponerles nombre y apellido tras la sentencia. El usuario juega un papel fundamental para ayudar a completar la biografía: el Lab pone a su disposición un teléfono (**676 67 61 48**) para que, a través de WhatsApp, quienes conocieran a alguna de las víctimas puedan aportar en qué trabajaba, sus gustos, sus sueños… El interactivo, **que ha cosechado dos prestigiosos Lovie Awards y el premio Rey de España de Periodismo 2020**, [ha sido dirigido por Miriam Hernanz y Estefanía de Antonio](https://lab.rtve.es/mil-mujeres-asesinadas/creditos/).
 
-
+![](/images/shots/i-am-mosul.jpg)
 
 **[I am Mosul](https://iamosul.nl/) BNNVARA**
 
@@ -711,13 +711,13 @@ El Tour de Francia, la competición ciclista más veterana, nació en 1903. Su t
 
 **[The story behind an identity theft](https://pointer.kro-ncrv.nl/artikelen/het-verhaal-achter-een-identiteitsroof#lang=en) Pointer**
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -757,9 +757,9 @@ El Tour de Francia, la competición ciclista más veterana, nació en 1903. Su t
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -1338,9 +1338,9 @@ El Tour de Francia, la competición ciclista más veterana, nació en 1903. Su t
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -1367,17 +1367,17 @@ El Tour de Francia, la competición ciclista más veterana, nació en 1903. Su t
 	mso-bidi-theme-font:minor-bidi;
 	mso-fareast-language:EN-US;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
-“Al acecho detrás de un simple correo electrónico en nuestra bandeja de entrada, detectamos una red de sitios web falsos, empresas de direcciones fantasma y más de cien víctimas en todo el mundo”. Esta investigación desmantela una red de cuentas falsas y el rastro digital conduce hasta dos estafadores daneses. Este formato interactivo revela, de forma muy original, cómo los periodistas fueron rastreando las pistas, paso a paso, hasta desvelar la estafa. <!--\[if gte mso 9]><xml>
+“Al acecho detrás de un simple correo electrónico en nuestra bandeja de entrada, detectamos una red de sitios web falsos, empresas de direcciones fantasma y más de cien víctimas en todo el mundo”. Esta investigación desmantela una red de cuentas falsas y el rastro digital conduce hasta dos estafadores daneses. Este formato interactivo revela, de forma muy original, cómo los periodistas fueron rastreando las pistas, paso a paso, hasta desvelar la estafa. <!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -1417,9 +1417,9 @@ El Tour de Francia, la competición ciclista más veterana, nació en 1903. Su t
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -1998,9 +1998,9 @@ El Tour de Francia, la competición ciclista más veterana, nació en 1903. Su t
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -2027,21 +2027,19 @@ El Tour de Francia, la competición ciclista más veterana, nació en 1903. Su t
 	mso-bidi-theme-font:minor-bidi;
 	mso-fareast-language:EN-US;}
 </style>
-<!\[endif]-->
-
-
+<!\\[endif]-->
 
 <!--EndFragment-->
 
 <!--EndFragment-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -2081,9 +2079,9 @@ El Tour de Francia, la competición ciclista más veterana, nació en 1903. Su t
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -2662,9 +2660,9 @@ El Tour de Francia, la competición ciclista más veterana, nació en 1903. Su t
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -2691,7 +2689,7 @@ El Tour de Francia, la competición ciclista más veterana, nació en 1903. Su t
 	mso-bidi-theme-font:minor-bidi;
 	mso-fareast-language:EN-US;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
