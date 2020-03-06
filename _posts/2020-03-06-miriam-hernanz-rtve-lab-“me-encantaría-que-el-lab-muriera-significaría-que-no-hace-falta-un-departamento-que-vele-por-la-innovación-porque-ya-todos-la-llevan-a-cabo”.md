@@ -5,15 +5,13 @@ title: >-
   no hace falta un departamento que vele por la innovación porque ya todos la
   llevan a cabo”
 ---
-
-
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -53,9 +51,9 @@ title: >-
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -634,9 +632,9 @@ title: >-
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -663,25 +661,19 @@ title: >-
 	mso-bidi-theme-font:minor-bidi;
 	mso-fareast-language:EN-US;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
 La carrera de [Miriam Hernanz](https://twitter.com/miriamhernanz) ha evolucionado en paralelo a la innovación periodística. Actualmente es la subdirectora del [Laboratorio Audiovisual de Innovación y Nuevas Narrativas Interactivas en Radiotelevisión Española](http://www.rtve.es/lab/). Comenzó en 2005 como redactora en prácticas en [Informe Semanal](https://www.rtve.es/television/informe-semanal/), y tras ser redactora de última hora en [RTVE.es](https://www.rtve.es/), de Suplementos en [El Mundo](https://www.elmundo.es/) y del programa [Hora Cero](https://www.rtve.es/alacarta/videos/hora-cero/), ha consolidado su liderazgo en el lab de RTVE. Tal y como nos cuenta, el objetivo de este departamento no es jugar con la información, sino presentarla con un lenguaje innovador, a cualquier hora y en cualquier plataforma. Hernanz destaca que hay que educar a la audiencia para que sepa diferenciar el grano de la paja en la información que circula por la Red. Ha impartido clases en el Máster en Innovación en Periodismo.
 
-
-
-
-
-
-
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -721,9 +713,9 @@ La carrera de [Miriam Hernanz](https://twitter.com/miriamhernanz) ha evolucionad
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -1302,9 +1294,9 @@ La carrera de [Miriam Hernanz](https://twitter.com/miriamhernanz) ha evolucionad
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -1331,7 +1323,7 @@ La carrera de [Miriam Hernanz](https://twitter.com/miriamhernanz) ha evolucionad
 	mso-bidi-theme-font:minor-bidi;
 	mso-fareast-language:EN-US;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
@@ -1353,11 +1345,7 @@ La carrera de [Miriam Hernanz](https://twitter.com/miriamhernanz) ha evolucionad
 
 **R**: España vive un momento en el que no estamos a la cola en innovación periodística, pero tampoco estamos a la cabeza. Creo que hay muy buenos profesionales que han salido del país, han aprendido mucho y han traído nuevos avances narrativos. En ese sentido, [Borja Echevarría](https://twitter.com/borjaechevarria?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor), que fue vicepresidente de Univisión y ahora es director adjunto de El País, está renovando notablemente la forma de contar en este diario. Se ha traído grafistas que trabajaban con él en Univisión y destacan. Luego tenemos una generación muy buena de grafistas que salieron de El Mundo y ahora están en The Washington Post, BBC, The Guardian… **España como industria está mucho peor que sus profesionales, porque hay mucha gente de renombre fuera que aquí son desconocidos**. Se han llevado a cabo narrativas que avanzaron en el departamento gráfico del diario El Mundo, pero los números no salían, y esa calidad está haciendo mejores a grandes cabeceras de todo el mundo.
 
-
-
-“En el Lab presentamos la información de forma diferente para los nuevos públicos que no están acostumbrados a consumir de forma lineal, lenta, a través de un canal y a una hora determinada”
-
-
+> ### “En el Lab presentamos la información de forma diferente para los nuevos públicos que no están acostumbrados a consumir de forma lineal, lenta, a través de un canal y a una hora determinada”
 
 **P**: Usted es subdirectora del Lab de RTVE, y entre sus funciones destaca el impulso de la digitalización y el desarrollo transmedia de contenidos audiovisuales multiplataforma. ¿Cómo percibe el cambio en su trabajo desde que empezó hasta ahora?
 
@@ -1367,13 +1355,13 @@ La carrera de [Miriam Hernanz](https://twitter.com/miriamhernanz) ha evolucionad
 
 **R**: Somos un departamento muy pequeño que trabaja como si fuera una startup, que es autosuficiente por sí mismo, ya que tenemos redactores, realizadores, diseñadores y desarrolladores informáticos. En muchos medios, cada proyecto se trabaja en diferentes departamentos, y el proceso va pasando de uno a otro; nosotros trabajamos de forma multidisciplinar. **Somos un departamento multidisciplinar que hace todo tipo de temáticas y que no tiene miedo al código en el que lo contamos (video, audio, gráfico interactivo…)**y que además temáticamente no estamos coartados por nada. Una de las innovaciones de éxito es que somos mucho más ágiles en la forma de producir. En el Lab testamos mucho el producto en las distintas fases, por lo que no damos por sabido nada, sino que lo enfrentamos a un público potencial para que vayan viendo si lo entienden como nosotros y no se pierden en la experiencia, porque al ser innovación se enfrentan a un interfaz nuevo.Además, intentamos ayudarnos por los que saben mucho de un tema. Por ejemplo, si hacemos algo sobre política internacional, lo hacemos contando con expertos sobre ese tema.
 
-“Es muy importante que desde los jefes hasta todos los empleados se insista en que la innovación no es accesoria, sino que debe estar presente en todas las piezas del telediario”
+> ### “Es muy importante que desde los jefes hasta todos los empleados se insista en que la innovación no es accesoria, sino que debe estar presente en todas las piezas del telediario”
 
 **P**: Algunos expertos consideran que los Labs de innovación en los medios corren el riesgo de convertirse en silos aislados del resto de la redacción y que la innovación debería ser algo transversal en todos los departamentos del medio. ¿Qué le parece esta visión?
 
 **R**: Estoy muy de acuerdo con eso, pero este proceso hace que se diluya la innovación. A mi me encantaría matar el laboratorio y que todo el mundo en RTVE fuera el laboratorio. De hecho, estamos trabajando en digitalizar la empresa y sus narrativas y hacer que la creatividad fluya y cada persona que tenga una idea sea capaz de desarrollarla de forma autónoma, o asistida por nosotros. El problema es que cuando no hay nadie especializado en algo se nota, y al final todo vuelve a ser la forma tradicional de contar. También **es muy importante que surja de arriba abajo, que desde los jefes hasta todos los empleados se insista mucho en que la innovación no es algo accesorio, sino que tiene que estar en todas las piezas que se hagan en el telediario**. Considero que los actuales jefes sí tienen la necesidad de transformar tanto los flujos de creación de producto como las narraciones y que se actualicen los lenguajes.
 
-“No desarrollamos los bots para suplantar a redactores, sino para testar qué cosas básicas se pueden conseguir automatizando algunos procesos. El trabajo elevado se reserva para los que tenemos cerebro”
+> ### “No desarrollamos los bots para suplantar a redactores, sino para testar qué cosas básicas se pueden conseguir automatizando algunos procesos. El trabajo elevado se reserva para los que tenemos cerebro”
 
 **P**: ¿Están trabajando en algún proyecto en el Lab de TVE con Inteligencia Artificial?
 
@@ -1391,7 +1379,7 @@ La carrera de [Miriam Hernanz](https://twitter.com/miriamhernanz) ha evolucionad
 
 **R**: Me encantaría que el Lab muriera, porque significaría que no era necesario, y que todos los departamentos tuvieran el chip de que hay otra forma de contar las cosas y que no se va a ir siempre a ‘sota, caballo y rey’. Ahí me parece que tendríamos el mayor éxito, y que no hace falta que haya un departamento que vele por la innovación porque todos seríamos innovadores. Pero creo que eso no va a pasar.
 
-“Si los periodistas consiguiéramos hacerle la vida más fácil a la gente, nunca dudaríamos si vamos a sobrevivir haciendo este trabajo”
+> ### “Si los periodistas consiguiéramos hacerle la vida más fácil a la gente, nunca dudaríamos si vamos a sobrevivir haciendo este trabajo”
 
 **P**: ¿Cuáles son los retos que le faltan por cumplir al Lab que no hayan cubierto hasta el momento?
 
