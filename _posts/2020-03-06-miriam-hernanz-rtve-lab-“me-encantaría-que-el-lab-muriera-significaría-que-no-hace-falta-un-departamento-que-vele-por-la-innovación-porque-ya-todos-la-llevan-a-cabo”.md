@@ -5,13 +5,13 @@ title: >-
   no hace falta un departamento que vele por la innovación porque ya todos la
   llevan a cabo”
 ---
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -51,9 +51,9 @@ title: >-
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -632,9 +632,9 @@ title: >-
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 10]>
+<!--\\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -661,19 +661,21 @@ title: >-
 	mso-bidi-theme-font:minor-bidi;
 	mso-fareast-language:EN-US;}
 </style>
-<!\\[endif]-->
+<!\\\[endif]-->
 
 <!--StartFragment-->
 
 La carrera de [Miriam Hernanz](https://twitter.com/miriamhernanz) ha evolucionado en paralelo a la innovación periodística. Actualmente es la subdirectora del [Laboratorio Audiovisual de Innovación y Nuevas Narrativas Interactivas en Radiotelevisión Española](http://www.rtve.es/lab/). Comenzó en 2005 como redactora en prácticas en [Informe Semanal](https://www.rtve.es/television/informe-semanal/), y tras ser redactora de última hora en [RTVE.es](https://www.rtve.es/), de Suplementos en [El Mundo](https://www.elmundo.es/) y del programa [Hora Cero](https://www.rtve.es/alacarta/videos/hora-cero/), ha consolidado su liderazgo en el lab de RTVE. Tal y como nos cuenta, el objetivo de este departamento no es jugar con la información, sino presentarla con un lenguaje innovador, a cualquier hora y en cualquier plataforma. Hernanz destaca que hay que educar a la audiencia para que sepa diferenciar el grano de la paja en la información que circula por la Red. Ha impartido clases en el Máster en Innovación en Periodismo.
 
-<!--\\[if gte mso 9]><xml>
+![](/images/shots/miriam-hernanz.jpg)
+
+<!--\\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -713,9 +715,9 @@ La carrera de [Miriam Hernanz](https://twitter.com/miriamhernanz) ha evolucionad
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -1294,9 +1296,9 @@ La carrera de [Miriam Hernanz](https://twitter.com/miriamhernanz) ha evolucionad
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 10]>
+<!--\\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -1323,7 +1325,7 @@ La carrera de [Miriam Hernanz](https://twitter.com/miriamhernanz) ha evolucionad
 	mso-bidi-theme-font:minor-bidi;
 	mso-fareast-language:EN-US;}
 </style>
-<!\\[endif]-->
+<!\\\[endif]-->
 
 <!--StartFragment-->
 
@@ -1340,6 +1342,8 @@ La carrera de [Miriam Hernanz](https://twitter.com/miriamhernanz) ha evolucionad
 **P**: ¿Cómo se debe llevar a cabo la innovación en los medios para que sea eficaz?
 
 **R**: Depende de lo que signifique el término eficaz. Para mí, **la innovación más eficaz es aquella que responde a una necesidad que el usuario tiene**. Porque en la medida que innoves, no para hacer algo “molón” sino para hacer algo útil, se le da mucho mas valor a esa innovación. En el Lab de RTVE, pudiendo compartir tiempo con profesionales de la [BBC](https://www.bbc.com/news), he aprendido que **no hay innovación más eficaz que aquella que pueda ser escalable**. Cuando tu consigues una solución para un problema que esta teniendo toda tu empresa, haces que todo ese tiempo invertido sea muy eficaz, y por eso digo que depende de lo que signifique el término: puede ser de mucho valor para el usuario o de mucho valor para la escalabilidad de ese tiempo invertido.
+
+![](/images/shots/lab-rtve-web.jpg)
 
 **P**: ¿Cree que en el periodismo en nuestro país se innova poco o mucho?
 
@@ -1367,6 +1371,8 @@ La carrera de [Miriam Hernanz](https://twitter.com/miriamhernanz) ha evolucionad
 
 **R**: La verdad es que no. Dentro del laboratorio, lo más lejos que hemos llegado es un bot de[la huella ecológica](http://lab.rtve.es/huella-ecologica/es/)el cual estuvimos intentando entrenándole para que fuera una especie de “coach” y ver hasta qué punto puede mejorar el índice de huella ecológica. Hay un proyecto muy piloto, que sobre todo es una prueba de concepto que va a desarrollar RTVE y que ha salido ahora en prensa, sobre la creación de un bot que publique información sobre Segunda B, que es una liga en la que a los redactores apenas nos da tiempo a cubrir, y no es por suplantar a redactores, sino para testar que cosas se pueden conseguir automatizando algunos procesos. Si se va a hacer una noticia en la que ponga quien ha metido el gol, cuanto ha durado el partido o los cambios que ha habido, es una información básica en la que se pueden automatizar distintos procesos. Los robots hacen una tarea que resulta aburrida y que nos viene bien que hagan. Otra cosa es si se va a hacer una crónica, ahí sí hace falta un redactor. Considero creo que el trabajo más elevado debe reservarse a los que tenemos cerebro y no chip.
 
+![](/images/shots/narrativas-rtve-lab.jpg)
+
 **P**: Teniendo en cuenta el enorme volumen de noticias y contenidos que circula por la Red, ¿existe el riesgo de que la audiencia no distinga entre bulo e información? [](<>)
 
 **R**: Sí. Existe el riesgo. Hoy en día circulan informaciones falsas que se intentan presentar como noticias y que no son ciertas, pero no culpo ni a los que generan el contenido, ni a los periodistas intrusistas. Hay intereses y gente que faltan a la verdad, mienten como todo hijo de vecino, pero ahora se hace en unas redes que alcanzan una difusión mucho mayor que cuando se hablaba de la vecina del 5º piso un tiempo. Sinceramente, creo que no tiene que ver con que tengas o no el titulo de periodista. Tiene que ver con tu intención de manipular y retorcer la verdad.
@@ -1374,6 +1380,8 @@ La carrera de [Miriam Hernanz](https://twitter.com/miriamhernanz) ha evolucionad
 **P**: ¿Cómo se puede luchar contra la desinformación desde los medios?
 
 **R**: **Educando a la audiencia y tratar de darles diferentes pautas para que sepan diferenciar el grano de la paja**. Intentar que vean que una información tiene fuentes, referencias, consultar y comparar si la información está publicada en un medio serio…Es decir, darles distintas pautas para que la audiencia, cuando consuma alguna información, desconfíe o se fíe.
+
+![](/images/shots/miriam-hernanz-lab.jpg)
 
 **P**: ¿Cómo le gustaría que el Lab creciera en el futuro próximo? [](<>)
 
