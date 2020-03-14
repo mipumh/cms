@@ -26,7 +26,7 @@ En primer lugar, más allá de enumerarlas y compartirlas, es importante analiza
 
 Cada país debería –a través de organizaciones y asociaciones profesionales- publicar localmente como ha hecho a nivel global [First Draft](https://firstdraftnews.org/long-form-article/coronavirus-resources-for-reporters/) una guía de fuentes oficiales y expertas en el tema para gestionar la sobreabundancia informativa a nivel personal y colectivo que nos espera en las próximas semanas –según las primeras estimaciones hay medios que podrían haber incrementado sus visitas en un 50%-.
 
-
+![](/images/shots/3-jose-manuel-rodríguez.png)
 
 Fuente: Captura de tuit del periodista y consultor [José Manuel Rodríguez](https://twitter.com/josemanuelrodos/status/1238433128131235842).
 
@@ -74,11 +74,15 @@ Otro elemento fundamenta de reflexión es el de las investigaciones y anuncios d
 
 #### Es importante que cualquier posible desinformación que nos llegue a nuestro teléfono móvil sea verificado antes de compartirlo con nuestros amigos y seres queridos. En este [enlace](https://maldita.es/malditobulo/?keywords=coronavirus) podemos encontrar un buscador de bulos.
 
+![](/images/shots/4-maldito-bulo.png)
+
 > ##### Fuente: Maldito Bulo.
 
 #### Mientras que no se establezcan soluciones coordinadas, la solución a corto plazo es que “en caso de duda, no compartas”. En caso de duda, pregunta, comprueba, verifica. Tanto Maldito Bulo como Newtral tienen un número de Whatsapp para que la ciudadanía les pueda enviar informaciones de dudosa veracidad y que ésta sea comprobada por los fact-checkers.
 
 #### La creación de una comunidad en torno a los lectores/usuarios debería hacernos conseguir que cuando recibamos el desmentido o la confirmación de los fact-checkers se la reenviemos a la persona que nos envió inicialmente la posible desinformación con el objetivo de que ésta participe en la cadena de responsabilidad compartida que necesitamos en este momento.
+
+![](/images/shots/5.-maldita.jpg)
 
 La situación actual hace que la ciudadanía necesite reforzar el sentimiento de solidaridad, comunidad y compromiso -acciones solidarias de colaboración y ayuda en la comunidad en la que vivimos, ayudas a la compra, iniciativas para quedarse en casa, etc.-.
 
