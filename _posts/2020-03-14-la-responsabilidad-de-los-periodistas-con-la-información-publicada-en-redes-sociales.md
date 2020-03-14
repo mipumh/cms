@@ -6,9 +6,9 @@ title: >-
 ---
 <!--StartFragment-->
 
-#### **Uno de los grandes desafíos de las próximas semanas/meses es saber encontrar un equilibro entre la*comunicación del riesgo*y el*riesgo de la comunicación*. La información que consumimos en Internet y la proporcionada por los medios no sólo ha de estar bien ordenada y jerarquizada, sino que debe poder reenviar a fuentes oficiales y*documentación de confianza*para que los lectores puedan completar su propio recorrido informativo. Este artículo de [Raúl Magallón Rosa](https://twitter.com/raulmagallon), doctor en periodismo y autor de *[Unfaking News. Cómo combatir la desinformación](https://unfakingnews.com/)*aborda la responsabilidad del periodismo en la información sobre el COVID-19.**
+#### **Uno de los grandes desafíos de las próximas semanas/meses es saber encontrar un equilibro entre la*comunicación del riesgo*y el*riesgo de la comunicación*. La información que consumimos en Internet y la proporcionada por los medios no sólo ha de estar bien ordenada y jerarquizada, sino que debe poder reenviar a fuentes oficiales y*documentación de confianza*para que los lectores puedan completar su propio recorrido informativo. Este artículo de [Raúl Magallón Rosa](https://twitter.com/raulmagallon), doctor en periodismo y autor de *[Unfaking News. Cómo combatir la desinformación](https://unfakingnews.com/)* aborda la responsabilidad del periodismo en la información sobre el COVID-19.**
 
-Como señala Karin Wahl-Jorgensen, profesora de la Universidad de Cardiff, los periodistas deben reconocer “\[tanto la naturaleza de la amenaza como su responsabilidad de manejar las emociones del público y no difundir el miedo indebidamente](https://theconversation.com/coronavirus-how-media-coverage-of-epidemics-often-stokes-fear-and-panic-131844)".
+Como señala Karin Wahl-Jorgensen, profesora de la Universidad de Cardiff, los periodistas deben reconocer “[tanto la naturaleza de la amenaza como su responsabilidad de manejar las emociones del público y no difundir el miedo indebidamente](https://theconversation.com/coronavirus-how-media-coverage-of-epidemics-often-stokes-fear-and-panic-131844)".
 
 La organización Maldita.es ha creado un sitio específico –en este [enlace](https://maldita.es/coronavirus)- para ordenar y explicar la información que van generando sobre el coronavirus.
 
@@ -18,7 +18,7 @@ En este sentido, cómo se cubre un acontecimiento histórico sin precedentes deb
 
 En primer lugar, más allá de enumerarlas y compartirlas, es importante analizar las mismas y comprender sus implicaciones.
 
-Cada país debería –a través de organizaciones y asociaciones profesionales- publicar localmente como ha hecho a nivel global[First Draft](https://firstdraftnews.org/long-form-article/coronavirus-resources-for-reporters/)una guía de fuentes oficiales y expertas en el tema para gestionar la sobreabundancia informativa a nivel personal y colectivo que nos espera en las próximas semanas –según las primeras estimaciones hay medios que podrían haber incrementado sus visitas en un 50%-.
+Cada país debería –a través de organizaciones y asociaciones profesionales- publicar localmente como ha hecho a nivel global [First Draft](https://firstdraftnews.org/long-form-article/coronavirus-resources-for-reporters/) una guía de fuentes oficiales y expertas en el tema para gestionar la sobreabundancia informativa a nivel personal y colectivo que nos espera en las próximas semanas –según las primeras estimaciones hay medios que podrían haber incrementado sus visitas en un 50%-.
 
 Fuente: Captura de tuit del periodista y consultor [José Manuel Rodríguez](https://twitter.com/josemanuelrodos/status/1238433128131235842).
 
@@ -54,13 +54,13 @@ Los medios de comunicación, en cambio, deberían averiguar qué preguntas se ha
 
 Otro de los escenarios naturales que se plantean es si se debe especular o hacer especular a los expertos con posibles escenarios. En este sentido, informar sobre las respuestas y las soluciones eficaces tomadas por otros países puede servir para dar respuesta a un momento de *profecías autocumplidas* y *autonegadas* como el actual donde todo el mundo tiene problemas para comprender cómo evolucionan los acontecimientos y no participa de la certeza personal y colectiva de qué ocurrirá la semana siguiente (pensemos en cómo hemos asimilado el proceso de responsabilidad social e individual en sólo una semana).
 
-Otro elemento fundamenta de reflexión es el de las investigaciones y anuncios de cura, tratamiento y vacunas del coronavirus por parte de diferentes actores: empresas farmacéuticas, laboratorios, investigadores de diferentes países, artículos prepublicados que no han pasado el proceso de revisión por pares -en este [enlace](https://outbreaksci.prereview.org/) se pueden encontrar algunos-, etc. Antes de cualquier mención es necesario que esa información haya sido revisada por al menos dos fuentes expertas que puedan matizar o completar el "titular" que les llega a los medios de comunicación. Los medios deberían filtrar con gran cuidado las informaciones provenientes de las agencias de noticias que son publicadas de manera automática en sus webs.
+Otro elemento fundamenta de reflexión es el de las investigaciones y anuncios de cura, tratamiento y vacunas del coronavirus por parte de diferentes actores: empresas farmacéuticas, laboratorios, investigadores de diferentes países, artículos pre-publicados que no han pasado el proceso de revisión por pares -en este [enlace](https://outbreaksci.prereview.org/) se pueden encontrar algunos-, etc. Antes de cualquier mención es necesario que esa información haya sido revisada por al menos dos fuentes expertas que puedan matizar o completar el "titular" que les llega a los medios de comunicación. Los medios deberían filtrar con gran cuidado las informaciones provenientes de las agencias de noticias que son publicadas de manera automática en sus webs.
 
 **La responsabilidad de los periodistas con la información publicada en redes sociales**
 
 #### Las redes sociales, más allá de herramienta de difusión de bulos, también se están convirtiendo en una plataforma para la *inteligencia colaborativa*-nunca dejaron de serlo-.
 
-#### En este sentido, los medios no sólo deben *proporcionar a los lectores las acciones específicas que pueden tomar* sino también recoger –previo proceso de verificación-[aquellas iniciativas](https://twitter.com/eldiarioes/status/1238169971861135362) ciudadanas que se están desarrollando en muchas ocasiones de manera horizontal y espontánea para adaptarse a los nuevos hábitos que nos plantea este nuevo escenario.
+#### En este sentido, los medios no sólo deben *proporcionar a los lectores las acciones específicas que pueden tomar* sino también recoger –previo proceso de verificación- [aquellas iniciativas](https://twitter.com/eldiarioes/status/1238169971861135362) ciudadanas que se están desarrollando en muchas ocasiones de manera horizontal y espontánea para adaptarse a los nuevos hábitos que nos plantea este nuevo escenario.
 
 #### La responsabilidad de la ciudadanía en las redes sociales y plataformas de mensajería
 
