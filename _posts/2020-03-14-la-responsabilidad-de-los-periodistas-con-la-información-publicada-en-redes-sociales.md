@@ -12,13 +12,21 @@ Como señala Karin Wahl-Jorgensen, profesora de la Universidad de Cardiff, los p
 
 La organización Maldita.es ha creado un sitio específico –en este [enlace](https://maldita.es/coronavirus)- para ordenar y explicar la información que van generando sobre el coronavirus.
 
+![](/images/shots/1maldito-bulo.png)
+
+Fuente: Maldito Bulo
+
 En este sentido, cómo se cubre un acontecimiento histórico sin precedentes debe ser objeto de reflexión y análisis. Las fuentes utilizadas, el lenguaje escogido, los enfoques diversos y que no sepan captar la complejidad, la dinamicidad y globalidad del fenómeno, el compromiso en combatir el sensacionalismo, etc. son algunos de los retos a los que se van a enfrentar los periodistas y las fuentes oficiales de confianza, pero también la ciudadanía.
 
 [First Draft](https://firstdraftnews.org/), probablemente la organización más importante a nivel mundial en la lucha contra la desinformación, ha publicado las siguientes recomendaciones para los medios:
 
+![](/images/shots/2.-first-draft.jpg)
+
 En primer lugar, más allá de enumerarlas y compartirlas, es importante analizar las mismas y comprender sus implicaciones.
 
 Cada país debería –a través de organizaciones y asociaciones profesionales- publicar localmente como ha hecho a nivel global [First Draft](https://firstdraftnews.org/long-form-article/coronavirus-resources-for-reporters/) una guía de fuentes oficiales y expertas en el tema para gestionar la sobreabundancia informativa a nivel personal y colectivo que nos espera en las próximas semanas –según las primeras estimaciones hay medios que podrían haber incrementado sus visitas en un 50%-.
+
+
 
 Fuente: Captura de tuit del periodista y consultor [José Manuel Rodríguez](https://twitter.com/josemanuelrodos/status/1238433128131235842).
 
