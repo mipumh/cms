@@ -668,6 +668,8 @@ title: Las mejores visualizaciones sobre el COVID-19
 
 Los datos son necesarios para nuestra comprensión del mundo, y particularmente, para entender fenómenos como el COVID-19. Para hacer frente a esta pandemia se necesita recopilar, analizar, compartir y hacer uso de los datos de manera eficiente. La visualización de los datos puede facilitar su difusión y **ayudar a comprender rápidamente determinadas realidades sobre la propagación del virus o sus efectos**. Destacamos una serie de visualizaciones e infografías sobre aspectos clave del Coronavirus, publicadas en medios de todo el mundo durante las últimas semanas.
 
+![](/images/shots/wapo-coronasim.jpg)
+
 [Por qué brotes como el del coronavirus crecen exponencialmente\
 y cómo ‘aplanar la curva’](https://www.washingtonpost.com/graphics/2020/world/corona-simulator-spanish/) **Washington Post 14/03/2020**
 
@@ -675,9 +677,13 @@ La llamada curva exponencial preocupa a los expertos, ya que el crecimiento del 
 
 Como afirma el director de grafismo del Washington Post, [Chiqui Esteban](https://twitter.com/chiquiesteban), se trata de una de las piezas más leídas en la historia del diario, y dado su carácter de servicio público, ya ha sido traducida a 13 idiomas. Además, el Washington Post ha liberado el acceso a todos sus artículos sobre el Coronavirus. También destacamos [esta otra visualización del número de fallecimientos con Coronavirus](https://www.washingtonpost.com/graphics/2020/national/coronavirus-us-cases-deaths) que diariamente se producen en Estados Unidos.
 
+![](/images/shots/history-pandemics.jpg)
+
 [Visualizing the History of Pandemics](https://www.visualcapitalist.com/history-of-pandemics-deadliest/) **Visual Capitalist 15/03/2020**
 
 Este grafismo, elaborado por la revista Visual Capitalist, describe la historia de las peores pandemias que ha vivido la humanidad desde la Peste Antonina (165-180 d. C.) hasta el COVID-19. El impresionante diseño muestra cada una de las pandemias, con datos sobre el periodo en que estuvo activa y su incidencia en la población mundial. Uno de sus atractivos es la visualización de cada tipo de virus mediante una imagen a escala, de acuerdo con su virulencia, logrando transmitir mucha información al lector de forma directa.
+
+![](/images/shots/tag-spiegelok.png)
 
 [How COVID-19 spread across the globe](https://interaktiv.tagesspiegel.de/lab/die-globale-verbreitung-des-coronavirus-im-zeitverlauf/) **Der Tagesspiegel 17/03/2020**
 
