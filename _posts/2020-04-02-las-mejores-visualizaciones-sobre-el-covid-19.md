@@ -2,7 +2,9 @@
 layout: post
 title: Las mejores visualizaciones sobre el COVID-19
 ---
-<!--\\[if gte mso 9]><xml>
+![]()
+
+<!--\\\[if gte mso 9]><xml>
  <o:DocumentProperties>
   <o:Author>Steen Steensen</o:Author>
   <o:Version>16.00</o:Version>
@@ -10,9 +12,9 @@ title: Las mejores visualizaciones sobre el COVID-19
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -52,9 +54,9 @@ title: Las mejores visualizaciones sobre el COVID-19
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -633,9 +635,9 @@ title: Las mejores visualizaciones sobre el COVID-19
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 10]>
+<!--\\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -662,7 +664,7 @@ title: Las mejores visualizaciones sobre el COVID-19
 	mso-bidi-theme-font:minor-bidi;
 	mso-fareast-language:EN-US;}
 </style>
-<!\\[endif]-->
+<!\\\[endif]-->
 
 <!--StartFragment-->
 
@@ -689,7 +691,7 @@ Este grafismo, elaborado por la revista Visual Capitalist, describe la historia 
 
 Der Tagesspiegel visualiza cómo el COVID-19 se extiende por todo el mundo en un gráfico de lapso de tiempo. También analiza la velocidad a la que se propaga el virus, y ofrece una imagen sobre la gravedad del brote en la población, al mostrar el número de infectados per capita en cada país. Un gran trabajo de visualización de datos, que se actualiza diariamente con los datos disponibles.
 
-
+![](/images/shots/en-casa-con-un-infectado-el-pais.png)
 
 [Guía de actuación ante el coronavirus](https://elpais.com/sociedad/2020/03/13/actualidad/1584102347_992993.html) **El País 16/03/2020**
 
@@ -697,19 +699,27 @@ Esta infografía aporta “respuestas para saber qué hacer ante la sospecha de 
 
 Otro trabajo de El País, [Así infecta el coronavirus](https://elpais.com/elpais/2020/03/06/ciencia/1583515780_532983.html), aborda el origen del virus y su proceso de infección en el organismo humano.
 
+![](/images/shots/reuters-korean-virus.jpg)
+
 [The Korean clusters. How coronavirus cases exploded in South Korean churches and hospitals](https://graphics.reuters.com/CHINA-HEALTH-SOUTHKOREA-CLUSTERS/0100B5G33SB/index.html) **Reuters 20/03/2020**
 
 Impresionante trabajo del equipo de grafismo de Reuters que investiga el origen del virus en Corea del Sur. El gobierno de este país anunció miles de casos de coronavirus en solo unos días a fines de febrero, centrado en un grupo de fieles de una iglesia en la ciudad de Daegu.
 
 El virus se confirmó por primera vez en el país el 20 de enero, cuando una mujer china de 35 años que voló desde Wuhan, China al aeropuerto internacional de Incheon, que sirve a Seúl, fue aislada al ingresar al país. En las cuatro semanas posteriores al incidente, Corea del Sur logró evitar un brote importante, ya que solo 30 personas contrajeron el virus, a pesar de numerosas interacciones entre cientos de personas identificadas como contactos de los pacientes enfermos.
 
+![](/images/shots/nyt-wuhan.jpg)
+
 [How the virus got out](https://www.nytimes.com/interactive/2020/03/22/world/coronavirus-spread.html) **The New York Times 22/03/2020**
 
 Una investigación exhaustiva y magníficamente ilustrada de cómo el virus salió de Wuhan y llegó a todos los rincones del mundo, mucho antes de que se establecieran las restricciones de viaje. Como señala la entradilla del reportaje: “Las restricciones de viaje más extensas para detener un brote en la historia humana no han sido suficientes. Analizamos los movimientos de cientos de millones de personas para mostrar por qué”. Manejan un elevado volumen de datos con una visualización muy conseguida.
 
+![](/images/shots/financial-times-2-abril.png)
+
 **[Coronavirus tracked: the latest figures as the pandemic spreads](https://www.ft.com/coronavirus-latest) Financial Times 17/03/2020**
 
 Un equipo de cuatro profesionales de datos y grafismo del diario rastrea las trayectorias sobre las muertes y los casos relacionados con Coronavirus en todo el mundo, insertándolos en la misma tabla para mostrar una valiosa comparación entre los distintos países. Añade muchísimos datos, obtenidos del Johns Hopkins University Center for Systems Science Engineering, que recoge a su vez los datos de la Organización Mundial de la Salud, el US Centers for Disease Control and Prevention, el European Centre for Disease Prevention and Control, y el Centre for Disease Control and Prevention de China. El artículo, diariamente actualizado, es de lectura gratuita.
+
+![](/images/shots/scmp-historia-pandemia-coronavirus.jpg)
 
 [Historia del coronavirus y su enfermedad, COVID-19. Una narración visual ](https://multimedia.scmp.com/infographics/news/china/article/3047038/wuhan-virus/es/index.html?src=social&fbclid=IwAR1gxx2lw6uuKbUOkNFWsMZvAFPFatgd--40nYQwyH5PiL4RK_7MHCxlcDs)**South China Morning Post 17/03/2020**
 
