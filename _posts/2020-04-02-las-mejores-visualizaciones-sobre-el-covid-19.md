@@ -689,6 +689,8 @@ Este grafismo, elaborado por la revista Visual Capitalist, describe la historia 
 
 Der Tagesspiegel visualiza cómo el COVID-19 se extiende por todo el mundo en un gráfico de lapso de tiempo. También analiza la velocidad a la que se propaga el virus, y ofrece una imagen sobre la gravedad del brote en la población, al mostrar el número de infectados per capita en cada país. Un gran trabajo de visualización de datos, que se actualiza diariamente con los datos disponibles.
 
+
+
 [Guía de actuación ante el coronavirus](https://elpais.com/sociedad/2020/03/13/actualidad/1584102347_992993.html) **El País 16/03/2020**
 
 Esta infografía aporta “respuestas para saber qué hacer ante la sospecha de padecer la Covid-19, cómo prevenir el contagio o cómo convivir con una persona infectada”. Con un excelente trabajo gráfico, la guía ofrece información sobre las vías de contagio, los principales síntomas y las formas de prevención. Resulta especialmente útil su explicación sobre cómo actuar si alguien convive con una persona enferma de Coronavirus. Gran trabajo elaborado por un equipo de cinco profesionales.
