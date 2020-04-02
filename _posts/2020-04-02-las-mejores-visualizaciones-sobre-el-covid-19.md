@@ -725,7 +725,9 @@ Un equipo de cuatro profesionales de datos y grafismo del diario rastrea las tra
 
 El excelente equipo de grafismo de este diario chino elabora una completa cobertura de la pandemia, explicando sus orígenes en Wuhan y su evolución por todo el mundo. Combina un tratamiento exquisito de la información seleccionada con un grafismo muy didáctico. La pieza se actualiza cada día.
 
+![](/images/shots/curva-del-coronavirus.gif)
 
+![](/images/shots/covid-19-transmission-graphic-01.gif)
 
 **Aplanar la curva The Spinoff TV 20/03/2020**
 
