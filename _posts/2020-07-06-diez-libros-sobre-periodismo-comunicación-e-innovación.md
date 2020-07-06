@@ -680,7 +680,7 @@ El impacto de la Inteligencia Artificial (IA) en el periodismo [es irreversible]
 
 **Diakopoulos** destripa los mitos y miedos que rodean la implantación del periodismo automatizado, argumentando que son herramientas que los periodistas controlan en todo momento y utilizan para obtener el mejor rendimiento. No se trata de robotizar el periodismo, sino de humanizar el aporte de los algoritmos y las máquinas, para gestionar mejor los contenidos. Sin embargo, **el panorama no está exento de riesgos**, tales como los sesgos insertados en los algoritmos que discriminan los contenidos, el predominio de los valores comerciales, la [proliferación de deepfakes](https://mip.umh.es/blog/2019/12/01/deepfakes-c%C3%B3mo-los-medios-combaten-la-desinformaci%C3%B3n-m%C3%A1s-sofisticada/) o [el desplazamiento de los periodistas en los trabajos más estándarizados](https://www.europapress.es/portaltic/empresas/noticia-microsoft-confiara-robots-editar-noticias-despedir-parte-periodistas-20200601111118.html).
 
-![](/images/shots/comunicacion-clara.jpg)
+![](/images/shots/derecho-entender.jpg)
 
 [El derecho a entender. La comunicación clara, la mejor defensa de la ciudadanía](https://www.catarata.org/libro/el-derecho-a-entender_108430/). **Estrella Montolío, Mario Tascón**
 
@@ -716,7 +716,7 @@ Este libro, muy práctico, funciona como un diccionario que permite interpretar 
 
 Marconi sostiene que los procesos robotizados en la producción de noticias facilitan una mayor eficiencia mediante la automatización de las tareas rutinarias más monótonas y propensas a errores. **El periodista no desaparecerá,** **pero tendrá que adaptarse y aprender a** **generar valor identificable** **y más creativo**. Sin caer en los reduccionismos del determinismo tecnológico, la visión de Marconi sirve de inspiración para entender las profundas implicaciones que la IA trae consigo.
 
-![]()
+![](/images/shots/that-will-never-work.jpg)
 
 [That Will Never Work. The Birth of Netflix and the Amazing Life of an Idea](https://www.littlebrown.com/titles/marc-randolph/that-will-never-work/9780316530200/). **Marc Randolph**
 
@@ -724,17 +724,23 @@ Uno de los co-fundadores y CEO de Netflix, **Marc Randolph**, cuenta cómo en 19
 
 La trayectoria de Marc Randolph, el sueño norteamericano hecho realidad, muestra cómo alguien con una buena idea, iniciativa, capacidad de trabajo y determinación puede llegar a lo más alto y superar todo tipo de dificultades. El libro **también contiene enseñanzas fundamentales para cualquier emprendedor**: por dónde empezar, cómo lidiar con los problemas, qué estrategias funcionan para conseguir inversores o cómo liderar equipos.
 
+![](/images/shots/metro-dailies.jpg)
+
 #### [Metro Dailies in the Age of Multimedia Journalism](https://www.amazon.es/dp/B083MB8SS2/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1). Mary Lou Nemanic
 
 Este es un libro optimista, sin esconder cierto pesimismo, sobre el futuro de los medios locales. **Mary Lou Nemanic**, documentalista y profesora de periodismo, estudió cinco diarios de ciudades norteamericanas de tamaño medio durante seis años. Pudo comprobar cómo la plantilla de tres de ellos quedó reducida al mínimo, y culpa a “los inversores corporativos, que han desmantelado muchas empresas periodísticas locales”. Zonas geográficas completas han quedado desabastecidas de medios locales y se han convertido en “desiertos informativos”, [tal y como documenta esta iniciativa en Estados Unidos](https://www.usnewsdeserts.com/), donde los ciudadanos apenas pueden acceder a la información sobre su ciudad o la región donde viven. Por desgracia, esta historia también nos resulta familiar en nuestro país. La crisis de los medios locales [revela la incapacidad de muchas empresas](https://www.csmonitor.com/USA/Society/2020/0327/The-other-first-responders-local-journalists) para ofrecer una respuesta a las necesidades informativas y de servicio de los ciudadanos.
 
 El libro muestra cómo las redacciones locales se han adaptado a internet. Junto con los aspectos negativos, **Nemanic analiza cómo algunos directivos han liderado la transformación digital** y han impulsado un periodismo creativo y de calidad, al servicio de las comunidades donde trabajan. Y concluye que un modelo innovador de diario local híbrido tiene futuro.
 
+![](/images/shots/neuroeducacion.jpg)
+
 [Neuroeducación y lectura](https://www.casadellibro.com/libro-neuroeducacion-y-lectura/9788491819400/11544070). **Francisco Mora**
 
 “Por los vericuetos del cerebro corretean las letras, que encienden una luz nueva para uno mismo y el universo que contempla”, afirma el autor. Francisco Mora, profesor de Fisiología Humana en la Facultad de Medicina de la Universidad Complutense y profesor adscrito de Fisiología Molecular y Biofísica en la Facultad de Medicina de la Universidad de Iowa, **nos conduce en un viaje apasionante que entrelaza el lenguaje y la lectura**.
 
 Esta obra muestra cómo la lectura transforma el cerebro, mediante procesos de “recableado neuronal” que reinventan diversos caminos para lograr, por ejemplo, que las personas invidentes o los niños con dificultades lectoras puedan leer con normalidad y alcancen una notable fluidez. La neuroeducación profundiza en los mecanismos de la emoción y la curiosidad, en la apertura de la atención y en los procesos que facilitan el aprendizaje y la memoria. Los educadores podemos aprender mucho.
+
+![](/images/shots/product-mindset.jpg)
 
 [The Product Mindset Succeed in the Digital Economy by Changing the Way Your Organization Thinks](https://www.amazon.es/Product-Mindset-Succeed-Changing-Organization-ebook/dp/B07WM2PBHX). **David DeWolf y Jessica Hall**
 
