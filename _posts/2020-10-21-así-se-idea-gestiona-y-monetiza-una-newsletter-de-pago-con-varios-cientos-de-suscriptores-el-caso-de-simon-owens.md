@@ -48,7 +48,7 @@ R.: Demasiadas. Muy a menudo. Cientos (risas).
 
 **P.: Enfrentarse a la pérdida de suscriptores es algo difícil y cansado, tanto económica como mentalmente. ¿Cómo intentas evitarlo?** 
 
-R.: Tengo que lidiar con la pérdida de suscriptores mucho menos de lo que imaginas. Hace unas horas he enviado una newsletter y, por ahora, ni una sola persona se ha desuscrito de la newsletter gratuita. Normalmente solo pierdo algunos suscriptores por semana. Y, una vez inicié la estrategia de pago, ya sabes: es algo a lo que te tienes que preparar mentalmente en cierta medida. Duele mucho. Ver que alguien deja de estar suscrito es una mala sensación y debes estar preparado, porque va a ocurrir.
+R.: Tengo que lidiar con la pérdida de suscriptores mucho menos de lo que imaginas. Hace unas horas he enviado una newsletter y, por ahora, ni una sola persona se ha desuscrito de la versión gratuita. Normalmente solo pierdo algunos suscriptores por semana. Y, una vez inicié la estrategia de pago, ya sabes: es algo a lo que te tienes que preparar mentalmente en cierta medida. Duele mucho. Ver que alguien deja de estar suscrito es una mala sensación y debes estar preparado, porque va a ocurrir.
 
 **P.: En alguna ocasión has mencionado que los anunciantes no se sienten atraídos por el proyecto porque no ofrece un nivel de escala que haga los números atractivos. Pero, en realidad, tienes un público objetivo muy concreto. ¿Has pensado en vender espacio publicitario muy especializado?**
 
