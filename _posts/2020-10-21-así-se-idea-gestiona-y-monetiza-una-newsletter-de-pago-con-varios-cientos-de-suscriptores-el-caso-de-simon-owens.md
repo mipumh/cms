@@ -30,7 +30,7 @@ R.: La primera fase pasa por conseguir que el proyecto sea sostenible. ¿Puedo o
 
 ![El periodista estadounidense Simon Owens](/images/shots/simon-headshot.png "El periodista estadounidense Simon Owens")
 
-***Simon Owens ha trabajado para empresas periodísticas, como ESPN y Forbes, y también para plataformas tecnológicas, como Google***
+###### ***Simon Owens ha trabajado para empresas periodísticas, como ESPN y Forbes, y también para plataformas tecnológicas, como Google***
 
 **P.: Después de seguir tu newsletter, imagino que Substack te quita todos los dolores de cabeza relacionados con la tecnología para que puedas centrarte en crear contenido...**
 
