@@ -4,8 +4,6 @@ title: "Así se idea, gestiona y monetiza una newsletter de pago con varios
   cientos de suscriptores: el caso de Simon Owens"
 new_author: Cristian Ramón Marín Sanchiz
 ---
-
-
 ![Así se idea, gestiona y monetiza una newsletter de pago con varios cientos de suscriptores: el caso de Simon Owens](/images/shots/untitled-7-.png "Así se idea, gestiona y monetiza una newsletter de pago con varios cientos de suscriptores: el caso de Simon Owens")
 
 A principios de 2020, [el periodista estadounidense Simon Owens,](https://twitter.com/simonowens?s=20) especializado en tecnología y el negocio de los medios de comunicación, decidió transformar su newsletter gratuita [en un producto freemium.](https://simonowens.substack.com/) La versión abierta se mantiene, con podcast incluido, pero parte del contenido está disponible bajo suscripción a través de Substack. Desde entonces ha conseguido que “varios cientos” de personas, la mayoría profesionales del sector, paguen 10 dólares al mes por acceder a sus análisis sobre la industria. El objetivo es alcanzar los 1.000 suscriptores, una cifra que le garantizaría la sostenibilidad de este proyecto que le ha obligado a reducir su carga de trabajo como periodista freelance al mínimo indispensable. Durante su dilatada trayectoria [ha prestado servicios a empresas de renombre, como Google, Facebook o ESPN,](http://www.simonowens.net/about-me) y ahora lo ha apostado casi todo para tener más opciones de escalar su trabajo y depender, en mayor medida, de su marca personal. Pero no es un proceso fácil: asegura que convertir lectores en usuarios de pago “es muy, muy duro”, aunque su experiencia no se mide exclusivamente en términos económicos. También hay un constante aprendizaje sobre aquellas variables que afectan al éxito de una newsletter de pago en términos de diseño, gestión y rentabilización. En esta entrevista hace un repaso por las principales lecciones que ha obtenido durante su nueva andadura profesional.
@@ -77,6 +75,8 @@ R.: Desde el momento en que me despierto y me siento en el escritorio hasta la h
 **P.: Esa es una ventaja respecto al periodismo freelance, ¿verdad? Dependes de ti mismo, no de los clientes.**
 
  R.: Mi día es muy flexible. No tengo jefe. Puedo hacer, en cierto modo, lo que quiera. Trabajo muchas horas, en especial de lunes a jueves, y un poco los fines de semana. Al menos, todo el mundo puede tener ahora un poco de flexibilidad porque la mayoría de la gente de Estados Unidos está trabajando desde casa. Pero en mi caso se acentúa más.
+
+> ### "Una persona que se suscribe a la newsletter gratuita y escucha el podcast es mucho más proclive a convertirse en un usuario de pago", asegura Owens
 
 **P.: Hablemos sobre contenido. En tu newsletter has argumentado que la versión de pago no puede ofrecer lo mismo que la gratuita. Que debe ser distinta. Entonces, ¿es correcto asumir que generas contenido orientado a atraer usuarios y contenido especializado en retenerlos?**
 
