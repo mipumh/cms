@@ -2,13 +2,13 @@
 layout: post
 title: Selección de las mejores publicaciones sobre innovación en periodismo de 2020
 ---
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -48,9 +48,9 @@ title: Selección de las mejores publicaciones sobre innovación en periodismo d
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -629,9 +629,9 @@ title: Selección de las mejores publicaciones sobre innovación en periodismo d
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -658,11 +658,11 @@ title: Selección de las mejores publicaciones sobre innovación en periodismo d
 	mso-bidi-theme-font:minor-bidi;
 	mso-fareast-language:EN-US;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
-La investigación sobre la innovación en el periodismo ha experimentado un crecimiento notable a lo largo de este año, con más de 40 trabajos publicados tanto en España como a nivel internacional. Entre los ámbitos más investigados figuran la teoría de la difusión de las innovaciones, la gestión de la innovación, la cultura organizativa, los perfiles profesionales, los modelos empresariales, la innovación en los géneros y contenidos, las herramientas y la tecnología, los laboratorios de medios y diversas iniciativas periodísticas. Otros estudios se centran en las innovaciones introducidas en el uso de chatbots, el vídeo 360º, las newsletters, la gamificación periodística, los formatos televisivos y la visualización de la información. Seleccionamos las 25 publicaciones más relevantes que, a nuestro juicio, **sintetizan el estado actual de la investigación académica sobre la innovación en periodismo**.
+La investigación sobre la innovación en el periodismo ha experimentado un crecimiento notable a lo largo de este año, **con más de 40 trabajos publicados tanto en España como a nivel internacional**. Entre los ámbitos más investigados figuran la teoría de la difusión de las innovaciones, la gestión de la innovación, la cultura organizativa, los perfiles profesionales, los modelos empresariales, la innovación en los géneros y contenidos, las herramientas y la tecnología, los laboratorios de medios y diversas iniciativas periodísticas. Otros estudios se centran en las innovaciones introducidas en el uso de chatbots, el vídeo 360º, las newsletters, la gamificación periodística, los formatos televisivos y la visualización de la información. Seleccionamos las 25 publicaciones más relevantes que, a nuestro juicio, **sintetizan el estado actual de la investigación académica sobre la innovación en periodismo**.
 
 **Belair-Gagnon, Valerie y Steinke, Allison J.** (2020). [Capturing Digital News Innovation Research in Organizations, 1990–2018](https://doi.org/10.1080/1461670X.2020.1789496). *Journalism Studies*, 1-20.
 
@@ -708,7 +708,7 @@ La investigación sobre la innovación en el periodismo ha experimentado un crec
 
 **Porcu, Ornella; Hermans, Liesbeth y Broersma, Marcel** (2020). [Unlocking the newsroom: measuring journalists’ perceptions of innovative learning culture](https://doi.org/10.1080/1461670X.2020.1758956). *Journalism Studies*, online first.
 
-***Pozo-Montes, Yaiza y Larrondo-Ureta, Ainara** (2020).* [Revisión de los factores de innovación en periodismo: análisis de laboratorios de medios](https://doi.org/10.1387/zer.21417). *ZER. Revista de Estudios de Comunicación*, v. 25, n. 48, pp. 191-210.
+**\*Pozo-Montes, Yaiza y Larrondo-Ureta, Ainara** (2020).* [Revisión de los factores de innovación en periodismo: análisis de laboratorios de medios](https://doi.org/10.1387/zer.21417).* ZER. Revista de Estudios de Comunicación*, v. 25, n. 48, pp. 191-210.
 
 **Sánchez Gonzales, Hada y Sánchez González, María** (2020). [Conversational bots used in political news from the point of view of the user’s experience: Politibot](https://doi.org/10.15581/003.33.4.155-168). *Communication & Society,* v. 33, n. 4, pp. 155-168.
 
@@ -721,8 +721,6 @@ La investigación sobre la innovación en el periodismo ha experimentado un crec
 **Trillo-Domínguez, Magdalena y Alberich-Pascual, Jordi** (2020). [Análisis y tipificación de formatos emergentes en el ciberperiodismo español: de la adaptación multimedia a la disrupción transmedia](https://doi.org/10.5209/esmp.67317). *Estudios sobre el Mensaje Periodístico,* v. 26, n. 1, pp. 652-668.
 
 **Zaragoza-Fuster, María-Teresa y García-Avilés, Jose-Alberto** (2020). [The role of innovation labs in advancing the relevance of Public Service Media: the cases of BBC News Labs and RTVE Lab](https://doi.org/10.15581/003.33.1.45-61). *Communication & Society*, v. 33, n. 1, pp. 45-61.
-
- 
 
 **Nota:** Para la selección de estas publicaciones se han tenido en cuenta únicamente libros, capítulos y artículos científicos publicados a lo largo de 2020 que incluyeran “innovación periodística” en su resumen o palabras clave.
 
