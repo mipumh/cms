@@ -3,13 +3,13 @@ layout: post
 title: "Veggie’s World Magazine: así se gestó la primera revista de Instagram
   especializada en vegetarianismo y veganismo de España"
 ---
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -49,9 +49,9 @@ title: "Veggie’s World Magazine: así se gestó la primera revista de Instagra
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -630,9 +630,9 @@ title: "Veggie’s World Magazine: así se gestó la primera revista de Instagra
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -655,13 +655,11 @@ title: "Veggie’s World Magazine: así se gestó la primera revista de Instagra
 	mso-bidi-theme-font:minor-bidi;
 	mso-fareast-language:EN-US;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
 Cuando empecé mi andadura en el Máster en Innovación en Periodismo, en octubre de 2018, tenía muy clara la idea del proyecto que quería desarrollar a lo largo del curso: una revista especializada en vegetarianismo y veganismo. A decir verdad, el primer día de clase ya tenía decidido el nombre del proyecto —**Veggie’s World Magazine**— e incluso había diseñado el logo definitivo.
-
- 
 
 ![](/images/shots/logo-veggies.jpg)
 
@@ -674,8 +672,6 @@ Cuando empecé mi andadura en el Máster en Innovación en Periodismo, en octubr
 Comencé a hacer una búsqueda exhaustiva de cuentas relacionadas con el vegetarianismo y el veganismo que estuvieran en activo en Instagram. Encontré multitud de perfiles; muchísimos más de los que imaginaba: desde cuentas dedicadas a la gastronomía 100% vegetal, hasta cuentas de nutricionistas que divulgaban un estilo de vida vegano o cuentas sobre activismo antiespecista dirigidas por organizaciones internacionales.
 
 Pero, entre estos avatares, no logré dar con un solo perfil de algún medio de comunicación especializado en el mundo vegetariano y vegano que publicara sus contenidos en Instagram. “Voy a crear la primera revista de Instagram especializada en vegetarianismo y veganismo de España”, me dije a mí misma —esta vez mucho más convencida porque el proyecto se estaba tornando cada vez más ambicioso—.
-
- 
 
 Ahora era el momento de decidir qué tipo de contenido quería publicar en la revista. Tras darle muchas vueltas, opté por delimitar el [perfil de Instagram de Veggie’s World Magazine](https://www.instagram.com/veggiesworldmag/) en cinco secciones:
 
@@ -691,15 +687,9 @@ Ahora era el momento de decidir qué tipo de contenido quería publicar en la re
 
 Posteriormente, decidí otorgar un color a cada sección para que el público pudiera identificar cada una de ellas fácilmente y, al mismo tiempo, obtener un *feed* estético y armónico, [algo que los usuarios valoran de forma muy positiva en Instagram](https://blog.inturea.com/importancia-cuidar-feed-instagram-atraccion-visual/). Así pues, para la “sección periodística” opté por emplear el color gris, para la sección “Sabías que…” escogí el rojo, para “No te pierdas” hice uso del azul, para “Hoy cocinamos” me decanté por el amarillo y, por último, la sección “Green Carpet” llevaría el color verde.
 
- 
-
 ![](/images/shots/red-inicial.jpg)
 
-                           
-
 *Feed inicial de Instagram de Veggie’s World Magazine.*
-
- 
 
 Con los pilares del proyecto cada vez más asentados, en marzo de 2019, mientras seguía cursando el MIP, decidí empezar a publicar contenido en Instagram semanalmente.
 
@@ -711,8 +701,6 @@ En el verano de 2019, a menos de dos meses de presentar mi proyecto ante el trib
 
 Una vez presentado el proyecto ante el tribunal del MIP, en septiembre de 2019, empecé a pensar en un cambio de imagen para la revista. La [cuenta de Instagram de Veggie’s World Magazine](https://www.instagram.com/veggiesworldmag/) seguía creciendo y una de mis prioridades era que el perfil tuviera un aspecto más serio y profesional. Tras mucho pensar, a principios de 2020, decidí apostar por un nuevo diseño e incorporar algunos cambios. La novedad más destacada fue el estreno de una nueva sección: la cita del día, que recopilaría citas célebres de personalidades vegetarianas o veganas. Decidí apostar por las [citas célebres](https://mkparadise.com/quotes-instagram) porque funcionan muy bien en Instagram y casi siempre suelen generar un buen número de *likes* y comentarios. De hecho, esta sección se ha terminado convirtiendo en una de las favoritas de la audiencia.
 
- 
-
 ![](/images/shots/feed-actual.jpg)
 
 *Feed actual de Veggie’s World Magazine tras incorporar los cambios.*
@@ -721,17 +709,11 @@ Una vez presentado el proyecto ante el tribunal del MIP, en septiembre de 2019, 
 
 Durante los meses de marzo, abril y mayo de 2020 en Instagram se volvieron virales múltiples retos y se pusieron de moda [muchos juegos](https://www.tuexpertoapps.com/2020/03/21/5-juegos-de-instagram-stories-para-divertirte-con-tus-amigos-durante-el-aislamiento-por-el-covid-19/). Así pues, decidí adaptar a la temática de la revista algunos de esos juegos y publicarlos a través de [Instagram Stories](https://www.tuexpertoapps.com/2020/04/21/como-encontrar-plantillas-para-hacer-juegos-y-retos-en-instagram-stories/). Por citar un ejemplo, creé un bingo sobre veganismo en el que tenías que rodear en la plantilla aquellas frases que habías escuchado alguna vez por el simple hecho de ser vegano o vegana y posteriormente nominar a 4 amigos para que también pudiesen jugar. El nivel de participación superó con creces las expectativas, disparando el *engagement* de la cuenta; y, al mismo tiempo, sirvió para entretener a la audiencia de Veggie’s World Magazine en aquellos momentos tan difíciles.
 
- 
-
 ![](/images/shots/juegos-2.jpg)
-
-                           
 
 *Ejemplo de los juegos que se publicaron en la cuenta de Instagram de Veggie’s World Magazine.*
 
 Durante el verano de 2020, decidí diseñar nuevo *merchandising*. Como primera toma de contacto, adquirí una remesa de 30 camisetas en las que aparecía un dibujo con varios animales sentados en un sofá y se podía leer el mensaje “*Friends* —recreando la tipografía de la mítica serie de televisión— *not food*”. Puse a la venta todas las camisetas en Instagram, siguiendo una [estrategia de marketing digital para e-commerce](https://youtu.be/qrfp0CpG60o), y el resultado fue cuanto menos sorprendente: en cuestión de horas había vendido todas las camisetas y no paraba de recibir mensajes de personas interesadas en conseguir una. Esto fue algo que me hizo pensar seriamente en la posibilidad de poner en marcha una tienda online de Veggie’s World Magazine y anunciar los productos en Instagram, ya que [el 83% de los usuarios descubren nuevos productos y servicios en esta plataforma](https://www.oberlo.es/blog/consejos-como-vender-en-instagram).
-
- 
 
 ![](/images/shots/marketing.jpg)
 
@@ -739,14 +721,10 @@ Durante el verano de 2020, decidí diseñar nuevo *merchandising*. Como primera 
 
  El broche final para cerrar 2020 fue la publicación del especial *[Veggie’s World Magazine: Lo mejor de 2020](https://www.yumpu.com/es/document/read/65150378/veggies-world-magazine-lo-mejor-de-2020)*, un ejemplar online gratuito de más de 100 páginas que recopila las mejores publicaciones que fueron viendo la luz a largo del año en la [cuenta de Instagram de Veggie’s World Magazine](https://www.instagram.com/veggiesworldmag/). Para este proyecto tuve la suerte de poder contar con el apoyo económico de hasta siete empresas veganas y con la colaboración especial de [Fundación El Hogar](https://fundacionelhogar.org/), el primer santuario de animales de España, a quien quise donar una página publicitaria para contribuir a dar voz al proyecto tan bonito y necesario que promueven.
 
- 
-
 ![](/images/shots/post-instagram.jpg)
 
 *Post de Instagram anunciando el lanzamiento de Veggie’s World Magazine: Lo mejor de 2020.*
 
 Por el momento, ya somos cerca de 3.000 personas en la [cuenta de Instagram de Veggie’s World Magazine](https://www.instagram.com/veggiesworldmag/) y el proyecto sigue creciendo cada día; sin prisa, pero sin pausa. Son cada vez más los mensajes que recibo de personas vegetarianas, veganas o incluso escépticas de todo este mundo mostrándome su agradecimiento por haber impulsado un proyecto así. Y, sin duda, eso es algo que me hace muy feliz y me da muchas fuerzas para continuar durante mucho tiempo más. Ya lo decía el proverbio chino: “Si caminas solo, irás más rápido. Si caminas acompañado, llegarás más lejos”.
-
- 
 
 <!--EndFragment-->
