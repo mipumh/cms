@@ -3,14 +3,14 @@ layout: post
 title: "Robo-Sapiens: la comunicación humano-máquina transforma lo que sabíamos
   hasta ahora"
 ---
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:DocumentProperties>
   <o:Author>mcarvajal</o:Author>
   <o:Version>16.00</o:Version>
  </o:DocumentProperties>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -51,9 +51,9 @@ title: "Robo-Sapiens: la comunicación humano-máquina transforma lo que sabíam
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -632,9 +632,9 @@ title: "Robo-Sapiens: la comunicación humano-máquina transforma lo que sabíam
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -654,7 +654,7 @@ title: "Robo-Sapiens: la comunicación humano-máquina transforma lo que sabíam
 	font-size:11.0pt;
 	font-family:"Calibri",sans-serif;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
@@ -664,7 +664,7 @@ Los AVs (Virtual Digital Assistant, en inglés) son uno de los ámbitos de la I
 
 Los ejemplos más conocidos de AVs son Siri (Apple), Google Now y Google Home, Alexa (Amazon), Braina y Cortana (Microsoft), Viv y Bixby (Samsung), Voice Mate (LG), Nina (Nuance) y Silvia (HTC). Los teléfonos inteligentes y otros dispositivos emplean AVs para ayudar a los usuarios a organizar sus rutinas diarias, administrar su tiempo y tomar decisiones. Sus servicios se basan en los datos suministrados por el usuario, el reconocimiento de su ubicación y su voz, así como en la capacidad para acceder a información en línea sobre el tiempo, tráfico, noticias, música, el propio horario del usuario, restaurantes, cotizaciones bursátiles, etc. Es decir, cada vez más personas utilizan **los AV como un compañero interactivo en su día a día**.
 
-![](/images/shots/vas.jpg)
+![](/images/shots/avs.jpg)
 
 En el ‘Internet de las cosas’, donde los dispositivos están interconectados mediante tecnologías de red inalámbrica y sensores, las formas de aprendizaje y comunicación están cambiando. Por ejemplo, una entidad bancaria anuncia que los clientes pueden gestionar sus operaciones mediante AVs. Desarrolladores de Microsoft [han diseñado un software que permite dialogar con personas fallecidas](https://www.infobae.com/america/tecno/2021/01/22/patentaron-un-software-que-permitira-dialogar-con-personas-fallecidas/). Los AVs se popularizan [en los servicios de salud](https://www.elsevier.com/es-es/connect/ehealth/asistentes-virtuales-de-voz-una-revolucion-silenciosa-en-el-ambito-de-la-salud). Muchos niños ya están acostumbrados a que ‘Alexa les cuente un cuento’ e interactúan con estos dispositivos de modo natural. Según el profesor Luis Miguel Pedrero, los dispositivos de voz “**[se convertirán en el cauce habitual de interacción con la tecnología y facilitará una nueva relación entre las personas y el ecosistema de medios y servicios digitales](https://mip.umh.es/blog/2020/05/18/verificacion-inteligente-informacion-interfaces-voz/)**”. Resulta necesario, por tanto, aprender a equilibrar nuestras interacciones con los VAs.
 
