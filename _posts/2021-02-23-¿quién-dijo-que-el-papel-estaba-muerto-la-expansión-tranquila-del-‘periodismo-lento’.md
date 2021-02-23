@@ -3,13 +3,13 @@ layout: post
 title: ¿Quién dijo que el papel estaba muerto? La expansión tranquila del
   ‘periodismo lento’
 ---
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -49,9 +49,9 @@ title: ¿Quién dijo que el papel estaba muerto? La expansión tranquila del
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -630,9 +630,9 @@ title: ¿Quién dijo que el papel estaba muerto? La expansión tranquila del
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -659,7 +659,7 @@ title: ¿Quién dijo que el papel estaba muerto? La expansión tranquila del
 	mso-bidi-theme-font:minor-bidi;
 	mso-fareast-language:EN-US;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
@@ -693,15 +693,11 @@ En el panorama español, analizamos **tres publicaciones lanzadas en los último
 
 Su director, **Juan Tejerina**, constata que no existen atajos hacia el éxito ni fórmulas mágicas. “Tienes que ir mes a mes haciendo las cosas conforme a lo que crees”, [señala en una entrevista publicada en Nudomedia](https://www.nudomedia.com/gtm-slow-journalism-manual-periodismo-videojuegos/). Según **Tejerina**, la consolidación de GTM se basó en el **boca a boca de sus propios suscriptores** y la constatación de que son fieles a sus principios de honestidad informativa y no admiten publicidad ni presiones de las empresas de videojuegos. Así lograron introducirse en el mercado y ganarse la confianza de los lectores: “Se trata de **ser fiel y no traicionar a tus bases**. Es muy fácil decirlo, pero es muy complicado hacerlo. Porque obviamente, llegados a un punto, han venido ofertas a GTM que querían comprar una página por 15.000€. 15.000€ me solucionan la nómina de muchas personas. Pero tienes que decir que no. Si dices que sí estás vendido. Después de haber estado en El Mundo, ABC y Expansión, te das cuenta de que no hace falta tener a una gran empresa detrás para ofrecer tu nuevo medio, siempre y cuando tengas los conocimientos profesionales necesarios”, señala **Tejerina**.
 
- 
-
 ![](/images/shots/revista-manual-4.jpg)
 
 [Manual](http://revistamanual.com/por-que-confiar-en-manual/) es una revista de videojuegos lanzada en enero de 2018 por **Dolmen Editorial** con tres áreas perfectamente delimitadas: entrevistas, reportajes y artículos de opinión. La dirección corre a cargo del periodista y escritor **Nacho Requena.** Cada ejemplar incluye cuatro entrevistas, cuatro reportajes y doce artículos. Se publica dos veces al año, en enero y julio, con unas 200 páginas en papel de calidad. **Manual** no tiene análisis, avances, noticias de actualidad, ni guías de compras. Tampoco publica portadas dedicadas a los personajes del mundo de los videojuegos. Su lema es “**somos más de personas que de personajes”**, por lo que los protagonistas siempre son profesionales involucrados en las producciones, desde un diseñador hasta una actriz de captura de movimiento, pasando por programadores, músicos, artistas y trabajadores de todos los ámbitos.
 
 [Nacho Requena explica en Nudomedia](https://www.nudomedia.com/gtm-slow-journalism-manual-periodismo-videojuegos/) que “Manual **toca campos muy transdisciplinares**, igual que el videojuego. Así que es de vital importancia contar con profesionales en esos campos. Si vamos a hacer un reportaje histórico, la persona que tiene que cubrirlo es un historiador”. Este enfoque denota una intención más allá del entretenimiento, próxima a la divulgación científica. “Aunque Manual no es una revista académica, siempre lo diré, sí es pseudoacadémica”, **subraya Requena**, ya que “una vez el profesional trate ese campo, somos los propios periodistas los que corrigen, lo editan y le damos una consistencia y coherencia textual”.
-
- 
 
 ![](/images/shots/revista-salvaje-portadas.jpg)
 
@@ -711,7 +707,7 @@ La suscripción anual incluye cuatro números de la publicación acompañados d
 
 La crisis del mercado de la comunicación, la dictadura del clickbait y la saturación de información digital favorecen que determinados productos periodísticos de calidad, con distribución en papel, cosechen el aprecio de muchos lectores. Por ejemplo, los suscriptores de la revista **Líbero** encuentran entrevistas pausadas a futbolistas y ex-futbolistas, historias emocionantes, aficionados al fútbol del mundo de la cultura, excelentes fotografías y torrentes de originalidad. “Nuestros suscriptores reciben con mucha ilusión cada ejemplar en el buzón. Lo abren con la ilusión con que un niño abre un sobre nuevo de cromos. La clave es no decepcionar esa ilusión y ofrecer un producto de calidad. Si le damos la liturgia del periodismo independiente y después le dedicamos un número especial a Javier Tebas, no nos lo perdonaríamos”, [explica Diego Barcala, fundador de Líbero, en Kodromagazine](https://www.kodromagazine.com/entrevista-diego-barcala-director-revista-libero).
 
-![]()
+![](/images/shots/y_cover_diciembre2019_600x800_crop_bottom.jpg)
 
 En su libro, **Jose María Albalad** ofrece propuestas concretas para **desarrollar un medio que apueste por el periodismo lento**:
 
