@@ -3,6 +3,7 @@ layout: post
 title: Oferta veggie, una aguja en un pajar en la restauración de Elche
 subtitle: El estudio de 214 restaurantes de Elche muestra que menos de un 20%
   incluye opciones vegetarianas entre su oferta
+new_author: Local Data Lab
 ---
 ![](https://lh5.googleusercontent.com/qrsRf-Wz4cP4ojguCnNji5aqr0H6TVIHTCJo--dEdYik3UPTWljhrV0zegdlMLuodI-8Cj-Mps4lEl9WwIM6cfZQvJvPQTMmdwzeOXff6l_1-MpUqAOsTKBK8OnjpNbWzQp0pxlO)
 
@@ -16,7 +17,7 @@ Una visita al mercado, una compra de ingredientes, y Ángela acude a su restaura
 
 El último estudio realizado por [The Green Revolution](https://uploads-ssl.webflow.com/5a6862c39aae84000168e84d/5d7f57eccad5177b48cf66ff_Low_TheGreenRevolution.pdf) revela que casi el 10% de la población española afirma ser vegetariana o vegana, mientras que un 35% reconoce haber reducido o eliminado su consumo de carne durante el año pasado. Esta expansión del movimiento veggie, sin embargo, no se refleja en el sector hostelero de Elche: menos de un 20% de los restaurantes incluyen opciones vegetarianas entre su oferta. Concretamente, un 17,76%. El porcentaje de los restaurantes con opciones veganas empeora: solo un 2,8% contempla la dieta vegana entre los platos que ofrecen.
 
-<div class=”flourish-embed” data-src=“visualisation/4718085”><script src=“[https://public.flourish.studio/resources/embed.js](https://public.flourish.studio/visualisation/4718085/)”></script></div>
+<div class=”flourish-embed” data-src=“visualisation/4718085”><script src=“\[https://public.flourish.studio/resources/embed.js](https://public.flourish.studio/visualisation/4718085/)”></script></div>
 
 <sup> Análisis del contenido nutricional de las opciones veggie. Fuente: Elaboración propia </sup> 
 
@@ -24,7 +25,7 @@ El último estudio realizado por [The Green Revolution](https://uploads-ssl.webf
 
 La reducida oferta de opciones veggie en la restauración de Elche no es el único obstáculo al que se enfrentan quienes no consumen proteína animal: la variedad nutricional de las opciones vegetarianas y veganas es igual de pobre. La mayoría de la oferta vegetariana se batalla entre las frutas y verduras; y el pan, la pasta y los cereales, representando la mitad de los platos. Mientras tanto, la presencia de legumbres, cuya proteína vegetal sustenta una pieza fundamental en la alimentación vegetariana, supone el 9% de las opciones vegetarianas. Este porcentaje es incluso inferior si se toma como referencia la oferta gastronómica general de Elche, pasando a representar un 4,84%.
 
-<div class=”flourish-embed” data-src=“visualisation/4688020”><script src=“[https://public.flourish.studio/resources/embed.js](https://public.flourish.studio/visualisation/4718085/)”></script></div>
+<div class=”flourish-embed” data-src=“visualisation/4688020”><script src=“\[https://public.flourish.studio/resources/embed.js](https://public.flourish.studio/visualisation/4718085/)”></script></div>
 
 <sup> Mapa de los restaurantes con opciones veggie de Elche. Fuente: Elaboración propia </sup> 
 
@@ -70,7 +71,7 @@ Como fundadora del restaurante saludable Qi Food, y clienta del proveedor mencio
 
 De las cuatro principales zonas en las que se clasifica Elche, Pueblo Viejo, más conocido como Centro, reúne el 40% de los restaurantes de la ciudad que contemplan opciones veggie entre su oferta. Este nivel de concentración gastronómica se debe al modo en que se agrupa el sector hostelero de Elche, cuya actividad se concentra mayoritariamente en el centro. El barrio de Altabix recoge el 26% de la oferta vegetariana, aunque únicamente se encuentra en la zona norte, muy alejada de zonas como Sant Antoni, Els Palmerals, Polígon d’Altabix, El Travalo y L’Ege.
 
-<div class=”flourish-embed” data-src=“visualisation/4721616”><script src=“[https://public.flourish.studio/resources/embed.js](https://public.flourish.studio/visualisation/4718085/)”></script></div>
+<div class=”flourish-embed” data-src=“visualisation/4721616”><script src=“\[https://public.flourish.studio/resources/embed.js](https://public.flourish.studio/visualisation/4718085/)”></script></div>
 
 <sup> Porcentaje del número de restaurantes veggie en los barrios de Elche. Fuente: Elaboración propia </sup> 
 
@@ -93,6 +94,10 @@ El pasado año 2019 fue bautizado por The Economist como el año del vegano. Seg
 > “Los restaurantes vegetarianos que hay funcionan muy bien. De aquí a finales de 2021, si ahora hay cinco, habrá cinco más, porque hay más demanda”, augura Paqui Solves, presidenta de la Plataforma de Hostelería Ilicitana.
 
 Paqui Solves razona: “Cuanta más demanda haya, más restaurantes van a abrir, y cuanta menos demanda, menos abren. Los cuatro o cinco que hay están funcionando muy bien. De aquí a finales del año 2021, si ahora hay cinco, habrá cinco más, porque hay más demanda. Está funcionando y la gente va a invertir más en esos restaurantes”.
+
+**Por Lamiae Belghanou y Raquel Climent**
+
+
 
 ### METODOLOGÍA
 
