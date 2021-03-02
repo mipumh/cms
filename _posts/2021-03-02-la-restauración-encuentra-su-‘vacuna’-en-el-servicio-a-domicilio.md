@@ -52,3 +52,5 @@ Viper Rider surge con el objetivo de asesorar a otros restaurantes y brindarles 
 <sup> Un repartidor se prepara antes de subirse a la moto para llevar un nuevo pedido. | Foto: Antonio Navarro </sup>
 
 Viper Rider prioriza al cliente y la calidad antes que los beneficios económicos, y prefieren tener menos volumen de trabajo para ser más eficientes y cercanos . Por ese motivo, actualmente trabajan con ocho restaurantes de Elche, aunque en breve comenzarán a trabajar con dos más. La empresa deja muy claro a sus trabajadores (una plantilla bastante reducida, con seis repartidores, contando con el propio José, que también trabaja de rider) que son la cara visible de los restaurantes para los que trabajan. Este servicio de delivery local apuesta por la cercanía con el cliente, pero no tienen problema si un restaurante decide prescindir de sus servicios: “Si en algún momento un restaurante decide colocar sus propios profesionales, nosotros nos retiramos al instante. Al final nuestra función es el asesoramiento y dar apoyo”, añade.
+
+![](/images/shots/infografia1.jpeg)
