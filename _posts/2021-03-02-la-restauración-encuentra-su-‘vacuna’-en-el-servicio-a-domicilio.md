@@ -21,7 +21,7 @@ Según un [estudio de Makro](https://www.makro.es/prensa/comunicados-de-prensa-2
 
 Aunque en el caso de su establecimiento, el Restaurante Matola, el servicio a domicilio no está disponible, el hostelero buscó adaptarse para poder enviar pedidos puntuales a determinados clientes. Durante el verano, el restaurante envió mediante taxis menús y paellas a varios clientes con cierto estatus que, por miedo al contagio, no salían de casa.
 
-![](https://lh6.googleusercontent.com/pGVC5Ap-jIfI2nm7CjbP_cO9ELYHUmyUTREHVYf9fL6Cp_Ul6MpBiuSwXADwUCAM7A5GcIrUvZzxxn622KlgARUTEFqxmh1qMHqz0oC4s9piVHQDneWosKD89mRJx9uD_Oq-fc1U)
+![](/images/shots/optimized-dsc_0405-1-min.jpg)
 
 <sup> Un cartel en la fachada del Café Mónaco de Elche indica a sus clientes dónde está el servicio de delivery y take away. | Foto: Antonio Navarro </sup> 
 
@@ -56,3 +56,41 @@ Viper Rider prioriza al cliente y la calidad antes que los beneficios económico
 ![](/images/shots/infografia1.jpeg)
 
 **Por Antonio Navarro y Alexandre Expósito**
+
+### METODOLOGÍA
+
+**Proceso común del proyecto**
+
+En este breve [podcast](https://soundcloud.com/agusti-castell-prades-536502666) te contamos cómo hemos elaborado nuestra base de datos. Escúchalo y conoce cómo hemos conseguido y ordenado las cartas y menús de más de 200 restaurantes. Si quieres saber más detalles, sigue leyendo la metodología.
+
+Para conseguir todos los datos :
+
+* Comenzamos extrayendo información, como nombres de restaurantes, su ubicación o si disponían de reparto a domicilio, de los principales comparadores online de restaurantes: Tripadvisor y Gastroranking. Utilizamos la aplicación Web Scrapper.
+* Con toda la información ordenada en una hoja de cálculo, nos repartimos los restaurantes entre los 8 miembros del grupo para buscar sus cartas y sus menús en la web.
+* Gran cantidad de estas cartas fueron extraídas de aplicaciones de reparto a domicilio como Just Eat, Deliveroo o Uber Eats. Estos datos eran muy irregulares y presentaban en una misma columna el nombre del producto, sus ingredientes y el precio, por lo que hubo que buscar un método automático de dividir esta columna en tres. Los datos descuadrados o en columnas que no correspondían se modificaron a mano.
+* A los menús conseguidos por medio de redes sociales o páginas web hay que sumarles los que se consiguieron yendo directamente a estos establecimientos a fotografiar y preguntar por la carta y los menús.
+* Para facilitar la extracción de información de las imágenes (capturas de pantalla y fotos), analizamos la información con un programa de OCR (Reconocimiento Óptico de Caracteres), que permitió digitalizar algunas cartas, mientras que otras, con peor resolución o tipografías poco claras, tuvieron que transcribirse a mano.
+* Con todos los datos de restaurantes, sus productos, sus precios y la información sobre si disponían de servicio de reparto a domicilio en nuestra base de datos, hubo que añadir, a mano, las coordenadas exactas de todos los locales y el tipo de comida que ofrecían. También comprobar si los negocios seguían abiertos o si, como muchos otros, se habían visto obligados a bajar definitivamente sus persianas ante la crisis del Covid-19.
+* Con esta hoja de cálculo como base, cada uno de los equipos la amplió con otros datos para sus respectivos reportajes.
+
+Los datos conseguidos se reflejan en estas hojas de cálculo:
+
+* [Restaurantes y productos](https://docs.google.com/spreadsheets/d/12s2LHFMo0XiIel-F0CMqCnHtDRFpo1RMtcg8P_zYbEY/edit#gid=89687128)
+* [Clasificación de alimentos](https://docs.google.com/spreadsheets/d/11sdyimV7Ek1KRw6GiERb9y2MLBrW7A4h9-76Zj-AJjk/edit#gid=1536004844)
+* [Número de alimentos por restaurante y porcentajes](https://docs.google.com/spreadsheets/d/1W6huMFEg1L5kmJZazvEx6EUIO91BF3Fmolz_dZcZjgI/edit#gid=1963078616)
+
+**Proceso propio**
+
+* Una vez tuvimos la base de datos terminada, filtramos los datos para seleccionar lo realmente útil para nuestro reportaje.
+* Nos centramos especialmente en los restaurantes de nuestra base de datos que contaban con servicio a domicilio, pues era el tema en el que íbamos a profundizar.
+* Para la base de datos general (la que elaboramos y usamos para trabajar todo el equipo) clasificamos los restaurantes según el tipo de comida en el que estaban especializados. Nosotros decidimos ser más generales y agrupar restaurantes que catalogamos como pizzerías dentro de la comida italiana. Hicimos lo mismo con la comida asiática: en la base de datos general diferenciamos entre comida china y japonesa, pero para la investigación de nuestro reportajes decidimos agrupar este tipo de restaurantes en comida asiática.
+* En el apartado del reportaje de las opciones más baratas y más caras damos un precio medio de cada tipo de restaurante. Para calcular esta media, hemos seleccionado dos platos y una bebida por restaurante, pues consideramos que es una selección bastante aproximada de lo que suele seleccionar un consumidor cuando pide comida a un restaurante.
+* En cuanto a las fuentes, hemos seleccionado una fuente especializada en la restauración de Elche: Francisco José Mora, Vicepresidente de la Plataforma Hostelería Elche, y ex presidente de la Asociación de Hosteleros de Elche.
+* Hemos entrevistado a José Andaluz, gerente del restaurante Breaking Burguer Elche y creador de la empresa de delivery ilicitano, Viper Rider.
+* También entrevistamos a Carmen Reina, Secretaria del Área Interna FeSMC (UGT) de Alicante. Hemos decidido guardar la información que nos aportó para el siguiente reportaje, pues creemos que su testimonio tendrá más utilidad proyecto futuro.
+* Como fuentes documentales, usamos el Gastrómetro, un informe que realiza la empresa de delivery Just Eat anualmente.
+* También consultamos un estudio elaborado este mismo año por la empresa Makro.
+
+  **Fuentes documentales**
+* <https://www.just-eat.es/explora/gastrometro>
+* <https://www.makro.es/prensa/comunicados-de-prensa-2020/ndp-unopuntosiete>
