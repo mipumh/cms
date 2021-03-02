@@ -10,8 +10,6 @@ new_author: Local Data Lab
 
 “No puedes pretender que en un barrio obrero la gente vaya a un restaurante caro todas las semanas”, comenta Francisco Javier Mora, vicepresidente de la Plataforma Hostelería Ilicitana y propietario del restaurante Matola. Como él, son varios los restaurantes de alta gama que prefieren establecerse a las afueras de la ciudad, alejados de los barrios más obreros que disponen de rentas bajas y donde se encuentran pequeños bares y cafeterías de menús asequibles.
 
-
-
 <sup> Plaza de la Glorieta de Elche, 10 de diciembre de 2020. Estatua de la dama de Elche junto a restaurantes céntricos. Fuente: propia </sup>
 
 Carrús y el Plá se sitúan como los barrios con renta más baja en la ciudad de Elche. Tras el análisis de más de 17.500 platos extraídos de las cartas y los menús de 214 bares y restaurantes de Elche, se puede observar que el 94% de los restaurantes en Carrús son de precios bajos y medios, y en el Plá la cosa es bastante similar, con un 86% de este tipo de restaurantes. Por otro lado, barrios como Altabix o el Centro concentran un gran número de restaurantes de precios medio altos. Estos datos confirman la gran diferencia de precios que hay en los restaurantes de uno u otro barrio. 
@@ -94,3 +92,5 @@ En muchos casos, además, los propios restaurantes pueden servir de pantalla. Un
 > Por último queremos dar las gracias a todos los restaurantes que nos ofrecieron amablemente sus cartas. También a nuestros entrevistados, por ofrecernos una información muy valiosa y de manera muy amable.
 >
 > Mención especial a nuestro profesor Félix Arias que nos ayudó con todas las dudas que tuvimos y nos apoyó y alentó a seguir continuando con este proyecto. Gracias también a Enrique Ribera por ayudarnos con la localización de cada restaurante en sus barrios correspondientes. Por último, a nuestro compañeros de grupo, con los que realizamos la titánica tarea de crear una base de datos tan grande e interesante.
+
+Por Juan Antonio Candela Azorín y Juan Botella Pérez
