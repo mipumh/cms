@@ -16,6 +16,10 @@ No es ningún secreto: las compañías periodísticas más avanzadas en la impla
 
 En este contexto, los medios apuestan por ofertas muy agresivas con una estrategia muy clara: que quienes estén dubitativos, opten por suscribirse. Y, a partir de ese momento, los equipos dedicados a suscripciones se ponen manos a la obra para intentar retenerles. La calidad del contenido, de acuerdo con el informe de API, es el principal factor de los medios para convencerles, pero también hay técnicas propias de la gestión de producto. Lo primero es segmentar a los posibles suscriptores. Los más proclives, los más avezados, no suponen tanto reto como aquellos que Jose A. Navas, product owner de suscripciones de El Confidencial, denomina “pragmáticos” o “conservadores”. **“Las ofertas, al final, se utilizan para poder convencer luego al usuario de que merece la pena pagar, porque a lo mejor no está del todo convencido.** Le convences con el precio, pero luego tienes que retenerle con el producto”, explica.
 
+![](/images/shots/descuentos-muros-de-pago-suscripcion.png)
+
+***Ofertas que plantea El Mundo para nuevos usuarios***
+
 Siguiendo la lógica de los descuentos, podría parecer que el registro del usuario, o incluso un periodo de prueba gratuito que no implique transacción económica, es todavía más efectivo que ofrecer descuentos. Pero las evidencias no apuntan en esa dirección: [otro de los informes del American Press Institute](https://www.americanpressinstitute.org/publications/reports/digital-subscription-pricing/) asegura que “las suscripciones de prueba con descuento resultan en un mayor ratio de conversiones que las gratuitas”. Según los entrevistados en este informe, las pruebas sin transacción económica convierten a un 25% de los usuarios y los periodos de prueba con descuento ofrecen resultados más sustanciosos. De hecho, la mayoría de gestores sitúan la capacidad de conversión de los descuentos por encima del 75% de los usuarios. **La clave reside en obtener datos de pago y en activar la renovación automática por defecto, aunque exista la opción de cancelar a posteriori.** Esto, en algunos sistemas gratuitos, no se aplica.
 
 ### Ofertas camaleónicas
@@ -35,6 +39,10 @@ Emily Roseman, directora de investigación del Institute for Nonprofit News, [co
 ### Descuentos para públicos específicos
 
 Las diferentes estrategias de crecimiento en el número de suscripciones pueden incorporar otras variables, como las geográficas o las demográficas. La muestra arquetípica de estas segmentaciones reside en los estudiantes, a quienes numerosos medios ofrecen precios reducidos. Se trata de **una apuesta a largo plazo**, para crear hábitos de lectura en un público joven que, además, [es el que mayor intención de pagar presenta](https://www.tandfonline.com/doi/abs/10.1080/21670811.2020.1770112) según la literatura científica. De nuevo, emerge la misma filosofía: captar el mayor número de suscriptores posible, aunque ello reduzca el promedio de ingresos por usuario, y trabajar en la retención de los mismos.
+
+![](/images/shots/descuentos-muros-pago-2.png)
+
+***El Financial Times ofrece un descuento del 50% para estudiantes***
 
 Otro ejemplo claro es el de **la versión latinoamericana de El País, cuya suscripción cuesta 5 dólares (uno durante el primer mes), frente a los 10 euros de España.** El consultor José Manuel Rodríguez [compara esta estrategia con la de firmas periodísticas internacionales](https://josemanuelrodos.medium.com/el-pa%C3%ADs-lanza-un-esquema-de-suscripci%C3%B3n-m%C3%A1s-econ%C3%B3mico-para-sus-lectores-en-latinoam%C3%A9rica-de75bbe69aad), que intentan conseguir “grandes bolsas de lectores en países ajenos al suyo” para superar las limitaciones de sus respectivos mercados domésticos. “Al principio era muy simple: no podíamos adaptar los precios a diferentes países, pero ahora el precio en México o en Colombia es la mitad que en Europa. Creemos que hay una gran oportunidad fuera de España, donde hay un techo”, argumentó Borja Echevarría, director adjunto de El País, en [una charla organizada por el Reuters Institute for the Study of Journalism.](https://www.youtube.com/watch?v=NrGdBVijVtE) 
 
