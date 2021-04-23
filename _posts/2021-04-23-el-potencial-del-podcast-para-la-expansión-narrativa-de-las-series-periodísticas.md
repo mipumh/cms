@@ -7,7 +7,8 @@ title: El potencial del podcast para la expansión narrativa de las series
 
 En la incesante búsqueda de nuevas fórmulas para captar nuestra atención a través de las historias, los *podcasts* transmedia están evolucionando desde su percepción como formato accesorio hacia su consolidación como una herramienta casi imprescindible. El profesor **Luis Miguel Pedrero** analiza la proliferación de las piezas sonorasvinculadas a productos de matriz informativa o divulgativa como soporte de innovación narrativa y poderosa estrategia de monetización en el competitivo mercado del ocio y entretenimiento digital.
 
-<!--EndFragment--><!--\[if gte mso 9]><xml>
+<!--EndFragment--><!--\\[if gte mso 9]><xml>
+
  <o:DocumentProperties>
   <o:Subject>BBVA Plantilla MS Word Arial_ESP_opcion1</o:Subject>
   <o:Author>MURUZABAL GRANDA ,XABIER</o:Author>
@@ -18,7 +19,7 @@ En la incesante búsqueda de nuevas fórmulas para captar nuestra atención a tr
  </o:OfficeDocumentSettings>
 </xml><!\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -58,9 +59,9 @@ En la incesante búsqueda de nuevas fórmulas para captar nuestra atención a tr
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -639,9 +640,9 @@ En la incesante búsqueda de nuevas fórmulas para captar nuestra atención a tr
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -664,7 +665,7 @@ En la incesante búsqueda de nuevas fórmulas para captar nuestra atención a tr
 	mso-bidi-theme-font:minor-bidi;
 	mso-fareast-language:EN-US;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
@@ -674,7 +675,7 @@ La voz del coronel-jefe de la Unidad Central Operativa, bajo cuyo mando se han d
 
 <!--EndFragment-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:DocumentProperties>
   <o:Subject>BBVA Plantilla MS Word Arial_ESP_opcion1</o:Subject>
   <o:Author>MURUZABAL GRANDA ,XABIER</o:Author>
@@ -683,9 +684,9 @@ La voz del coronel-jefe de la Unidad Central Operativa, bajo cuyo mando se han d
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -725,9 +726,9 @@ La voz del coronel-jefe de la Unidad Central Operativa, bajo cuyo mando se han d
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -1306,9 +1307,9 @@ La voz del coronel-jefe de la Unidad Central Operativa, bajo cuyo mando se han d
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -1331,9 +1332,11 @@ La voz del coronel-jefe de la Unidad Central Operativa, bajo cuyo mando se han d
 	mso-bidi-theme-font:minor-bidi;
 	mso-fareast-language:EN-US;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
+
+![](/images/shots/imagen1.jpg)
 
 Con la inquietante revelación de ese hallazgo arranca *Los Manuales de ETA*, el sexto de los veintiún episodios del documental sonoro *El Desafío: ETA* que [Audible](https://www.audible.es/pd/El-Desafio-ETA-Audiolibro/B08LMGPZ4R?ref=a_library_t_c5_libItem_&pf_rd_p=3f417362-04f5-41fe-9a3e-8c17695f2c0f&pf_rd_r=7SVWYEZ2PYVD9FGFQG1C) –la plataforma de *podcasts* y audiolibros de Amazon– estrenó en octubre de 2020 paralelamente a la serie audiovisual del mismo nombre en [Amazon Prime Video](https://www.audible.es/pd/El-Desafio-ETA-Audiolibro/B08LMGPZ4R?ref=a_library_t_c5_libItem_&pf_rd_p=3f417362-04f5-41fe-9a3e-8c17695f2c0f&pf_rd_r=7SVWYEZ2PYVD9FGFQG1C). A partir del libro *[Historia de un desafío: cinco décadas de lucha sin cuartel de la Guardia Civil contra ETA](https://www.planetadelibros.com/libro-historia-de-un-desafio/327360),* publicado por el propio Manuel Sánchez Corbí y la cabo primero Manuela Simón, la productora [Cuerdos de Atar](http://cuerdosdeatar.tv/) grabó 85 entrevistas con esclarecedores –casi todos también estremecedores– testimonios de víctimas y familiares de los asesinados, ex terroristas, mandos policiales, investigadores, políticos, periodistas y los ex presidentes del Gobierno Felipe González, José María Aznar, José Luis Rodríguez Zapatero y Mariano Rajoy.
 
@@ -1349,9 +1352,11 @@ Se aprecia particularmente en *Los Manuales de* ETA, episodio atípico en el que
 
 Sucede de forma similar con *[La línea invisible](https://lalineainvisible.movistarplus.es/sinopsis)*, serie original de Movistar+ estrenada unos meses antes con parecida temática –a lo largo de seis capítulos se dramatizan los inicios de ETA y el camino de dolor, terror y venganza que se abrió con sus primeros asesinatos– que también se expande en un *[podcast](https://lalineainvisible.movistarplus.es/sinopsis)* de cinco episodios dirigido por Pablo González Batista, conducido por Conchi Cejudo y producido por [Lavinia Voice](https://lalineainvisible.movistarplus.es/sinopsis), Gorka y Sentido Films bajo la supervisión de Ricardo Villa y Rafael Portela. **La ficción televisiva, inspirada en hechos reales, se convierte en una rigurosa y reveladora reconstrucción periodística sonora** tejida en torno a treinta entrevistas inéditas a militantes de la banda, políticos e investigadores: Antton Karrera, Ander Landáburu, Eugenio del Río, Teo Uriarte, Mikel Azurmendi o Joaquín Leguina.
 
+![](/images/shots/imagen2.jpg)
+
 <!--EndFragment-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:DocumentProperties>
   <o:Subject>BBVA Plantilla MS Word Arial_ESP_opcion1</o:Subject>
   <o:Author>MURUZABAL GRANDA ,XABIER</o:Author>
@@ -1360,9 +1365,9 @@ Sucede de forma similar con *[La línea invisible](https://lalineainvisible.movi
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -1402,9 +1407,9 @@ Sucede de forma similar con *[La línea invisible](https://lalineainvisible.movi
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -1983,9 +1988,9 @@ Sucede de forma similar con *[La línea invisible](https://lalineainvisible.movi
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -2008,7 +2013,7 @@ Sucede de forma similar con *[La línea invisible](https://lalineainvisible.movi
 	mso-bidi-theme-font:minor-bidi;
 	mso-fareast-language:EN-US;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
