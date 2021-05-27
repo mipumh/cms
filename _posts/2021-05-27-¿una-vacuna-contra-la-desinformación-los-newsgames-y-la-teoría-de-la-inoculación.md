@@ -3,13 +3,13 @@ layout: post
 title: ¿Una vacuna contra la desinformación? Los newsgames y la teoría de la
   inoculación
 ---
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -49,9 +49,9 @@ title: ¿Una vacuna contra la desinformación? Los newsgames y la teoría de la
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -630,9 +630,9 @@ title: ¿Una vacuna contra la desinformación? Los newsgames y la teoría de la
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -656,7 +656,7 @@ title: ¿Una vacuna contra la desinformación? Los newsgames y la teoría de la
 	mso-ansi-language:ES-TRAD;
 	mso-fareast-language:EN-US;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
@@ -670,105 +670,55 @@ En esta misma línea, la **Comisión Europea** ha publicado recientemente el [C�
 
 [Estudios recientes](https://www.tandfonline.com/doi/abs/10.1080/13669877.2018.1443491?journalCode=rjrr20) han demostrado que los newsgames, a través de la exposición de los usuarios a pequeñas dosis de desinformación, son capaces de **reducir su predisposición a asumir como ciertos contenidos falsos**. Es lo que se conoce en el campo de la psicología social como **la** **teoría de la inoculación**. El objetivo es aumentar la resistencia de un sujeto a una comunicación persuasiva mediante la exposición previa a pequeñas dosis de dicho contenido. Como si de una vacuna se tratase, esta técnica permite aumentar las “defensas” de los usuarios y con ellas las posibilidades de detectar una información falsa. Los siguientes newsgames son un buen ejemplo de ello:
 
- 
+![](/images/shots/bad-news.jpg)
 
 **[Bad News](https://www.getbadnews.com/#intro) | DROG y Universidad de Cambridge**
 
- 
-
 Producido por la asociación holandesa DROG en colaboración con la Universidad de Cambridge. La misión del juego es muy simple: debes conseguir tantos seguidores como puedas mientras construyes una “falsa” credibilidad como portal de noticias. Se trata de un **sistema de aprendizaje experiencial** con el que los creadores pretenden conferir resistencia contra los bulos “poniendo a los jugadores en el lugar de aquellos que los crean”.
-
- 
 
 El interactivo muestra situaciones ficticias basadas en las **estrategias de desinformación más habituales**: la suplantación, el uso de la emoción, la polarización de opiniones, la conspiración, el descrédito y el troleo. Todas ellas están representadas por una serie de medallas inspiradas en el informe “[Digital Hydra](https://stratcomcoe.org/publications/digital-hydra-security-implications-of-false-information-online/205)” del [NATO StratCom](https://stratcomcoe.org/). El newsgame cuenta con un [dosier informativo para educadores](https://www.getbadnews.com/wp-content/uploads/2019/03/Bad-News-Game-info-sheet-for-educators-English.pdf) y una versión para jóvenes disponible en [inglés](file:///C:/Users/jagar/Downloads/Royal%20Holland%20Society%20of%20Sciences%20and%20Humanities).
 
- 
-
- 
-
- 
-
- 
+![](/images/shots/harmony.jpg)
 
 **[Harmony Square](https://harmonysquare.game/en) | DROG, Universidad de Cambridge & CIA**
 
- 
-
 Otro magnífico newsgame coproducido por DROG y la Universidad de Cambridge. En este caso, en colaboración con el Centro de Participación Global (CEG) y la Agencia de Seguridad de Ciberseguridad e Infraestructura (CISA) del Departamento de EEUU. Se trata de un juego breve (completarlo no te llevará más de 10 minutos) cuyo objetivo es mostrar al usuario las tácticas que emplean los creadores de bulos para **conseguir seguidores, manipular comunidades y explotar las tensiones sociales con fines políticos**.
-
- 
 
 El newsgame se centra en los procesos de desinformación llevados a cabo durante los procesos electorales. A través de un sistema basado en la toma de decisiones, los jugadores deben difundir información falsa y fomentar las divisiones internas en el pacífico vecindario de *Harmony Square*. Estructuradas en cuatro niveles, se muestran las cinco técnicasmás habituales a la hora de **difundir bulos de carácter político**: el troleo, el lenguaje emocional, la polarización de las audiencias, la difusión de teorías conspirativas y el uso de bots.
 
- 
-
- 
-
- 
+![](/images/shots/gif1.gif)
 
 Al igual que en *Bad News*, los escenarios y situaciones son totalmente ficticios, aunque se basan en acontecimientos reales e incluyen referencias sutiles a eventos de actualidad.
 
- 
-
- 
-
- 
+![](/images/shots/troll-factory.jpg)
 
 **[Troll Factory](https://trollfactory.yle.fi/) / Yle**
 
- 
-
 Newsgame de carácter conversacional producido por el laboratorio de la compañía de radiodifusión finlandesa Yle. Llegados a este punto, puede que el objetivo te resulte familiar: es tu primera semana en la *Troll Factory* y debes aumentar tu influencia en las redes sociales cueste lo que cueste. Según sus creadores, el objetivo es “ilustrar cómo las noticias falsas, el contenido emotivo y los ejércitos de bots se utilizan para influir en el estado de ánimo, las opiniones y la toma de decisiones”.
-
- 
 
 A diferencia de los newsgames anteriores, *Troll Factory* utiliza **contenido publicado en el “mundo real”**: memes, teorías conspirativas, discursos de odio y bulos recopilados de diversas plataformas sociales. En concreto, el interactivo se centra en publicaciones de carácter antimigratorio, como reivindicación al crecimiento “sistematizado y organizado” de bulos y opiniones polarizadas sobre el tema.
 
- 
-
- 
-
- 
+![](/images/shots/ireporter.jpg)
 
 **[iReporter](https://www.bbc.co.uk/news/resources/idt-8760dd58-84f9-4c98-ade2-590562670096) | BBC**
 
-
-
 En *iReporter* el usuario debe ponerse en la piel del nuevo miembro del equipo del BBC Live. Su misión es aparentemente sencilla: **mantener el equilibrio entre el rigor, el impacto y la velocidad** mientras cubre las noticias de última hora. Basado en una narrativa conversacional, el interactivo combina correos, tweets, chats simulados y videollamadas a fuentes y compañeros de trabajo.
-
- 
 
 A diferencia de los newsgames anteriores, *iReporter* no se basa en los procesos de creación de bulos, sino que muestra al usuario **cómo identificar información de dudosa veracidad** y qué técnicas de verificación puede emplear. Se trata de un newsgame con estética impecable, que combina gran variedad de recursos multimedia sin perder la esencia del “elige tu propia aventura”.
 
- 
-
- 
-
- 
+![](/images/shots/guerra-mentira.jpg)
 
 **[Guerra a la mentira](http://lab.rtve.es/webdocs/guerra-mentira/es/) | RTVE Lab**
 
-
-
 Narrativa a caballo entre el webdoc y el newsgame. El interactivo, que forma parte de un proyecto transmedia de *En Portada* y el RTVE Lab, se centra en los **procesos de verificación de fuentes abiertas**. A través de tres capítulos, basados en casos reales, el usuario puede observar cómo funcionan las técnicas de verificación utilizadas por [Bellingcat](https://es.bellingcat.com/), un colectivo internacional de periodistas e investigadores fundado en 2014 por [Eliot Higgings](https://twitter.com/eliothiggins).
-
- 
 
 El usuario debe “chatear” con diferentes personajes para avanzar en la narración y averiguar qué es lo que ha sucedido en cada uno de los escenarios. Para ello, deberá utilizar técnicas de verificación basadas en el **uso de testimonios publicados en redes sociales.** Entre ellas, la verificación de imágenes con Google Earth, la geolocalización con [Geoguessr](https://www.geoguessr.com/) y el análisis de vídeos en YouTube según las pautas del [Citizen Evidence Lab](https://citizenevidence.org/). 
 
- 
-
- 
-
- 
+![](/images/shots/factitius.jpg)
 
 **[Factitious](<http://factitious.augamestudio.com/#/)>) | JOLT y The American University Game Lab**  
 
- 
-
 Producido por el laboratorio de juegos de la American University y la productora JOLT. Es el newsgame más sencillo de los analizados en cuanto a estética y estructura. A diferencia de los anteriores, está **pensado para dispositivos móviles**, por lo que utiliza la mecánica del “swipe to”. Tras leer una publicación realizada por un medio de comunicación, el usuario debe decidir si se trata de una noticia real (deslizando a la derecha) o un bulo (izquierda). Para ello solo cuenta con el titular, un breve resumen y la fuente original. Una vez que el usuario ha decidido, el interactivo explica por qué debes o no debes fiarte del contenido.   
-
- 
 
 Uno de los aspectos más interesantes es que cuenta con diferentes niveles de dificultad según los conocimientos previos del usuario. Además, ofrecen **tutoriales y consejos para identificar los bulos**, como el uso de “adjetivos extravagantes”, la presencia de fuentes anónimas y el tipo de organización detrás de la información. Recientemente han publicado una [versión “pandémica”](http://factitious-pandemic.augamestudio.com/#/) con ejemplos de la COVID-19.
 
