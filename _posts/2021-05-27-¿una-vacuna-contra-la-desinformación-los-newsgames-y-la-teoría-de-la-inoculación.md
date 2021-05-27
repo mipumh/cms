@@ -724,7 +724,7 @@ Uno de los aspectos más interesantes es que cuenta con diferentes niveles de di
 
 **Referencias:**
 
-Gómez-García, Salvador Carrillo-Vera y José Agustín (2020). [El discurso de los newsgames frente a las noticias falsas y la desinformación: cultura mediática y alfabetización digital](https://revistaprismasocial.es/article/view/3751). *Revista Prisma Social*, (30), 22-46.
+Gómez-García, Salvador y Carrillo-Vera, José Agustín (2020). [El discurso de los newsgames frente a las noticias falsas y la desinformación: cultura mediática y alfabetización digital](https://revistaprismasocial.es/article/view/3751). *Revista Prisma Social*, (30), 22-46.
 
 García-Ortega, Alba y García-Avilés, José-Alberto (2021). [Uso del diseño lúdico para combatir la desinformación:: los newsgames como herramienta para la concienciación sobre los bulos](https://icono14.net/ojs/index.php/icono14/article/view/1598). *Icono14*, *19*(1), 179-204.
 
