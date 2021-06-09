@@ -3,13 +3,13 @@ layout: post
 title: "Volver al origen para transformar: los medios innovadores colombianos
   regresan a los fundamentos del periodismo y al contexto local"
 ---
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -51,9 +51,9 @@ title: "Volver al origen para transformar: los medios innovadores colombianos
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="371">
@@ -622,9 +622,9 @@ title: "Volver al origen para transformar: los medios innovadores colombianos
   <w:LsdException Locked="false" Priority="52"
    Name="List Table 7 Colorful Accent 6"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -646,7 +646,7 @@ title: "Volver al origen para transformar: los medios innovadores colombianos
 	mso-hansi-theme-font:minor-latin;
 	mso-ansi-language:ES-TRAD;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
@@ -655,8 +655,6 @@ Generar innovación constante es una de las características fundamentales de la
 Así como los modelos de negocio de los medios tradicionales no están funcionando correctamente en ambientes digitales, los emprendedores y nativos digitales tampoco obtienen estabilidad financiera y deben complementar sus ingresos editoriales con financiamiento colectivo, *grants*, consultoría, servicios, asesorías y eventos. Esa aridez en los recursos obliga a los emprendedores y nativos digitales a buscar innovaciones asequibles que transformen el periodismo, contraviniendo prácticas y modelos habituales y adoptando agendas por fuera de la cobertura de los medios tradicionales. Paradójicamente, en busca de innovación y disrupción, estos emprendedores digitales regresan al contexto social y a los elementos fundamentales del periodismo para marcar la diferencia a la hora de apropiarse de la tecnología digital y adoptar narrativas y modelos de negocios novedosos.
 
 En Colombia, la tendencia de regresar a los orígenes del periodismo y al contexto a la hora contar historias relevantes para la sociedad usando tecnologías digitales es uno de los motores principales de la innovación en el ecosistema de medios. En este sentido, cuatro son los elementos contextuales que generan innovación en el sistema mediático colombiano: la injusticia social y violencia, la regionalización de los contenidos, la verificación de la información y los datos, y los modelos de negocio híbridos.
-
- 
 
 ***Protesta social, desigualdad, derechos humanos y violencia***
 
@@ -674,8 +672,6 @@ Sin embargo, diversos proyectos innovadores retoman estas realidades y buscan re
 
 [Liga contra el silencio](https://ligacontraelsilencio.com/): Es una alianza de medios y periodistas que busca producir y difundir periodismo de investigación de calidad y cuyo propósito es romper el silencio y la censura en Colombia sobre ciertos temas que permanecen vetados. Así mismo, visibiliza regiones que permanecen por fuera de la agenda mediática tradicional. La Liga surgió en 2016 como una iniciativa de la [Fundación para la Libertad de Prensa](https://www.flip.org.co/index.php/es/) y su principal innovación consiste en agrupar diversas organizaciones de periodismo para adelantar investigaciones que después son distribuidas gratuitamente entre los miembros de la alianza. Es una nueva manera de hacer un periodismo colaborativo que rescata y aúna a diversos actores alrededor de la libertad de expresión y la investigación. La alianza parte de la premisa de que el periodismo local se está extinguiendo en Colombia y que por lo menos 578 municipios del país se han convertido en lugares donde no existen medios de comunicación e impera el silencio. Identifican el conflicto armado como uno de los principales causantes de esa aridez en la información local.
 
- 
-
 **Cubrir el poder con innovación**
 
 En esta misma línea, otra característica del contexto que ha generado innovación periodística en  los medios en Colombia está marcada por las restricciones para ejercer y cubrir la información política. Debido a una serie de conflicto de intereses y a la cercanía de los medios tradicionales con las esferas del poder y la élite política y económica del país, algunos proyectos de carácter investigativo han surgido como contraposición a esa tendencia, ofreciendo una forma distinta de relacionarse y vigilar el poder y la política pública. Algunos medios destacados en este ámbito de innovación en la cobertura con formatos e historias son:
@@ -691,8 +687,6 @@ En esta misma línea, otra característica del contexto que ha generado innovaci
 ![](/images/shots/bloque2_podeer_cuestionpublica.png)
 
 El centralismo administrativo y mediático ha generado también movimientos innovadores desde las regiones para proveer información local que atiendan a comunidades sub-representadas. Múltiples nativos digitales con recursos limitados apuestan por cubrir historias regionales utilizando la tecnología digital disponible. Algunos ejemplos destacados son [Zona Cero](https://zonacero.com/), que se ha posicionado como el nativo digital más importante de Barranquilla y el Atlántico; [La Razón](https://larazon.co/), diario digital de Montería y Córdoba; [Así es Cúcuta](https://asiescucuta.com/new/), medio digital de la capital de Norte de Santander y la frontera con Venezuela, y [Agenda Samaria](http://www.agendasamaria.org/wp/), medio local de Santa Marta que refuerza la identidad cultural de esta ciudad de la costa norte.
-
- 
 
 **Verificación de la información y datos**
 
@@ -710,7 +704,7 @@ Así mismo, varios nativos digitales han comenzado a trabajar innovadoramente co
 
 ![](/images/shots/bloque3_verificadores_datasketch.png)
 
- 
+
 
 **Modelos de negocio híbridos y muros de pago**
 
