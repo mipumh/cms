@@ -2,8 +2,11 @@
 layout: post
 title: ¿Y ahora qué? Consejos y recursos para ejercer como periodista freelance
   después de graduarte
+new_author: Cristian Ramón Marín Sanchiz
 ---
-![](https://lh6.googleusercontent.com/OB2NaPuWmjfa8RSgpCB2UJH_UAZINAsfRiDseKjyPoZ56tZfifLOYHLgraYfxxgV_M9OACyAWup-IaqYsTjCoGnZgk5xG_yr38jZ7dk6kPWJWttAYbLsTpais1dH70ZfTeurfnq2)
+
+
+![Consejos y recursos para ejercer como periodista freelance](https://lh6.googleusercontent.com/OB2NaPuWmjfa8RSgpCB2UJH_UAZINAsfRiDseKjyPoZ56tZfifLOYHLgraYfxxgV_M9OACyAWup-IaqYsTjCoGnZgk5xG_yr38jZ7dk6kPWJWttAYbLsTpais1dH70ZfTeurfnq2 "Consejos y recursos para ejercer como periodista freelance")
 
 Cuando empiezas una carrera universitaria, tienes la sensación de que la graduación es el final del camino. Pero no. Cerrar el portátil al acabar la presentación de tu trabajo de final de grado conlleva, con frecuencia, una pregunta: bueno, ¿qué hago ahora? La respuesta, en términos generales, parece clara: buscar trabajo. Sin embargo, la realidad actual es compleja y genera mucha frustración por las dificultades en el acceso al empleo. En este contexto cabe la posibilidad de que te establezcas como periodista *freelance* y trabajes para varios clientes, ya sean medios u otro tipo de empresas que necesiten servicios relacionados con la comunicación. A  continuación encontrarás información básica sobre esta forma de empleo, además de consejos y recursos para que arranques y crezcas con tu proyecto personal.
 
