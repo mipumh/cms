@@ -4,8 +4,6 @@ title: ¿Y ahora qué? Consejos y recursos para ejercer como periodista freelanc
   después de graduarte
 new_author: Cristian Ramón Marín Sanchiz
 ---
-
-
 ![Consejos y recursos para ejercer como periodista freelance](https://lh6.googleusercontent.com/OB2NaPuWmjfa8RSgpCB2UJH_UAZINAsfRiDseKjyPoZ56tZfifLOYHLgraYfxxgV_M9OACyAWup-IaqYsTjCoGnZgk5xG_yr38jZ7dk6kPWJWttAYbLsTpais1dH70ZfTeurfnq2 "Consejos y recursos para ejercer como periodista freelance")
 
 Cuando empiezas una carrera universitaria, tienes la sensación de que la graduación es el final del camino. Pero no. Cerrar el portátil al acabar la presentación de tu trabajo de final de grado conlleva, con frecuencia, una pregunta: bueno, ¿qué hago ahora? La respuesta, en términos generales, parece clara: buscar trabajo. Sin embargo, la realidad actual es compleja y genera mucha frustración por las dificultades en el acceso al empleo. En este contexto cabe la posibilidad de que te establezcas como periodista *freelance* y trabajes para varios clientes, ya sean medios u otro tipo de empresas que necesiten servicios relacionados con la comunicación. A  continuación encontrarás información básica sobre esta forma de empleo, además de consejos y recursos para que arranques y crezcas con tu proyecto personal.
@@ -26,6 +24,8 @@ Cuando empiezas una carrera universitaria, tienes la sensación de que la gradua
 8. **Diversifica ingresos.** Al incrementar tu elenco de clientes y servicios (colaboraciones, consultoría, gestión de plataformas sociales…) reducirás las probabilidades de que haya un mes malo porque uno de los contratos termine. En otras palabras: no pongas todos los huevos en el mismo cesto.
 9. **No pierdas el contacto con otros profesionales.** Ser autónomo implica trabajar muchas horas solo, y se puede hacer cuesta arriba. Trabajar en coworkings, participar en asociaciones de informadores o crear proyectos personales junto a otros profesionales son estrategias habituales para salir de la rutina y mejorar tu situación laboral. Un gran ejemplo de esta estrategia es Carlos Otto, un *freelance* [que ha creado El Enemigo Anónimo, la primera serie documental sobre ciberseguridad hecha en España,](https://mip.umh.es/blog/2021/02/17/enemigo-anonimo-serie-documental-ciberseguridad-carlos-otto-branded-content/) o De Silicon Valley a Israel: emprendedores e innovadores, contenido que vendió a Caixa Capital Risk.
 10. **Asume los pros y los contras de esta modalidad laboral.** “No se puede estar en misa y repicando”, decía uno de los participantes al respecto de las ventajas y desventajas que presenta el periodismo *freelance*. Tendrás más oportunidades para gestionar tu tiempo, y también podrás trabajar en remoto, pero eso también implica encender el ordenador a deshoras y algún fin de semana, por ejemplo. Como cualquier otra alternativa, tiene aspectos positivos y negativos, y asumirlos reduce el posible desencanto. En este sentido, es importante tener clara una cosa: ser autónomo no es fácil. Tampoco es para todo el mundo. Y, en caso de que vayas por tu cuenta por necesidad, ser plenamente consciente de lo que supone te ayudará a gestionarlo con más facilidad.
+
+
 
 **Recursos útiles para empezar… y consolidarse**
 
