@@ -12,7 +12,7 @@ Cuando empiezas una carrera universitaria, tienes la sensación de que la gradua
 
 **¿Ser periodista *freelance* equivale a convivir con la precariedad?** No tiene por qué. La investigación académica lo define a la perfección: el periodismo independiente tiene una gran ventaja: que el profesional tiene más autonomía ―para decidir sus horarios, rechazar encargos…― pero esos beneficios se ven oprimidos, en muchas ocasiones, por la precariedad. Si llegar a fin de mes depende de un encargo, es muy difícil que lo rechaces. Y si los precios de los medios son escasos (en España, la media está en torno a 100 euros por pieza, aunque los matices son numerosos), es probable que lleguen las horas extra. La buena noticia es que hay muchos casos de éxito entre los periodistas *freelance*, y gracias a la experiencia contada por ellos mismos [en este artículo publicado por investigadores del Máster en Innovación en Periodismo](https://www.tandfonline.com/doi/full/10.1080/17512786.2021.1929414?src=) se ha recopilado una serie de recomendaciones para  quienes desean iniciar una carrera por su cuenta.
 
-### 10 consejos para iniciar una carrera como periodista independiente
+## 10 consejos para iniciar una carrera como periodista independiente
 
 1. **Reflexiona**: ¿qué valor puedes aportar a tus clientes? El autoconocimiento profesional es clave y poco frecuente. Ten claro  cuáles son tus capacidades, en qué eres mejor que la mayoría de periodistas o en qué te diferencias de ellos. De este modo, podrás hacer propuestas más específicas, que aporten más valor y, sobre todo, que satisfagan las expectativas creadas. Entre los participantes en la investigación había muchas propuestas de valor distintas: ser capaz de escribir sobre muchas temáticas, la hiperespecialización, la habilidad para crear contenido escrito y en vídeo…
 2. **Empieza por tu círculo cercano.** Si encontrar el primer empleo es complicado, conseguir la primera colaboración también puede serlo. La ventaja es que puedes empezar poco a poco si explicas a tus conocidos que vas a empezar como periodista freelance y que estás buscando empresas que necesiten los servicios que tú has decidido prestar. Si surgen pequeños proyectos ganarás tiempo y algunos ingresos que te permitirán subsistir mientras buscas clientes más difíciles de acceder a priori, como pueden ser los grandes medios.
@@ -29,7 +29,7 @@ Cuando empiezas una carrera universitaria, tienes la sensación de que la gradua
 
 
 
-**Recursos útiles para empezar… y consolidarse**
+## **Recursos útiles para empezar… y consolidarse**
 
 * **Plataformas para buscar colaboraciones.** A través de herramientas como [Malt](https://www.malt.es/), [UpWork](https://www.upwork.com/), [Fiverr](https://es.fiverr.com/) o [Workana](https://www.workana.com/) tienes la oportunidad de ofrecer tus servicios en distintas zonas geográficas del mundo, multiplicando así los potenciales clientes. Además de ser un escaparate interesante, tendrás ciertas ventajas, como garantías de pago.
 * **Grupos online.** Tanto [en Slack](https://freelancesoc.slack.com/) como [en Facebook](https://www.facebook.com/groups/2526455974236281) hay comunidades específicas de periodistas *freelance* ―generalmente anglosajones― en las que puedes intercambiar experiencias, hacer consultas y, por supuesto, conseguir algunos encargos.  
