@@ -2,7 +2,7 @@
 layout: post
 title: Once obras clave sobre innovación y periodismo para leer con calma
 ---
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:DocumentProperties>
   <o:Author>Servicios Informáticos</o:Author>
   <o:Version>16.00</o:Version>
@@ -10,9 +10,9 @@ title: Once obras clave sobre innovación y periodismo para leer con calma
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -52,9 +52,9 @@ title: Once obras clave sobre innovación y periodismo para leer con calma
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -633,9 +633,9 @@ title: Once obras clave sobre innovación y periodismo para leer con calma
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -662,13 +662,15 @@ title: Once obras clave sobre innovación y periodismo para leer con calma
 	mso-bidi-theme-font:minor-bidi;
 	mso-fareast-language:EN-US;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
 Abordan el periodismo de datos, la Inteligencia Artificial, la transformación de las audiencias, la ética, la desinformación o la innovación en los formatos y las narrativas. Se trata de obras corales, elaboradas colectivamente, que aportan una mirada global o fijan el foco en zonas concretas como Latinoamérica, Europa o Estados Unidos. Estos once libros -fruto de una selección muy personal- representan el estado del arte en la investigación sobre la innovación periodística durante el último año. ¡Que disfrutes de su lectura este verano!
 
- 
+![](/images/shots/libros-innovación-imagenes.jpg)
+
+![](/images/shots/cartografia-comunicacion-postdigital.png)
 
 #### **Luis Miguel Pedrero Esteban y Ana Pérez Escoda (Editores) (2021) [Cartografía de la comunicación postdigital: medios y audiencias en la sociedad de la COVID-19](https://sites.google.com/view/cartografiapostdigitalaranzadi). Thomson Reuters Aranzadi**
 
@@ -676,7 +678,7 @@ Coordinado por **Luis Miguel Pedrero** y **Ana Pérez Escoda**, profesores de la
 
 **Lo más destacado:** actualiza los estudios sobre el ecosistema mediático, mediante un sólido andamiaje intelectual y sugerentes aportaciones.
 
- 
+![](/images/shots/news-media-innovation.jpg)
 
 **María Luengo y Susana Herrera-Damas (Editoras) (2021) [News Media Innovation Reconsidered: Ethics and Values in a Creative Reconstruction of Journalism](https://www.wiley.com/en-dk/News+Media+Innovation+Reconsidered%3A+Ethics+and+Values+in+a+Creative+Reconstruction+of+Journalism-p-9781119706472). Wiley-Blackwell**
 
@@ -684,7 +686,7 @@ María Luengo y Susana Herrera, profesoras de periodismo de la Universidad Carlo
 
 **Lo más destacado:** recupera un coherente planteamiento ético, ligado al desarrollo de la innovación periodística, con propuestas para afrontar los retos de la profesión.
 
-
+![](/images/shots/fundación-gabo-desinformación-602x1024.jpg)
 
 #### Fundación Gabo (2021) [El periodismo ante la desinformación](https://fundaciongabo.org/es/recursos/publicaciones/fundacion-gabo-lanza-libro-digital-el-periodismo-ante-la-desinformacion)
 
@@ -692,7 +694,7 @@ Para unir fuerzas que permitan investigar, entender, y afrontar este fenómeno, 
 
 **Lo más destacado:** contiene análisis prácticos sobre el trasfondo y las técnicas empleadas en la desinformación, así como propuestas eficaces para combatirla.
 
- 
+![](/images/shots/journalism-data-and-tech-in-latam.jpg)
 
 **Ramón Salaverría y Mathias-Felipe de-Lima-Santos (Eds.) (2021) [Journalism, Data and Technology in Latin America](https://www.palgrave.com/gp/book/9783030658595). Palmgrave**
 
@@ -700,13 +702,15 @@ Este libro explora los enfoques innovadores del periodismo digital y de datos en
 
 **Lo más destacado:** llena un importante vacío en la investigación académica en inglés sobre el florecimiento del periodismo digital y la innovación en Latinoamérica.
 
+![](/images/shots/algorithms-automation-and-news.jpg)
+
 #### **Neil Thurman, Seth C. Lewis y Jessica Kunert (eds.) (2021) [Algorithms, Automation, and News. New Directions in the Study of Computation and Journalism.](https://www.routledge.com/Algorithms-Automation-and-News-New-Directions-in-the-Study-of-Computation/Thurman-Lewis-Kunert/p/book/9780367567521) Routledge.**
 
 Este libro, coeditado por tres prestigiosos investigadores de relieve internacional, examina la creciente importancia de los algoritmos y la automatización en la captación, producción y distribución de noticias. Gracias a las aportaciones de destacados académicos y profesionales, la obra comparte algunas de las nobles ambiciones de las publicaciones pioneras sobre los algoritmos en el periodismo, como el deseo de que la informática ayude a los periodistas en su papel de examinar el desempeño de las instituciones, exigiendo responsabilidades al poder. También aborda las ventajes e inconvenientes de las distintas tecnologías que integran el periodismo computacional: desde los chatbots y los sistemas de recomendación algorítmica hasta la Inteligencia Artificial, el procesamiento del lenguaje natural, el *machine learning* y la automatización.
 
 **Lo más destacado:** analiza los retos sobre la aplicación de la IA en los medios, con el propósito de preservar los valores del servicio público del periodismo.
 
- 
+![](/images/shots/data-handbook-2.png)
 
 #### **Jonathan Gray y Liliana Bounegru (eds.) (2021) [The Data Journalism Handbook 2. Towards a Critical Data Practice](https://datajournalism.com/read/handbook/two). *European Journalism Centre* y *Google News Initiative***
 
@@ -714,13 +718,15 @@ Este libro, coeditado por tres prestigiosos investigadores de relieve internacio
 
 **Lo más destacado:**  excelente combinación de ciencia y práctica: los académicos se plantean la relevancia práctica de sus estudios, y los profesionales reflexionan sobre su trabajo.
 
- 
+![](/images/shots/hearts-and-minds.png)
 
 #### Lucy Kung (2020) [Hearts and Minds: Harnessing Leadership, Culture and Talent to Really Go Digital](https://reutersinstitute.politics.ox.ac.uk/hearts-and-minds-harnessing-leadership-culture-and-talent-really-go-digital). Reuters Oxford Institute for the Study of Journalism
 
 Lucy Kung es una de las investigadoras sobre la gestión de medios más prestigiosas internacionalmente. El objetivo de su obra es indagar en los movimientos estratégicos del sector para entender cómo los entresijos de los medios están cambiando o necesitan cambiar para adaptarse a la situación. Estos cambios externos en la estrategia, los modelos de negocio y las competencias son relativamente fáciles de discernir. Sin embargo, como argumenta Kung, la crisis actual “esconde un complejo conjunto de cambios interrelacionados en la forma de dirigir, estructurar y dotar de personal a las organizaciones, y en la forma de pensar y actuar de las personas que trabajan en ellas, en la forma de diseñar sus funciones”. La COVID-19 ha acelerado el cambio estructural impulsado por diversos factores exógenos, tales como la transformación de los hábitos de consumo en un entorno dominado por los móviles y las redes sociales, así como la competencia entre los medios y las plataformas por la atención, la publicidad y las suscripciones, que erosiona las fuentes de ingresos clásicas y socava los modelos de negocio. La autora se plantea: ¿Qué problemas debemos afrontar? ¿Cuáles son las prioridades? ¿Qué está funcionando? ¿Cuáles son los retos y cómo se están abordando? El libro puede descargarse gratuitamente.
 
 **Lo más destacado:** ofrece valiosas ideas a los directivos de medios para implementar una cultura innovadora, el liderazgo, el talento y la estrategia en sus organizaciones.
+
+![](/images/shots/trasnforming-newsrooms.tif)
 
 \
 **Carrie Brown y Jonathan Groves (2020) [Transforming Newsrooms: Connecting Organizational Culture, Strategy, and Innovation](https://www.routledge.com/Transforming-Newsrooms-Connecting-Organizational-Culture-Strategy-and/Groves-Brown/p/book/9781138841277). Routledge**
@@ -729,7 +735,7 @@ Esta obra se convierte en una guía práctica para navegar por el cambio estruct
 
 **Lo más destacado:** se trata de una excelente hoja de ruta para entender los obstáculos al cambio en los medios y cómo superarlos.
 
- 
+![](/images/shots/gamification-of-digital-journalism.tif)
 
 **David O. Dowling (2020) [The Gamification of Digital Journalism: Innovation in Journalistic Storytelling](https://www.routledge.com/The-Gamification-of-Digital-Journalism-Innovation-in-Journalistic-Storytelling/Dowling/p/book/9780367076252). Taylor & Francis**
 
@@ -737,15 +743,13 @@ Esta obra examina la acelerada evolución de los newsgames, un género que ha su
 
 **Lo más destacado:** explora tanto las desventajas de los newsgames como el modo en que sus técnicas narrativas pueden contribuir a contar asuntos complejos de forma atractiva.
 
- 
+![](/images/shots/periodismo-cultural-2-5x7.jpg)
 
 **Montserrat Jurado Martín y Beatriz Peña Acuña (2021)[Periodismo cultural en el siglo XXI (II). Modelos transmedia para profesionales innovadores](https://universitas.es/product/periodismo-cultural-en-el-siglo-xxi-ii-modelos-transmedia-para-profesionales-innovadores-9788479915605/)*.* Universitas**
 
 Las profesoras Montserrat Jurado de la Universidad Miguel Hernández de Elche y Beatriz Peña de la Universidad de Huelva coeditan este libroque analiza numerosos ejemplos de prácticas innovadoras, especialmente transmedia, en el ámbito del periodismo cultural. La obra integra 14 capítulos en los que han participado un total de 19 expertos e investigadores nacionales e internacionales del ámbito cultural y de la comunicación, entre ellos Xosé López (Universidad de Santiago), Francisco Rodríguez Pastoriza (Universidad Complutense), Gloria Gómez-Escalonilla (Universidad Rey Juan Carlos), Cristina San José y María Monjas (Universidad de Valladolid), Fabiano Maggioni (Universidad de Santamaría, Brasil), Maarit Jaakola (Universidad de Gotemburgo, Suecia), Olga Kolokytha (Universidad de Viena, Austria), Francisco Julián Martínez Cano (UMH) y Begoña Ivars Nicolás (UMH), entre otros.
 
 **Lo más destacado:** analiza la transformación y la innovación en el periodismo cultural, uno de los ámbitos de la especialización periodística que más se resiste al cambio.
-
- 
 
 **Caitlin Petre (2021) [All the News That’s Fit to Click: How Metrics Are Transforming the Work of Journalists](https://press.princeton.edu/books/hardcover/9780691177649/all-the-news-thats-fit-to-click). Princeton Press**
 
