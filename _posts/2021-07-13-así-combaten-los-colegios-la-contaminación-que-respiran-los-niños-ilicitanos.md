@@ -6,7 +6,7 @@ subtitle: Tres centros educativos desarrollan programas medioambientales
   climático y la contaminación que generan los vehículos que circulan en sus
   inmediaciones
 ---
-## [Del tubo de escape al pulmón de tu hijo: así afecta el tráfico de Elche a los menores](https://anacor-99.medium.com/del-tubo-de-escape-al-pulm%C3%B3n-de-tu-hijo-as%C3%AD-afecta-el-tr%C3%A1fico-de-elche-a-los-menores-b744df2ff2f) 
+## Del tubo de escape al pulmón de tu hijo: así afecta el tráfico de Elche a los menores \[ENLACE AL REPORTAJE TITULADO CON ESTA FRASE]
 
 Por Ana Cortijo y Begoña Amat
 
@@ -16,9 +16,9 @@ Los colegios más céntricos son los que más afectados se ven por la afluencia 
 
 La salud de los niños se ve comprometida por los gases tóxicos que expulsan los coches. La contaminación automovilística es causante del asma en 1 de cada 3 menores, según el Instituto de Salud Global de Barcelona. Pero además, puede producir cáncer infantil y serios problemas de concentración como consecuencia del NO2 que expulsan los tubos de escape de los vehículos. 
 
-https://sites.google.com/goumh.umh.es/asi-afecta-el-trafico/inicio
+https://sites.google.com/goumh.umh.es/asi-afecta-el-trafico/inicio \[TE PASO EL ARCHIVO POR MAIL]
 
-## [La educación da sus frutos: así fomentan el cuidado del medioambiente tres colegios públicos de Elche](https://begooo800.medium.com/la-educaci%C3%B3n-da-sus-frutos-as%C3%AD-fomentan-el-cuidado-del-medioambiente-tres-colegios-p%C3%BAblicos-de-46c348d28312)
+## La educación da sus frutos: así fomentan el cuidado del medioambiente tres colegios públicos de Elche \[ENLACE AL REPORTAJE TITULADO CON ESTA FRASE]
 
 Por Begoña Amat y Ana Cortijo
 
@@ -28,4 +28,4 @@ Hace un par de meses, el C.E.I.P. Hispanidad puso en marcha un proyecto de compo
 
 Además del impulso que ofrecen profesores y familias, esta cuestión medioambiental que engloba más de un problema también requiere del apoyo económico por parte de los ayuntamientos, para poder así llevar a cabo iniciativas más ambiciosas y efectivas. Formar a jóvenes que puedan combatir las consecuencias derivadas del calentamiento global y aprender un modo de vida sostenible no es más que el principio de la lucha contra el cambio climático.
 
-<div class="container-wrapper-genially" style="position: relative; min-height: 400px; max-width: 100%;"><video class="loader-genially" autoplay="autoplay" loop="loop" playsinline="playsInline" muted="muted" style="position: absolute;top: 45%;left: 50%;transform: translate(-50%, -50%);width: 80px;height: 80px;margin-bottom: 10%"><source src="https://static.genial.ly/resources/panel-loader-low.mp4" type="video/mp4" />Your browser does not support the video tag.</video><div id="6096aa15e950410d98f47b20" class="genially-embed" style="margin: 0px auto; position: relative; height: auto; width: 100%;"></div></div><script>(function (d) { var js, id = "genially-embed-js", ref = d.getElementsByTagName("script")0; if (d.getElementById(id)) { return; } js = d.createElement("script"); js.id = id; js.async = true; js.src = "https://view.genial.ly/static/embed/embed.js"; ref.parentNode.insertBefore(js, ref); }(document));</script>
+<div class="container-wrapper-genially" style="position: relative; min-height: 400px; max-width: 100%;"><video class="loader-genially" autoplay="autoplay" loop="loop" playsinline="playsInline" muted="muted" style="position: absolute;top: 45%;left: 50%;transform: translate(-50%, -50%);width: 80px;height: 80px;margin-bottom: 10%"><source src="https://static.genial.ly/resources/panel-loader-low.mp4" type="video/mp4" />Your browser does not support the video tag.</video><div id="6096aa15e950410d98f47b20" class="genially-embed" style="margin: 0px auto; position: relative; height: auto; width: 100%;"></div></div><script>(function (d) { var js, id = "genially-embed-js", ref = d.getElementsByTagName("script")[0]; if (d.getElementById(id)) { return; } js = d.createElement("script"); js.id = id; js.async = true; js.src = "https://view.genial.ly/static/embed/embed.js"; ref.parentNode.insertBefore(js, ref); }(document));</script>
