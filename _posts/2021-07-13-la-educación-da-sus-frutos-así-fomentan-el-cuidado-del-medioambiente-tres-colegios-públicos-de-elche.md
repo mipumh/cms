@@ -8,7 +8,7 @@ subtitle: Los centros educativos ilicitanos autogestionan sus fondos para crear
 ---
 Por Begoña Amat Cervera y Ana Cortijo Sempere
 
-![](/images/shots/1º-imagen-1_begoña-amat-cervera_ana-cortijo-sempere-2-1-min-1-1-.jpg)
+![](/images/shots/319-kb-1º-imagen-1_begoña-amat-cervera_ana-cortijo-sempere-.jpg)
 
 <sup>Desde infantil hasta sexto de primaria, los alumnos del C.E.I.P. Ramón Llull participan activamente en las tareas del huerto. Todo el proceso, desde que se planta hasta que se recolecta, lo llevan a cabo los niños | [Ana Cortijo Sempere](https://www.instagram.com/_anacortijosempere/) </sup>
 
@@ -28,7 +28,7 @@ Cuando le preguntas a Fernando Sáez que cuándo se enamoró de la naturaleza, t
 
 Para ilustrar esta emergencia ambiental, el equipo directivo del [C.E.I.P. Hispanidad](https://portal.edu.gva.es/ceiphispanidadelx/es/portada/) junto con Fernando, que es coordinador del comedor del centro, impulsaron en febrero de 2020 el proyecto medioambiental [«En mi cole compostamos»](https://portal.edu.gva.es/ceiphispanidadelx/es/proyecto-de-compostaje-comunitario/). Las razones por las que se escogió un centro educativo como el C.E.I.P. Hispanidad como sede del compostaje son simples. La primera, porque los niños son el futuro y de su educación medioambiental dependerá el devenir del planeta. Y la segunda, «porque en los colegios se produce una cantidad ingente de residuos orgánicos derivados del comedor escolar», según comenta Fernando. El coordinador, que recoge datos en lo relativo al compostaje del centro, determina que «solo el 4% de la basura reciclable se puede aprovechar y que en cinco meses, los colegios ilicitanos generan 400 toneladas de restos de comida». Además, Fernando apunta que desgraciadamente, «estos restos van a parar al contenedor gris y posteriormente, al mismo espacio natural».
 
-<div class="flourish-embed flourish-chart" data-src="visualisation/6248625"><script src="<https://public.flourish.studio/resources/embed.js>"></script></div> \[EL GRÁFICO CON FLOURISH NO SE VISUALIZA]
+<div class="flourish-embed flourish-chart" data-src="visualisation/6248625"><script src="<https://public.flourish.studio/resources/embed.js>"></script></div> \\[EL GRÁFICO CON FLOURISH NO SE VISUALIZA]
 
 <sup>La temperatura dentro de las composteras aumenta desde la segunda semana y hasta la cuarta, debido a la actividad descomponedora de los microorganismos que trabajan la materia orgánica | Fuente de los datos: [Fernando Sáez](https://drive.google.com/file/d/1C5uHdqYa7ulAzK4xE2-oTjbmfZlc5Fo_/view?usp=sharing)</sup>
 
