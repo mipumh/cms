@@ -56,9 +56,7 @@ Generalmente, al tener más años de vida por delante que los adultos, el riesgo
 
 ![](/images/shots/imagen-3_begoña-amat-cervera_ana-cortijo-sempere.jpg)
 
-<sup> Pese a que el C.E.I.P. Baix Vinalopó se encuentra en las inmediaciones del Río Vinalopó, es uno de los puntos escolares con más tráfico y más emisiones de la ciudad </sup> 
-
-Firma: Begoña Amat Cervera ([https://www.instagram.com/begonia\_\_\_\__/](https://www.instagram.com/begonia_____/))
+<sup> Pese a que el C.E.I.P. Baix Vinalopó se encuentra en las inmediaciones del Río Vinalopó, es uno de los puntos escolares con más tráfico y más emisiones de la ciudad | [Begoña Amat Cervera](https://www.instagram.com/begonia_____/) </sup> 
 
 Para abordar cada una de estas problemáticas relacionadas con la contaminación, [la Organización Mundial de la Salud (OMS) ha llamado en repetidas ocasiones a la implantación de Unidades de Salud Medioambiental Pediátricas (PEHSUs, por sus siglas en inglés Pediatric Environmental Health Specialty Unit).](https://www.pediatriaintegral.es/wp-content/uploads/2018/xxii03/05/n3-155e1-6_RB_F-Campillo.pdf) Entre sus objetivos se destaca proporcionar asistencia a pacientes y colectivos, formar en salud ambiental a profesionales, asesorar a agencias locales, regionales, nacionales o internacionales y fomentar la divulgación sobre la salud y el medioambiente para la comunidad.
 
@@ -72,9 +70,7 @@ En Elche, y en el caso concreto del efecto del dióxido de nitrógeno (NO2) en l
 
 ![](/images/shots/imagen-4_begoña-amat-cervera_ana-cortijo-sempere.jpg)
 
-<sup> El C.E.I.P. La Hispanidad tiene un total de 430 alumnos y una media de 538 vehículos motorizados a las 17:00 horas cerca del centro urbano </sup>
-
-Firma: Begoña Amat Cervera ([https://www.instagram.com/begonia\_\_\_\__/](https://www.instagram.com/begonia_____/))
+<sup> El C.E.I.P. La Hispanidad tiene un total de 430 alumnos y una media de 538 vehículos motorizados a las 17:00 horas cerca del centro urbano | [Begoña Amat Cervera](https://www.instagram.com/begonia_____/) </sup>
 
 Como principal fuente contaminante, Esther Díez Valero, Concejala de Medio Ambiente del Ayuntamiento de Elche, destaca que «lo que nos dicen los datos que tenemos en nuestra ciudad es que las emisiones contaminantes están vinculadas en más de un 80% a las emisiones que producen los vehículos particulares». De las 225 espiras existentes en la ciudad, únicamente se han conseguido analizar 31 en lo correspondiente al mes de febrero de 2021. Con esta información y teniendo en cuenta las dos horas punta de los centros educativos ilicitanos (09:00 horas y 17:00 horas), se observa en [este mapa](https://sites.google.com/goumh.umh.es/asi-afecta-el-trafico/inicio) que el I.E.S. Sixto Marco tiene una tasa media de movilidad de 92 vehículos por la mañana en sus zonas de alrededor. Por el contrario, el C.E.I.P. Baix Vinalopó, situado al final de la Avenida de la Libertad y principios del Puente del Ferrocarril, presenta el mayor índice de densidad de tráfico de todo Elche, con una media de 827 coches por la mañana y 922 por la tarde. La media de todas las espiras de tráfico de la ciudad a las 09:00 horas es de 432'5 vehículos, lo que significa que cada día, más de 400 vehículos expulsan gases tóxicos que afectan 5 días a la semana, durante nueve meses lectivos, a la salud de los niños de Elche.
 
