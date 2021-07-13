@@ -8,11 +8,9 @@ subtitle: Los centros educativos ilicitanos autogestionan sus fondos para crear
 ---
 Por Begoña Amat Cervera y Ana Cortijo Sempere
 
-IMAGEN 1
+![](/images/shots/1º-imagen-1_begoña-amat-cervera_ana-cortijo-sempere-2-1-min-1-1-.jpg)
 
-<sup>Desde infantil hasta sexto de primaria, los alumnos del C.E.I.P. Ramón Llull participan activamente en las tareas del huerto. Todo el proceso, desde que se planta hasta que se recolecta, lo llevan a cabo los niños </sup>
-
-Firma: Ana Cortijo Sempere (https://www.instagram.com/_anacortijo/)
+<sup>Desde infantil hasta sexto de primaria, los alumnos del C.E.I.P. Ramón Llull participan activamente en las tareas del huerto. Todo el proceso, desde que se planta hasta que se recolecta, lo llevan a cabo los niños | [Ana Cortijo Sempere](https://www.instagram.com/_anacortijosempere/) </sup>
 
 A Germán le encantan las fresas, aunque no sabía que nacen de una flor hasta que hace dos años se instaló el huerto ecológico en su colegio, el Sanchís Guarner. En realidad, a Germán nunca le había interesado el campo en absoluto. Era un niño de ciudad como la mayoría. Ahora, bajar al huerto es una de sus actividades favoritas, incluso más que jugar al fútbol. Siempre que su madre compra fresas le dice: «Mamá, ¿sabías que las fresas salen de las flores?».
 
@@ -22,9 +20,7 @@ La implantación de huertos ecológicos en los patios, la retirada de componente
 
 ![](/images/shots/imagen-2_begoña-amat-cervera_ana-cortijo-sempere.jpg)
 
-<sup> El voluntario del Raval Jose María Juan y Fernando Sáez rectifican una compostera mal aireada con un fondo podrido que no ha llegado a completar el proceso de descomposición </sup>
-
-Firma: Begoña Amat Cervera ([https://www.instagram.com/begonia\_\_\_\__/](https://www.instagram.com/begonia_____/))
+<sup> El voluntario del Raval Jose María Juan y Fernando Sáez rectifican una compostera mal aireada con un fondo podrido que no ha llegado a completar el proceso de descomposición | [Begoña Amat Cervera](https://www.instagram.com/begonia_____/) </sup>
 
 ## C.E.I.P Hispanidad: Lentejas, si quieres las tomas y si no… ¡A la compostera!
 
@@ -32,7 +28,7 @@ Cuando le preguntas a Fernando Sáez que cuándo se enamoró de la naturaleza, t
 
 Para ilustrar esta emergencia ambiental, el equipo directivo del [C.E.I.P. Hispanidad](https://portal.edu.gva.es/ceiphispanidadelx/es/portada/) junto con Fernando, que es coordinador del comedor del centro, impulsaron en febrero de 2020 el proyecto medioambiental [«En mi cole compostamos»](https://portal.edu.gva.es/ceiphispanidadelx/es/proyecto-de-compostaje-comunitario/). Las razones por las que se escogió un centro educativo como el C.E.I.P. Hispanidad como sede del compostaje son simples. La primera, porque los niños son el futuro y de su educación medioambiental dependerá el devenir del planeta. Y la segunda, «porque en los colegios se produce una cantidad ingente de residuos orgánicos derivados del comedor escolar», según comenta Fernando. El coordinador, que recoge datos en lo relativo al compostaje del centro, determina que «solo el 4% de la basura reciclable se puede aprovechar y que en cinco meses, los colegios ilicitanos generan 400 toneladas de restos de comida». Además, Fernando apunta que desgraciadamente, «estos restos van a parar al contenedor gris y posteriormente, al mismo espacio natural».
 
-<div class="flourish-embed flourish-chart" data-src="visualisation/6248625"><script src="<https://public.flourish.studio/resources/embed.js>"></script></div> EL GRÁFICO CON FLOURISH NO SE VISUALIZA
+<div class="flourish-embed flourish-chart" data-src="visualisation/6248625"><script src="<https://public.flourish.studio/resources/embed.js>"></script></div> \[EL GRÁFICO CON FLOURISH NO SE VISUALIZA]
 
 <sup>La temperatura dentro de las composteras aumenta desde la segunda semana y hasta la cuarta, debido a la actividad descomponedora de los microorganismos que trabajan la materia orgánica | Fuente de los datos: [Fernando Sáez](https://drive.google.com/file/d/1C5uHdqYa7ulAzK4xE2-oTjbmfZlc5Fo_/view?usp=sharing)</sup>
 
@@ -40,15 +36,15 @@ Para realizar el compostaje, los niños recogían los restos de su comida en cub
 
 ![](/images/shots/imagen-3_begoña-amat-cervera_ana-cortijo-sempere.jpg)
 
-<sup> El C.E.I.P. Hispanidad y los voluntarios del Raval acordaron trasladar las composteras a L’Hort de Felip. Sin ayudas del Ayuntamiento de Elche el proyecto escolar no podrá retomarse el curso que viene. Firma: Begoña Amat Cervera y Ana Cortijo Sempere </sup>
+<sup> El C.E.I.P. Hispanidad y los voluntarios del Raval acordaron trasladar las composteras a L’Hort de Felip. Sin ayudas del Ayuntamiento de Elche el proyecto escolar no podrá retomarse el curso que viene | [Begoña Amat Cervera](https://www.instagram.com/begonia_____/) y [Ana Cortijo Sempere](https://www.instagram.com/_anacortijosempere/) </sup>
 
 Por el momento, no ha habido respuesta por parte del Ayuntamiento y en contra, quienes han creado una simbiosis con el C.E.I.P. Hispanidad son los propietarios de las parcelas del huerto urbano de [L’Hort del Felip](https://goo.gl/maps/PcW5iawi58EqJ124A). Estos voluntarios, que son miembros de la Associació Veïnal del Raval i Carrers Adjacents, necesitan abonar sus terrenos y el centro escolar les propuso ofrecerles el compost y las composteras, a cambio de ir diariamente a airearlas y rectificar el compostaje.
 
 José María Juan es jubilado y propietario de una de las parcelas de L’Hort del Felip. Él, junto a Toni, Paco y Sergio, han estado aireando las composteras con las que en breve abonarán sus terrenos en el huerto urbano. Al finalizar el proyecto escolar de compostaje, los parcelarios del huerto se quedarán las composteras para continuar con la iniciativa. Los voluntarios quieren que los vecinos del Raval tengan un punto donde llevar sus desperdicios orgánicos y que en lugar de ser basura sea abono para cosechar frutas y verduras de calidad. Jose María comenta entre risas que «un paquete de abono cuesta 22 euros mientras que el compost es gratis y es excelente».
 
-IMAGEN 4
+![](/images/shots/299-kb-4º-imagen-4_begoña-amat-cervera_ana-cortijo-sempere-copia.jpg)
 
-<sup> La Asociación Margalló estima que los colegios ilicitanos generan 400 toneladas de residuos orgánicos en los comedores en cinco meses. Por ello proponen al Ayuntamiento de Elche transformarlos en compost para abonar parques y huertos municipales. Firma: Ana Cortijo Sempere </sup>
+<sup> La Asociación Margalló estima que los colegios ilicitanos generan 400 toneladas de residuos orgánicos en los comedores en cinco meses. Por ello proponen al Ayuntamiento de Elche transformarlos en compost para abonar parques y huertos municipales | [Ana Cortijo Sempere](https://www.instagram.com/_anacortijosempere/) </sup>
 
 El ciclo del compostaje del C.E.I.P. Hispanidad se cierra aquí, en L’Hort del Felip. Pero no muere, sino que mezclado con agua, sol, semillas y el esfuerzo de los vecinos del Raval, vivirá a partir de ahora en forma de tomates rizados y berenjenas carnosas para el consumo propio. A la espera, eso sí, de que el Ayuntamiento de Elche tome, verdaderamente, cartas sobre el asunto.
 
@@ -62,7 +58,7 @@ El despacho de Beatriz Vera está tan ordenado como el colegio que dirige. Exalu
 
 ![](/images/shots/imagen-5_begoña-amat-cervera_ana-cortijo-sempere.jpg)
 
-<sup>El conocimiento del ciclo vital de la calabaza es la actividad preferida de los niños de infantil del Ramón Llull. Ver cómo una pequeña flor naranja se transforma en el «monstruo de Halloween» impresiona a los más pequeños. Firma: Ana Cortijo Sempere y Begoña Amat Cervera </sup>
+<sup>El conocimiento del ciclo vital de la calabaza es la actividad preferida de los niños de infantil del Ramón Llull. Ver cómo una pequeña flor naranja se transforma en el «monstruo de Halloween» impresiona a los más pequeños | [Begoña Amat Cervera](https://www.instagram.com/begonia_____/) y [Ana Cortijo Sempere](https://www.instagram.com/_anacortijosempere/) </sup>
 
 El huerto escolar del Ramón Llull fue montado en 2018 con la ayuda de la [Asociación Tamarit](https://asociaciontamarit.org/asociaciontamarit/Quienes_somos.html) y ahora está gestionado por todos los alumnos del centro escolar. Carmen Mira, profesora del colegio, es una de las principales coordinadoras que ayuda a gestionar cada uno de los proyectos, quien además tiene una fuerte tradición agrícola. Sobre los alumnos, Beatriz comenta que «adoran ir al huerto por la novedad de salir del aula, además de los descubrimientos que siempre hacen, como los bichos de colores o los gusanos en una fresa». La cosecha que obtienen del huerto se reparte entre los alumnos de manera que al menos, una vez al año, cada alumno se haya llevado mínimo una fruta o una verdura a casa.
 
@@ -74,7 +70,7 @@ Para reducir su huella ecológica, también han cambiado la grifería y han pues
 
 ![](/images/shots/imagen-6_begoña-amat-cervera_ana-cortijo-sempere.jpg)
 
-<sup> Cada alumno saca el reciclaje al menos una vez al mes. El pasado miércoles 19 de mayo fue el turno de los alumnos de 5º de primaria Evelyn y Miguel. Firma: Ana Cortijo Sempere </sup>
+<sup> Cada alumno saca el reciclaje al menos una vez al mes. El pasado miércoles 19 de mayo fue el turno de los alumnos de 5º de primaria Evelyn y Miguel | [Ana Cortijo Sempere](https://www.instagram.com/_anacortijosempere/) </sup>
 
 El colegio Ramón Llull ha presentado todas estas iniciativas y propuestas futuras al concurso de [Ecoinnovación Educativa](https://www.fundacionendesa.org/es/premios-innovacion-educativa) promovido por la Fundación Endesa, donde se premia a los centros educativos españoles con mejores propuestas en cuidados del medioambiente, además de medidas para promover la cultura ecológica. Todavía no se sabe la resolución del jurado, pero la directora parece emocionada ante la posibilidad de que el colegio reciba este reconocimiento.
 
@@ -86,9 +82,9 @@ En el despacho de Beatriz no hay silencio. Está pegado al patio y se escuchan g
 
 A José Ángel Rubio, director del C.E.I.P. Sanchis Guarner, y a su hijo Jorge de 12 años, les une un viaje a Costa Rica. Hace 2 años José Ángel se hartó de la falta de aventuras que tenía su hijo. Pero sobre todo, le preocupaba la falta de ganas de este por experimentarla. En un coche azul muy viejo y demasiado pequeño para el calor del país, se adentraron en selvas tropicales y playas salvajes. Jorge, al principio escéptico, se enamoró de la naturaleza y los viajes. José Ángel, observando el entusiasmo que había surgido en su hijo unos días libre de paredes, regresó a España con la convicción de convertir al Sanchis Guarner en el colegio de referencia en medioambiente de Elche. Por su hijo y sus alumnos.
 
-IMAGEN 7
+![](/images/shots/307-kb-7º-imagen-7_begoña-amat-cervera_ana-cortijo-sempere-copia.jpg)
 
-<sup>Como parte del programa educativo sensorial de los niños de infantil, todo lo que se cultiva en el huerto del Sanchis Guarner se cocina y se sirve en el comedor. Con ello se promueve que los alumnos coman verduras y frutas de texturas variadas como brócoli, zanahoria o lechuga. Firma: Ana Cortijo Sempere</sup>
+<sup>Como parte del programa educativo sensorial de los niños de infantil, todo lo que se cultiva en el huerto del Sanchis Guarner se cocina y se sirve en el comedor. Con ello se promueve que los alumnos coman verduras y frutas de texturas variadas como brócoli, zanahoria o lechuga | [Ana Cortijo Sempere](https://www.instagram.com/_anacortijosempere/)</sup>
 
 [Cuidem el nostre món!](https://mestreacasa.gva.es/web/sanchisguarner/124) es el programa medioambiental que José Ángel lidera en el C.E.I.P. Sanchis Guarner, quien no solo ha contado con la supervisión del equipo directivo del centro escolar, sino que también con 20 ecodelegados de primaria que han estado involucrados en el programa. Temas como el reciclaje de eficiencia energética o la reducción del gasto de luz empezaron a calar en los alumnos y sus familias, quienes también están implicadas en el proyecto. Una de las madres del centro está realizando bolsitas con el logo del colegio donde el alumno evitaría traer el bocadillo enrollado en plástico. Otra de las madres del centro es bióloga y coordina el [Parque del Hondo.](https://parquesnaturales.gva.es/es/web/pn-el-fondo) Lo que se pretende hacer a partir de esto es estudiar, con los niños de primero y segundo de primaria, la biodiversidad de este ecosistema: cuidado de las plantas e integración de los animales en el medio.
 
@@ -100,7 +96,7 @@ Además de esto, el Sanchis Guarner también cuenta con un huerto escolar. En un
 
 ![](/images/shots/imagen-8_begoña-amat-cervera_ana-cortijo-sempere.jpg)
 
-<sup> En un primer momento, algunos docentes del centro se negaron a participar en el huerto debido a que supondría una carga extra de trabajo además del desconocimiento que tenían sobre agricultura. En la actualidad, todos los maestros del Sanchis Guarner se muestran receptivos con el huerto. Firma: Ana Cortijo Sempere </sup>
+<sup> En un primer momento, algunos docentes del centro se negaron a participar en el huerto debido a que supondría una carga extra de trabajo además del desconocimiento que tenían sobre agricultura. En la actualidad, todos los maestros del Sanchis Guarner se muestran receptivos con el huerto | [Begoña Amat Cervera](https://www.instagram.com/begonia_____/) </sup>
 
 En las sillas de las aulas, se han reutilizado las pelotas de tenis para ponerlas en la base de las patas y hacer frente a la contaminación acústica. José Ángel reconoce que poner estas pelotas no va a significar una diferencia a nivel ruido per se. En cambio, significa un paso más en la educación de los menores al hacerles conscientes del ruido que ellos mismos producen y el impacto que tiene en el medioambiente.
 
