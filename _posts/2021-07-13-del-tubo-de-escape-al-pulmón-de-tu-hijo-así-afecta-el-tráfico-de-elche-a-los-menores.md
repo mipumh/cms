@@ -8,7 +8,7 @@ subtitle: El análisis de 31 detectores de circulación automovilística determi
 ---
 Por Ana Cortijo Sempere y Begoña Amat Cervera
 
-IMAGEN 1 
+https://sites.google.com/goumh.umh.es/asi-afecta-el-trafico/inicio
 
 <sup> Los niños que asisten al colegio en Elche están más expuestos a la contaminación que sus compañeros de las pedanías, lo que les confiere una cierta desventaja académica. </sup>
 
@@ -24,7 +24,7 @@ El monóxido de carbono (CO), el dióxido de nitrógeno (NO2), los compuestos or
 
 En lo relativo a los más pequeños, el [Grupo de Trabajo de Salud Medioambiental de la Sociedad Valenciana](http://pehsu.org/az/pdf/bus_diesel.pdf) advierte de que el gas más perjudicial para ellos es el dióxido de nitrógeno (NO2). También se apunta a que los niños que residen en zonas urbanas altamente contaminadas, por las emisiones del transporte privado, tienen más probabilidades de no alcanzar la capacidad pulmonar prevista, así como tener un envejecimiento pulmonar prematuro, bronquitis y asma, entre otras de las patologías.
 
-IMAGEN 2 
+![](/images/shots/imagen-2_begoña-amat-cervera_ana-cortijo-sempere.jpg)
 
 <sup> El colegio San José de Calasanz de Elche, que se sitúa en los alrededores del barrio del Corazón de Jesús, presenta una media de movilidad de 366 vehículos en las mañanas de febrero de 2021 | [Ana Cortijo Sempere](https://www.instagram.com/_anacortijo/) </sup>
 
@@ -54,7 +54,7 @@ La inocencia de los más pequeños y su curiosidad les hace más vulnerables al 
 
 Generalmente, al tener más años de vida por delante que los adultos, el riesgo a desarrollar enfermedades a medio y largo plazo por la exposición a contaminantes, en bajas dosis, es mayor.
 
-IMAGEN 3 
+![](/images/shots/imagen-3_begoña-amat-cervera_ana-cortijo-sempere.jpg)
 
 <sup> Pese a que el C.E.I.P. Baix Vinalopó se encuentra en las inmediaciones del Río Vinalopó, es uno de los puntos escolares con más tráfico y más emisiones de la ciudad </sup> 
 
@@ -70,7 +70,7 @@ De cara a controlar la calidad del aire de Elche, la ciudad ilicitana cuenta con
 
 En Elche, y en el caso concreto del efecto del dióxido de nitrógeno (NO2) en los niños, la media que se obtiene de los datos de abril de 2021 es de 9'5 µg/m3, un valor que pese a ser positivo s[egún la normativa legal de 200 µg/m3 marcada por la Organización Mundial de la Salud (OMS),](https://apps.who.int/iris/bitstream/handle/10665/69478/WHO_SDE_PHE_OEH_06.02_spa.pdf;jsessionid=2D9935C7DF74B1763E0CF88653741286?sequence=1) se considera nocivo para la salud pública. [Estudios como el de la revista científica Environmental Pollution](https://www.sciencedirect.com/science/article/abs/pii/S0269749116325611?via%3Dihub) determinan que con tan solo 10 µg/m3 ya se incrementa el riesgo de padecer cáncer de pulmón en un 10,28%.
 
-IMAGEN 4 
+![](/images/shots/imagen-4_begoña-amat-cervera_ana-cortijo-sempere.jpg)
 
 <sup> El C.E.I.P. La Hispanidad tiene un total de 430 alumnos y una media de 538 vehículos motorizados a las 17:00 horas cerca del centro urbano </sup>
 
@@ -92,28 +92,26 @@ Desde Elche, la concejala Esther Díez Valero detalla que el Ayuntamiento está 
 
 En contra, el pediatra medioambiental Ferrán Campillo i López, opina que es necesario impulsar medidas más ambiciosas para proteger a los niños. Un ejemplo de ello sería la implicación en campañas como #RevueltaEscolar, en la que se pide sensorizar a los colegios para que los docentes conozcan la calidad del aire que respiran sus alumnos y crear zonas verdes dentro y fuera de los centros para hacer de barrera de contaminación atmosférica y ruido, además de para retomar el contacto con la naturaleza y disponer de zonas de sombra para los días soleados, entre otras de las medidas.
 
-IMAGEN 5
-
 La brisa marina humedece la piel de Daniel y él, por primera vez en toda la semana, respira hondo. Dejar atrás el aire pesado de la ciudad surte un efecto balsámico e instantáneo sobre sus pulmones castigados. El pediatra le ha aconsejado a Virtudes que Dani pase más tiempo lejos de la ciudad, para que se revitalizase así su organismo. Aunque el asma probablemente se vaya en la edad adulta, Daniel tiene claro que cuando crezca, nunca más dejará que la contaminación vuelva a apoderarse de su cuerpo.
 
-METODOLOGÍA
+![](/images/shots/imagen-5_begoña-amat-cervera_ana-cortijo-sempere.jpg)
 
-Para empezar con este tema, primero nos pusimos en contacto con todos y cada uno de los integrantes del [Laboratorio de Contaminación Atmosférica de la Universidad Miguel Hernández de Elche (UMH)](https://www.umh.es/contenido/pas/:uor_897_34/datos_es.html#:~:text=El%20LCA-UMH%20est%C3%A1%20formado,tecnol%C3%B3gico%20ni%20a%20las%20de), responsables de colocar los medidores de calidad del aire en la ciudad, además de recoger e interpretar sus datos.
-
-Después de recibir negativas por parte de todos los miembros del grupo, nos pusimos en contacto con el [Departamento de Física de la UMH.](https://www.umh.es/contenido/Investigacion/:uor_10917/datos_es.html) Escribimos a todos sus miembros y de nuevo, recibimos más negativas por parte de los docentes e investigadores.
-
-Como ambos grupos de investigación nos remitían directamente al Ayuntamiento de Elche, realizamos una solicitud formal de información al [Portal de Transparencia,](http://transparencia.elche.es/?lang=es) pidiendo los datos de las espiras de tráfico y de los medidores de calidad del aire de Elche. Después de esperar más de un mes, tampoco obtuvimos ninguna respuesta.
-
-El siguiente paso fue contactar con la Concejala de Medio Ambiente del Ayuntamiento de Elche, [Esther Díez Valero](https://www.elche.es/team/esther-diez-valero-2-2/). Tras varios intentos sin recibir respuesta, nos concedió una entrevista en su despacho, en la que también le pedimos los datos que habíamos solicitado ya en la solicitud de información. Sí que es cierto que nos proporcionó el enlace de la página oficial de la [Xarxa Valenciana de Vigilància i Control de la Contaminació Atmosférica,](https://agroambient.gva.es/va/web/calidad-ambiental/datos-historicos) portal que recoge los datos de la calidad del aire de Elche de dos puntos de la ciudad: Agroalimentari i Parque de Bomberos. No obstante, Esther no llegó a proporcionarnos la información principal que desde un primer momento le pedimos ya en los emails. El problema con los datos de la Xarxa es que únicamente recogen información de dos puntos lejanos de la ciudad, por lo que no se tienen en cuenta otras zonas de Elche. Los datos de la calidad del aire del caso urbano los tiene el Ayuntamiento, gracias a un convenio que mantiene con el Laboratorio de Contaminación Atmosférica de la UMG. Desgraciadamente, no hemos podido conseguir esos datos para este reportaje. Pero sin duda volveremos a intentarlo en un tiempo.
-
-En este punto, comenzamos a escribirle a varios neumólogos y pediatras expertos en temas de contaminación y calidad del aire. Los que nos contestaron y nos concedieron entrevistas fueron Ferrán Campillo i López (entrevistado por llamada), Esther Pastor Esplá (entrevistada en su despacho del Hospital Universitario de San Juan de Alicante) y Luis Manuel Hernández Blasco (entrevistado por llamada). Contactamos con un pediatra y neumólogo del Hospital General de Elche para conocer el número de ingresados por enfermedades respiratorias en 2021, concretamente con Francisco José Canals Candela. No obstante, al pasarnos únicamente dos datos del número de ingresados en el Hospital, decidimos no añadir esta información al trabajo, pues dudamos respecto a su fiabilidad y su procedencia.
-
-Acercándose la fecha final de entrega y al no tener datos concluyentes ni meramente significativos, decidimos personificarnos como última opción en el Ayuntamiento para pedir al menos las espiras de tráfico, costase lo que costase. Conseguimos los datos, pero solo 31 de las 225 espiras totales existentes.
-
-El siguiente paso fue cribar los datos desde Excel, que fue el formato en el que nos proporcionaron la información. [Seleccionamos la carpeta del año 2020–2021 y unimos en un mismo Excel que hicimos posteriormente nosotras](https://drive.google.com/drive/u/1/folders/1R1IydNFWgTzNEhTrxG6S0p4QJE6L4z9J), todas las espiras, puesto que cada una de ellas venía en un archivo diferenciado por tramo, que tuvimos que identificar a partir de otro archivo donde se indicaba el número identificador de cada espira y el nombre de su calle perteneciente. Dentro del nuevo Excel que creamos, ocultamos todas las celdas de 2020. Después, seleccionamos febrero (solo estaban disponibles los datos de enero y febrero), considerando que este segundo mes, que no tiene festividades, nos daría unos datos más fiables en lo relativo a la movilidad automovilística. Después, ocultamos las horas que no nos interesaban y dejamos visibles las 09:00 y las 17:00, horas de entrada y salida de los colegios y las que por tanto, tienen mayor afluencia de tránsito. A continuación, realizamos la media de cada hora y cada espira, para saber así la media de movilidad de cada uno de estos puntos.
-
-Durante tres días, estuvimos realizando fotografías a la entrada y salida de los colegios. Aunque no lo parezca, la tarea fue especialmente complicada, pues no contábamos con la autorización de ningún colegio. El uso de las mascarillas nos ha ayudado en cierto modo, pues no podemos reconocer la identidad de los niños.
-
-Para visualizar los datos en un mapa de calor nos ayudó Enrique Ribera Carbonell, a quien debemos agradecerle todo el esfuerzo y el tiempo invertido pese a la limitación de tiempo con la que contábamos. En un primer momento, tuvimos que encontrar las coordenadas de cada espira, así como comprobar las que él nos iba proporcionando de las guarderías, colegios e institutos ilicitanos (a parte de los colegios, también hemos añadido institutos y guarderías). Del resto se encargó Quique; nosotras íbamos comprobando que todo estuviese correcto en el mapa, así como proponiéndole mejoras estéticas de cara a conseguir el mejor mapa posible.
-
-<!--EndFragment-->
+> ## METODOLOGÍA
+>
+> Para empezar con este tema, primero nos pusimos en contacto con todos y cada uno de los integrantes del [Laboratorio de Contaminación Atmosférica de la Universidad Miguel Hernández de Elche (UMH)](https://www.umh.es/contenido/pas/:uor_897_34/datos_es.html#:~:text=El%20LCA-UMH%20est%C3%A1%20formado,tecnol%C3%B3gico%20ni%20a%20las%20de), responsables de colocar los medidores de calidad del aire en la ciudad, además de recoger e interpretar sus datos.
+>
+> Después de recibir negativas por parte de todos los miembros del grupo, nos pusimos en contacto con el [Departamento de Física de la UMH.](https://www.umh.es/contenido/Investigacion/:uor_10917/datos_es.html) Escribimos a todos sus miembros y de nuevo, recibimos más negativas por parte de los docentes e investigadores.
+>
+> Como ambos grupos de investigación nos remitían directamente al Ayuntamiento de Elche, realizamos una solicitud formal de información al [Portal de Transparencia,](http://transparencia.elche.es/?lang=es) pidiendo los datos de las espiras de tráfico y de los medidores de calidad del aire de Elche. Después de esperar más de un mes, tampoco obtuvimos ninguna respuesta.
+>
+> El siguiente paso fue contactar con la Concejala de Medio Ambiente del Ayuntamiento de Elche, [Esther Díez Valero](https://www.elche.es/team/esther-diez-valero-2-2/). Tras varios intentos sin recibir respuesta, nos concedió una entrevista en su despacho, en la que también le pedimos los datos que habíamos solicitado ya en la solicitud de información. Sí que es cierto que nos proporcionó el enlace de la página oficial de la [Xarxa Valenciana de Vigilància i Control de la Contaminació Atmosférica,](https://agroambient.gva.es/va/web/calidad-ambiental/datos-historicos) portal que recoge los datos de la calidad del aire de Elche de dos puntos de la ciudad: Agroalimentari i Parque de Bomberos. No obstante, Esther no llegó a proporcionarnos la información principal que desde un primer momento le pedimos ya en los emails. El problema con los datos de la Xarxa es que únicamente recogen información de dos puntos lejanos de la ciudad, por lo que no se tienen en cuenta otras zonas de Elche. Los datos de la calidad del aire del caso urbano los tiene el Ayuntamiento, gracias a un convenio que mantiene con el Laboratorio de Contaminación Atmosférica de la UMG. Desgraciadamente, no hemos podido conseguir esos datos para este reportaje. Pero sin duda volveremos a intentarlo en un tiempo.
+>
+> En este punto, comenzamos a escribirle a varios neumólogos y pediatras expertos en temas de contaminación y calidad del aire. Los que nos contestaron y nos concedieron entrevistas fueron Ferrán Campillo i López (entrevistado por llamada), Esther Pastor Esplá (entrevistada en su despacho del Hospital Universitario de San Juan de Alicante) y Luis Manuel Hernández Blasco (entrevistado por llamada). Contactamos con un pediatra y neumólogo del Hospital General de Elche para conocer el número de ingresados por enfermedades respiratorias en 2021, concretamente con Francisco José Canals Candela. No obstante, al pasarnos únicamente dos datos del número de ingresados en el Hospital, decidimos no añadir esta información al trabajo, pues dudamos respecto a su fiabilidad y su procedencia.
+>
+> Acercándose la fecha final de entrega y al no tener datos concluyentes ni meramente significativos, decidimos personificarnos como última opción en el Ayuntamiento para pedir al menos las espiras de tráfico, costase lo que costase. Conseguimos los datos, pero solo 31 de las 225 espiras totales existentes.
+>
+> El siguiente paso fue cribar los datos desde Excel, que fue el formato en el que nos proporcionaron la información. [Seleccionamos la carpeta del año 2020–2021 y unimos en un mismo Excel que hicimos posteriormente nosotras](https://drive.google.com/drive/u/1/folders/1R1IydNFWgTzNEhTrxG6S0p4QJE6L4z9J), todas las espiras, puesto que cada una de ellas venía en un archivo diferenciado por tramo, que tuvimos que identificar a partir de otro archivo donde se indicaba el número identificador de cada espira y el nombre de su calle perteneciente. Dentro del nuevo Excel que creamos, ocultamos todas las celdas de 2020. Después, seleccionamos febrero (solo estaban disponibles los datos de enero y febrero), considerando que este segundo mes, que no tiene festividades, nos daría unos datos más fiables en lo relativo a la movilidad automovilística. Después, ocultamos las horas que no nos interesaban y dejamos visibles las 09:00 y las 17:00, horas de entrada y salida de los colegios y las que por tanto, tienen mayor afluencia de tránsito. A continuación, realizamos la media de cada hora y cada espira, para saber así la media de movilidad de cada uno de estos puntos.
+>
+> Durante tres días, estuvimos realizando fotografías a la entrada y salida de los colegios. Aunque no lo parezca, la tarea fue especialmente complicada, pues no contábamos con la autorización de ningún colegio. El uso de las mascarillas nos ha ayudado en cierto modo, pues no podemos reconocer la identidad de los niños.
+>
+> Para visualizar los datos en un mapa de calor nos ayudó Enrique Ribera Carbonell, a quien debemos agradecerle todo el esfuerzo y el tiempo invertido pese a la limitación de tiempo con la que contábamos. En un primer momento, tuvimos que encontrar las coordenadas de cada espira, así como comprobar las que él nos iba proporcionando de las guarderías, colegios e institutos ilicitanos (a parte de los colegios, también hemos añadido institutos y guarderías). Del resto se encargó Quique; nosotras íbamos comprobando que todo estuviese correcto en el mapa, así como proponiéndole mejoras estéticas de cara a conseguir el mejor mapa posible.
