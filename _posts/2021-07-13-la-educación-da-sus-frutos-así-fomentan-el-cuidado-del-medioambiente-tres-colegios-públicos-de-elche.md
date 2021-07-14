@@ -50,7 +50,9 @@ El ciclo del compostaje del C.E.I.P. Hispanidad se cierra aquí, en L’Hort del
 
 <div class="container-wrapper-​genially" style="position: relative; min-height: 400px; max-width: 100%;"><video class="loader-genially" autoplay="autoplay" loop="loop" playsinline="playsInline" muted="muted" style="position: absolute;top: 45%;left: 50%;transform: translate(-50%, -50%);width: 80px;height: 80px;margin-bottom: 10%"><source src="[https://static.genial.ly/​resources/panel-loader-low.mp4](https://static.genial.ly/resources/panel-loader-low.mp4)​" type="video/mp4" />Your browser does not support the video tag.</video><div id="60eec6ced3ca920dc716
 
-> ## C.E.I.P. Ramon Llull: Siembra educación y cosecha conciencia medioambiental
+> Beatriz Vera, directora del C.E.I.P. Ramon Llull : «Los alumnos del Ramon Llull completan el proceso de reciclaje sacando la basura hasta los contenedores. Así conseguimos que repitan estas acciones en casa».
+
+## C.E.I.P. Ramon Llull: Siembra educación y cosecha conciencia medioambiental
 
 El despacho de Beatriz Vera está tan ordenado como el colegio que dirige. Exalumna del centro, Bea es ahora la directora del [C.E.I.P. Ramón Llull](https://mestreacasa.gva.es/web/ramonllull), colegio referente en educación medioambiental con uno de los programas más ambiciosos de todo Elche. De entre las iniciativas que existen para hacer de este un lugar sostenible destacan dos: el [huerto escolar](https://mestreacasa.gva.es/c/document_library/get_file?&folderId=500020860739&name=DLFE-2282515.pdf) y el [reciclaje en las aulas](https://mestreacasa.gva.es/c/document_library/get_file?&folderId=500020860739&name=DLFE-2282051.pdf), iniciativas que hacen partícipe al alumnado desde infantil hasta sexto de primaria.
 
