@@ -24,7 +24,7 @@ El monóxido de carbono (CO), el dióxido de nitrógeno (NO2), los compuestos or
 
 En lo relativo a los más pequeños, el [Grupo de Trabajo de Salud Medioambiental de la Sociedad Valenciana](http://pehsu.org/az/pdf/bus_diesel.pdf) advierte de que el gas más perjudicial para ellos es el dióxido de nitrógeno (NO2). También se apunta a que los niños que residen en zonas urbanas altamente contaminadas, por las emisiones del transporte privado, tienen más probabilidades de no alcanzar la capacidad pulmonar prevista, así como tener un envejecimiento pulmonar prematuro, bronquitis y asma, entre otras de las patologías.
 
-![](/images/shots/imagen-2_begoña-amat-cervera_ana-cortijo-sempere.jpg)
+![](/images/shots/2º-colegio-san-josé-calasanz-del-tubo-de-escape-al-pulmón.jpg)
 
 <sup> El colegio San José de Calasanz de Elche, que se sitúa en los alrededores del barrio del Corazón de Jesús, presenta una media de movilidad de 366 vehículos en las mañanas de febrero de 2021 | [Ana Cortijo Sempere](https://www.instagram.com/_anacortijo/) </sup>
 
@@ -52,7 +52,7 @@ La inocencia de los más pequeños y su curiosidad les hace más vulnerables al 
 
 Generalmente, al tener más años de vida por delante que los adultos, el riesgo a desarrollar enfermedades a medio y largo plazo por la exposición a contaminantes, en bajas dosis, es mayor.
 
-![](/images/shots/imagen-3_begoña-amat-cervera_ana-cortijo-sempere.jpg)
+![](/images/shots/3º-colegio-baix-vinalopó-río-del-tubo-de-escape-al-pulmón.jpg)
 
 <sup> Pese a que el C.E.I.P. Baix Vinalopó se encuentra en las inmediaciones del Río Vinalopó, es uno de los puntos escolares con más tráfico y más emisiones de la ciudad | [Begoña Amat Cervera](https://www.instagram.com/begonia_____/) </sup> 
 
@@ -66,7 +66,7 @@ De cara a controlar la calidad del aire de Elche, la ciudad ilicitana cuenta con
 
 En Elche, y en el caso concreto del efecto del dióxido de nitrógeno (NO2) en los niños, la media que se obtiene de los datos de abril de 2021 es de 9'5 µg/m3, un valor que pese a ser positivo s[egún la normativa legal de 200 µg/m3 marcada por la Organización Mundial de la Salud (OMS),](https://apps.who.int/iris/bitstream/handle/10665/69478/WHO_SDE_PHE_OEH_06.02_spa.pdf;jsessionid=2D9935C7DF74B1763E0CF88653741286?sequence=1) se considera nocivo para la salud pública. [Estudios como el de la revista científica Environmental Pollution](https://www.sciencedirect.com/science/article/abs/pii/S0269749116325611?via%3Dihub) determinan que con tan solo 10 µg/m3 ya se incrementa el riesgo de padecer cáncer de pulmón en un 10,28%.
 
-![](/images/shots/imagen-4_begoña-amat-cervera_ana-cortijo-sempere.jpg)
+![](/images/shots/4º-colegio-hispanidad-del-tubo-de-escape-al-pulmón.jpg)
 
 <sup> El C.E.I.P. La Hispanidad tiene un total de 430 alumnos y una media de 538 vehículos motorizados a las 17:00 horas cerca del centro urbano | [Begoña Amat Cervera](https://www.instagram.com/begonia_____/) </sup>
 
@@ -88,7 +88,7 @@ En contra, el pediatra medioambiental Ferrán Campillo i López, opina que es ne
 
 La brisa marina humedece la piel de Daniel y él, por primera vez en toda la semana, respira hondo. Dejar atrás el aire pesado de la ciudad surte un efecto balsámico e instantáneo sobre sus pulmones castigados. El pediatra le ha aconsejado a Virtudes que Dani pase más tiempo lejos de la ciudad, para que se revitalizase así su organismo. Aunque el asma probablemente se vaya en la edad adulta, Daniel tiene claro que cuando crezca, nunca más dejará que la contaminación vuelva a apoderarse de su cuerpo.
 
-![](/images/shots/imagen-5_begoña-amat-cervera_ana-cortijo-sempere.jpg)
+![](/images/shots/5º-¡¡infografía-del-tubo-de-escape-al-pulmón.jpg)
 
 > ## METODOLOGÍA
 >
