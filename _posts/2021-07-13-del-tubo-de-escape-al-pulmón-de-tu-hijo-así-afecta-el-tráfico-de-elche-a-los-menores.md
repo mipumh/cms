@@ -16,7 +16,7 @@ Desde la cama, Daniel huele las tostadas con mermelada de frambuesa que prepara 
 
 Los niños son más vulnerables que los adultos a los efectos de la contaminación atmosférica urbana. Así lo muestra un estudio publicado por el Instituto de Salud Global de Barcelona (ISGlobal). [Uno de cada tres niños con asma desarrolla esta patología a causa de la contaminación.](https://www.isglobal.org/es/-/outdoor-air-pollution-and-the-burden-of-childhood-asthma-across-europe-) En Elche, un total de 21 centros educativos se encuentran cerca de flujos de tráfico rodado que propelen gases y partículas altamente nocivas para la salud de los menores, [según el análisis de 31 espiras de tráfico dispuestas por la ciudad.](https://drive.google.com/drive/u/0/folders/1R1IydNFWgTzNEhTrxG6S0p4QJE6L4z9J) Infecciones respiratorias y neumonías, sensibilización alérgica, enfermedades crónicas como asma, EPOC o bronquitis, son algunas de estas patologías. Muchos de estos problemas respiratorios causan estragos solo durante la infancia y la adolescencia, pero otros pueden cronificarse durante la edad adulta e incluso manifestarse con el tiempo, según el ISGlobal.
 
-Ferrán Campillo i López, pediatra experto en salud medioambiental: «Hay un cuerpo creciente de evidencias de que una exposición continuada a gases como el dióxido de nitrógeno (NO2), produce un cierto tipo de cáncer infantil, además de un peor neurodesarrollo»
+> Ferrán Campillo i López, pediatra experto en salud medioambiental: «Hay un cuerpo creciente de evidencias de que una exposición continuada a gases como el dióxido de nitrógeno (NO2), produce un cierto tipo de cáncer infantil, además de un peor neurodesarrollo»
 
 ## El dióxido de nitrógeno (NO2): el enemigo químico de niños y adolescentes
 
