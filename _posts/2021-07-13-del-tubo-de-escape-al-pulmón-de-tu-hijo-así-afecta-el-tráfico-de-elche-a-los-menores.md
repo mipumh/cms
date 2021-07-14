@@ -30,9 +30,7 @@ En lo relativo a los más pequeños, el [Grupo de Trabajo de Salud Medioambienta
 
 El pediatra experto en salud medioambiental, Ferrán Campillo i López, argumenta que «hay un cuerpo creciente de evidencias de que una exposición continuada a gases como el dióxido de nitrógeno (NO2), produce un cierto tipo de cáncer infantil, además de un peor neurodesarrollo». En consecuencia, los niños expuestos a este gas tóxico tienen una desventaja frente a sus pares que no están en contacto con estos químicos. Además, esto también se ha relacionado con problemas reproductivos, como puede ser un aumento del riesgo de partos prematuros, abortos espontáneos o un bajo peso de los niños al nacer.
 
-Luis Manuel Hernández Blasco, neumólogo del Hospital General Universitario de Alicante: «Las enfermedades respiratorias son las terceras más prevalentes como causa de ingreso en hospitales, pero las primeras como causa de atención primaria»
-
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay"src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1044130930&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div 
+> Luis Manuel Hernández Blasco, neumólogo del Hospital General Universitario de Alicante: «Las enfermedades respiratorias son las terceras más prevalentes como causa de ingreso en hospitales, pero las primeras como causa de atención primaria»
 
 ## Los niños de la ciudad: indefensos frente a las emisiones del tráfico rodado
 
