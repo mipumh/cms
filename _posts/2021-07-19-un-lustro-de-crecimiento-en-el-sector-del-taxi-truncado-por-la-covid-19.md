@@ -1,10 +1,16 @@
 ---
 layout: post
 title: Un lustro de crecimiento en el sector del taxi truncado por la COVID-19
+subtitle: Los servicios de este medio de transporte han disminuido en un 44% con
+  respecto al año anterior
 ---
+Por [Andrés Puentes Navarro](http://twitter.com/andrespuentesna) y María del Carmen Ponce Cortés
+
 Manuel Mestre (Orihuela, 1956), lleva más de 40 años dedicando su vida al sector del taxi. Se levanta a las 06:00h de la mañana, arranca el taxi y recorre las calles de Alicante. “Este es un trabajo para toda la vida, nadie te manda y nadie te va a echar, es lo bonito de esto”, relata Mestre. Pero los inicios no fueron fáciles porque vivió la situación que muchos nuevos taxistas viven ahora, tal y como expone: “Cuando yo me compré la licencia costaba lo que valía un piso”. En sus años de profesión jamás había vivido una crisis así, exceptuando la del 2008 de la que recuerda que fue una crisis dura, pero no de la misma forma, ya que era únicamente española y los turistas seguían viniendo, lo cual mantenía el sector a flote. Las VTC eran el tema estrella antes de la pandemia, pero no provocaron una caída económica tan grande, sino que fue más un tema de escasa regulación e intrusismo laboral.
 
-IMAGEN 1
+IMAGEN 1 Parada de taxi en la Avenida
+
+![](/images/shots/imagen-1-parada-de-taxi-en-la-avenida.jpg)
 
 <sup> Parada de taxi en la Avenida Rambla de San Juan </sup>
 
@@ -20,7 +26,9 @@ El crecimiento era exponencial hasta este último año, y no solo en los primero
 
 > “Se veía que España iba a subir en todo, en empresas que se estaban montando, en el turismo que iba a superarse más, en todo. Entonces era bueno trabajar aquí, no parabas”, declara el taxista Manuel Mestre
 
-IMAGEN 2
+IMAGEN 2 Manuel Mestre espera a nuevos clientes
+
+![](/images/shots/imagen-2-manuel-mestre-espera-a-nuevos-clientes.jpg)
 
 <sup>Manuel Mestre espera a nuevos clientes en la parada de San Juan de Alicante </sup>
 
@@ -34,7 +42,9 @@ El progreso que ha tenido el sector del taxi en los últimos años es innegable,
 
 >  “Han hecho una cosa paralela al taxi, no debería de haber existido. Debería haber sido taxi y taxi, no taxi y VTC”, expone el taxista Francisco Ramón Giner
 
-IMAGEN 3
+IMAGEN 3 Francisco Ramón Giner adelanta el vehículo
+
+![](/images/shots/imagen-3-francisco-ramón-giner-adelanta-el-vehículo.jpg)
 
 <sup>Francisco Ramón Giner adelanta el vehículo en la parada de San Juan</sup>
 
@@ -68,8 +78,8 @@ Manuel Mestre declara que tiene la esperanza de que la vacuna pueda hacernos vol
 
 Las nuevas generaciones también consideran al sector como una buena salida profesional. Antonio Moreno expone: “Es un trabajo muy tranquilo y que cuando van las cosas bien, lo ves todo hecho porque es salir a la calle y empezar a trabajar”.
 
-# METODOLOGÍA
-
- Para la confección de este reportaje recurrimos a Juan Antonio López, directivo de Radio Teletaxi, que nos proporcionó los datos correspondientes a los diferentes meses de los últimos cinco años. Aquí están [todos los datos empleados](https://drive.google.com/file/d/1edUsriIN6-SxnMtaXf3kSY646tu29Ztx/view?usp=sharing). 
-
-Además, realizamos un total de cuatro entrevistas. Una al propio Juan Antonio López, que se realizó telefónicamente; las correspondientes a Manuel Mestre y a Francisco Ramón Giner, en las que acudimos a la parada de San Juan; y la última a Antonio Moreno, para la que nos desplazamos hasta su domicilio.
+> # METODOLOGÍA
+>
+>  Para la confección de este reportaje recurrimos a Juan Antonio López, directivo de Radio Teletaxi, que nos proporcionó los datos correspondientes a los diferentes meses de los últimos cinco años. Aquí están [todos los datos empleados](https://drive.google.com/file/d/1edUsriIN6-SxnMtaXf3kSY646tu29Ztx/view?usp=sharing). 
+>
+> Además, realizamos un total de cuatro entrevistas. Una al propio Juan Antonio López, que se realizó telefónicamente; las correspondientes a Manuel Mestre y a Francisco Ramón Giner, en las que acudimos a la parada de San Juan; y la última a Antonio Moreno, para la que nos desplazamos hasta su domicilio.
