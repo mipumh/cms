@@ -2,13 +2,13 @@
 layout: post
 title: Qué podemos aprender de los medios más innovadores
 ---
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -48,9 +48,9 @@ title: Qué podemos aprender de los medios más innovadores
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -629,9 +629,9 @@ title: Qué podemos aprender de los medios más innovadores
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -647,13 +647,13 @@ title: Qué podemos aprender de los medios más innovadores
 	font-size:10.0pt;
 	font-family:"Times New Roman",serif;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
 Innovar resulta esencial para la supervivencia de los medios de comunicación en un contexto marcado por el cambio constante, especialmente tras el impacto de la COVID-19. Cambian no solo las tecnologías, sino los productos, la organización de las redacciones, los hábitos de consumo y la forma en que las audiencias se relacionan con los medios. Las profundas transformaciones en el sector permiten que las empresas puedan innovar a partir de las necesidades detectadas. En este artículo analizamos tres casos de medios iberoamericanos que incorporan la innovación en su ADN para solucionar problemas concretos: Nexo Jornal (Brasil), El Observador (Uruguay) y Pictoline (México).
 
- 
+![](/images/shots/innovation-medios.jpg)
 
 La innovación permite desarrollar nuevas ideas y usar la tecnología para introducir un producto, concepto o servicio que resuelva las necesidades de los consumidores. Sin embargo, las innovaciones no se reducen sólo a un nuevo producto, a la tecnología o al contenido, sino que también pueden basarse en una combinación original de ideas, procesos o recursos ya existentes. “La innovación es una condición para nuestra supervivencia. Y la supervivencia de los diarios depende totalmente de nuestra capacidad para evolucionar”, sostiene Arthur Szulberger Jr., exdirector ejecutivo de *The New York Times*. En este sentido, *[The New York Times 2020 Report](https://www.nytimes.com/projects/2020-report/index.html)* ya apuntaba la necesidad de innovar en los formatos narrativos, el *engagement* con los usuarios o las prioridades en la cobertura informativa, mediante una estrategia que se resume en tres objetivos:
 
@@ -663,11 +663,7 @@ La innovación permite desarrollar nuevas ideas y usar la tecnología para intro
 
 \-Cambiar el modelo de negocio para sustentarlo en la suscripción.
 
- 
-
 La realidad muestra que no existe una receta única para la transformación de los medios y su adaptación al cambio. Las dinámicas que intervienen en los procesos de innovación potencian más que nunca la naturaleza cambiante del periodismo en áreas como la producción de contenidos y servicios, la organización de la redacción, la distribución o la comercialización. En definitiva, la innovación se traduce en una estrategia que aporta valor al medio y a sus usuarios, logrando éxitos tangibles (ingresos, suscripciones, publicidad...) o intangibles (prestigio, imagen de marca, etc.).
-
-
 
 **Innovación: Experimentar con formatos que lleguen a los usuarios**
 
@@ -686,8 +682,6 @@ Basada en la colaboración y la transversalidad, [los responsables de Nexo Jorna
 **\-Los equipos de gráficos y datos se integran de forma transversal en la cobertura.**
 
 **\-Enfocar sus contenidos desde perspectivas originales y aportar valor diferenciado.**
-
- 
 
 **Innovación en los flujos de trabajo, la coordinación y la mejora del teletrabajo**
 
@@ -711,8 +705,6 @@ El Observador fomenta que sus equipos estén integrados por periodistas jóvenes
 
 **\-Herramientas que facilitan la comunicación interna entre editores y reporteros, mejoran el trabajo en equipo y coordinan las tareas en todo momento.**
 
-
-
 **Innovar en la distribución de contenidos**
 
 **Necesidad detectada: cómo viralizar contenidos informativos en las redes sociales**
@@ -734,8 +726,6 @@ Pictoline cuenta con un equipo de 13 profesionales, incluyendo ilustradores, edi
 **\-Transformar cualquier información en un contenido capaz de conectar con millones de personas.**
 
 **\-Especialización en formatos divulgativos que informan con rigor y un toque humorístico.**
-
-
 
 **La innovación como motor de la estrategia empresarial**
 
