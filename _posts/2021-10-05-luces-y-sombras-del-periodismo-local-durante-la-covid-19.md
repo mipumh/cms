@@ -2,13 +2,13 @@
 layout: post
 title: Luces y sombras del periodismo local durante la COVID-19
 ---
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -48,9 +48,9 @@ title: Luces y sombras del periodismo local durante la COVID-19
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -629,9 +629,9 @@ title: Luces y sombras del periodismo local durante la COVID-19
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -658,13 +658,13 @@ title: Luces y sombras del periodismo local durante la COVID-19
 	mso-bidi-theme-font:minor-bidi;
 	mso-fareast-language:EN-US;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
 El periodismo local se halla condicionado por la precaria financiación de las empresas informativas. En un mercado con una inversión publicitaria limitada y creciente competencia, la crisis de la COVID-19 complica la viabilidad de los medios locales. Los diarios y televisiones locales se han visto afectados por el desplome publicitario y la disminución de ingresos. Los nativos digitales locales, con plantillas escasas y nutridas de colaboradores y becarios, luchan por su supervivencia. La COVID-19 ha tenido un notable impacto en la profesión y graves consecuencias en el ecosistema mediático local, que analizamos en este artículo.
 
- 
+![](/images/shots/local-journalism.jpg)
 
 **Relevancia de los medios locales**
 
@@ -672,15 +672,15 @@ Aunque son uno de los sectores más vulnerables a las recesiones económicas, lo
 
 En este contexto, [un estudio realizado en la Universidad de Santiago por Cruz Negreira-Rey, Xosé López-García y Jorge Vázquez-Herrero](https://revistadecomunicacion.com/article/view/1947), cataloga un total de 1.148 medios digitales locales en España, y evidencia el crecimiento relevante de estas iniciativas, inmersas en la búsqueda de nuevos modelos de negocio.  Los investigadores señalan que en muchos casos la edición digital es secundaria frente a la del periódico, radio o televisión, y no se actualiza con frecuencia. La precariedad de los medios digitales locales “puede obstaculizar su adaptación y desarrollo”, subrayan. “Con todo, el fuerte vínculo e identificación social que estos medios mantienen con su comunidad local e hiperlocal constituye su activo más valioso”, concluyen.
 
+![](/images/shots/medios-locales-españa.jpg)
+
+Mapa de los medios locales e hiperlocales en España. Fuente: estudio de Cruz-Negreira, López-García y Vázquez-Herrero.
+
 La proximidad hay que entenderla también en su vertiente social, cultural o incluso psicológica. Sin embargo, resulta insuficiente definir un medio de comunicación local en función del marco geográfico donde se difunde, ya que esta dimensión se ha visto superada por el alcance de la publicación digital. [Como señala el catedrático Xosé López](https://telos.fundaciontelefonica.com/archivo/numero063/redescubrir-el-valor-de-la-proximidad/):
 
 “El diario local es un medio interpretativo de servicios, con el foco en la proximidad, sus raíces en el territorio, sus proyectos en la cercanía, pero con una visión más universal, y con el convencimiento de que es necesario innovar, implicarse en la vida de la comunidad, emplear las tecnologías actuales y buscar vías de colaboración con medios de similares características. Es un modelo que ha hecho un largo y difícil camino en el que ha redescubierto los renovados valores de la proximidad”.
 
- 
-
 La misión del periodismo local es contar lo que sucede en los ámbitos más cercanos, mediante una información caracterizada por el rigor, la precisión y el interés, ofreciendo una explicación de los antecedentes y las consecuencias, mediante la contextualización de los hechos. [De acuerdo con la investigadora Anne Schulz en un reciente estudio](https://reutersinstitute.politics.ox.ac.uk/es/digital-news-report/2021/la-desagregacion-de-las-noticias-locales-donde-halla-valor-aun-la) publicado por el Oxford Reuters Institute for the Study of Journalism, las audiencias conceden gran valor a las noticias locales, por lo que los medios de proximidad resultan esenciales para que la ciudadanía participe en la vida de su ciudad y favorezca una auténtica integración. Sin embargo, el principal peligro reside en la facilidad con la que también cuentan los poderes locales para ejercer mecanismos de presión directa o indirecta sobre el periodista.
-
- 
 
 **El periodismo local, en busca de la viabilidad**
 
@@ -689,6 +689,8 @@ Sara Medialdea, redactora de la sección de Madrid en el diario ABC, [señalaba
  “Nace el primer niño en Anoz (Navarra) en 63 años”; “El servicio de salud vasco dejó de detectar 1.695 tumores colon y 202 de mama en 2020 por la pandemia”; “Un colegio en Burguillos (Extremadura) busca alumnos para no cerrar”; “Málaga concentra nueve de los cien tramos más peligrosos para motoristas”; “Jorge Valentín ha perdido su casa engullida por el volcán de La Palma”. Se trata de titulares que encontramos en diversos medios locales, informaciones que difícilmente existirían sin el periodismo de proximidad y de profesionales cualificados para esta labor.
 
 En nuestro país sigue existiendo un excelente periodismo de ámbito local y regional. Miguel Ángel Jimeno, profesor de periodismo en la Universidad de Navarra y autor del blog [“La buena prensa”](http://labuenaprensa.blogspot.com/), otorga anualmente [unos premios a las contribuciones periodísticas más destacadas](http://labuenaprensa.blogspot.com/2021/04/) en los medios españoles. [Jimeno apunta que](https://www.ideal.es/culturas/periodista-ideal-jose-20210413183326-nt.html) “lo bonito de estos premios es reconocer la labor del periodista que está en la calle, el que sale todos los días a trabajar en su barrio o en su ciudad” y avala que numerosos diarios locales desarrollan un excelente periodismo que a menudo encuentra escaso reconocimiento en la sociedad.
+
+![](/images/shots/la-buena-prensa.jpg)
 
 En este sentido, es necesaria la renovación en las formas de contar y presentar la información local: estar más cerca del **ciudadano** que de las autoridades, destacar lo **importante** junto con que le interesa a la gente, apostar por una **agenda propia**, ejercer el liderazgo informativo, ofrecer servicios que faciliten la vida de la gente, identificar las necesidades de los ciudadanos y tratar de resolverlas.
 
@@ -699,8 +701,6 @@ En España, la prensa regional ha sido pionera en implantar modelos de suscripci
 Algunos nativos digitales de ámbito nacional, como Eldiario.es y El Español, han apostado por una estrategia de crecimiento basado en implantar una red de nativos digitales locales. [En palabras de Joan Checa, director gerente de Eldiario.es](https://www.cuadernosdeperiodistas.com/prensa-local-un-modelo-en-cuestion/), “las ediciones locales nos aportan audiencia y ellas, a cambio, tienen un reconocimiento de la marca de Eldiario.es, que les sirve para competir en los mercados locales con otros medios”. Eldiario.es cuenta con ediciones en Andalucía, Cataluña, Norte, Canarias, Comunidad Valenciana, Cantabria, Murcia, Galicia, Castilla y León, Extremadura y Castilla La Mancha, basado en un modelo de cooperación y alianzas entre los diferentes proyectos, con los que comparte principios profesionales y sociales. En la mayoría de los casos, se trata de cooperativas, fundaciones o empresas diferentes a elDiario.es con las que la redacción central se coordina informativamente. En 2020 [anunciaron sus planes](https://periodismolocal.net/eldiario-es-busca-alianzas-locales-en-asturias-baleares-y-la-rioja-y-abre-una-linea-de-donaciones-para-sus-ediciones/) para lanzar ediciones locales en Asturias, Baleares y La Rioja.
 
 **Por su parte, El Español prosigue con su estrategia de sellar alianzas con nativos digitales** para crecer en tráfico web. En septiembre de 2016 firmó un **acuerdo con el digital Navarra.com** que implica el intercambio de contenido editorial, la suma de audiencias y la comercialización conjunta de publicidad. Ese mismo año, **El Español suscribió acuerdos de fusión con** el Diario de Avisos (Canarias) y Crónica Global (Cataluña). En abril de 2021, el diario dirigido por Pedro J. Ramírez entró en el accionariado de [NOTICIASCYL](https://www.noticiascyl.com/) para iniciar un proceso de convergencia empresarial, tecnológica y editorial. Esta operación se materializó a través de la empresa **Obelisco Digital**, artífice del éxito de los nativos locales [Quincemil](https://www.elespanol.com/quincemil/) y [Treintayseis](https://www.elespanol.com/treintayseis/) en Galicia. La expansión regional prosigue en 2021 con la entrada en el capital de El Digital de Castilla-La Mancha y el lanzamiento de **El Español de Málaga y El Español de Alicante**.
-
- 
 
 **La COVID-19 ha agravado la crisis de los medios locales**
 
