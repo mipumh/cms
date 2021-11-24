@@ -664,6 +664,8 @@ title: "Recursos para utilizar la Inteligencia Artificial en el periodismo "
 
 La irrupción de la Inteligencia Artificial (IA) y la tecnología automatizada está transformando la manera de captar, procesar, generar y distribuir las informaciones y el trabajo de los periodistas, [como ya analizamos en este blog en febrero de 2019](https://mip.umh.es/blog/2019/11/02/el-impacto-de-la-inteligencia-artificial-en-el-periodismo/). Asimismo, la IA desempeña [un papel cada vez más sofisticado en la generación de “Deepfakes”](https://mip.umh.es/blog/2019/12/01/deepfakes-c%C3%B3mo-los-medios-combaten-la-desinformaci%C3%B3n-m%C3%A1s-sofisticada/) y en la propagación de desinformación en las redes. En este artículo ofrecemos una selección de 14 recursos muy útiles para profundizar en el desarrollo de la IA y aplicarla al periodismo y la comunicación.
 
+![](/images/shots/tipos-aprendizaje-inteligencia-artificial-1200x675.jpg)
+
 **[AI Journalism Starter Pack](https://www.lse.ac.uk/media-and-communications/polis/JournalismAI/Starter-Pack)** **(2021) Elaborado por Mattia Peretti. London School of Economics.**
 
 En esta web encontrarás una guía muy valiosa para los periodistas que deseen iniciarse en el uso de la IA. Contiene una serie de recursos y herramientas sobre la producción de contenidos automatizados, verificación de informaciones, investigaciones periodísticas, cómo conectar con las audiencias, la detección del riesgo de sesgos o la moderación de comentarios.
@@ -687,6 +689,8 @@ The Elements of AI ofrece una serie de cursos online gratuitos creados por la em
 **[Automated Journalism – AI Applications at New York Times, Reuters, and Other Media Giants](https://emerj.com/ai-sector-overviews/automated-journalism-applications/)** **(2019). Corinna Underwood. Emerj - Artificial Intelligence Research**
 
 Los medios están utilizando la IA de formas diversas, desde la aceleración de los procesos de investigación hasta el manejo de grandes volúmenes de datos y la automatización de los contenidos. Este artículo explica cómo la IA se está integrando en las redacciones y responde a tres preguntas: ¿Qué nuevas tareas periodísticas posibilita la IA? ¿Qué aplicaciones de IA contribuyen a mejorar el proceso periodístico y cuáles sustituyen a los periodistas? ¿Cómo utilizan las redacciones estas aplicaciones y cómo afectarán al futuro del periodismo? Incluye ocho casos del uso de la IA (entre ellos, The New York Times y The Washington Post), que muestran cómo los medios pueden adaptarse.
+
+![](/images/shots/inteligencia-artificial-5.jpg)
 
 **[Robots que escriben noticias en español: cuando las máquinas hacen el trabajo de un periodista](https://www.xataka.com/robotica-e-ia/robots-que-escriben-noticias-espanol-maquinas-nuevas-herederas-larra)** **(2019). Carlos Prego. Xataca.**
 
@@ -1369,6 +1373,8 @@ Salvaguardar nuestra autonomía como humanos en la toma decisiones conforme crec
 El artículo examina tres casos del uso de herramientas de IA (Pintpoint, Funes y Gabriele) que permiten optimizar el trabajo en varios medios de habla hispana. Los medios incorporan diferentes tecnologías de IA a las etapas del proceso periodístico de forma que los periodistas trabajan estrechamente con máquinas y algoritmos. Sin embargo, las herramientas son costosas y exigen conocimientos que no todos los comunicadores poseen.
 
 <!--EndFragment-->
+
+![](/images/shots/inteligencia-artificial-oracle.jpg)
 
 **[New powers, new responsibilities. A global survey of journalism and Artificial Intelligence](https://blogs.lse.ac.uk/polis/2019/11/18/new-powers-new-responsibilities/)** **(2019). Coordinado por Charlie Becket. London School of Economics.**
 
