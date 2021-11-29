@@ -67,6 +67,7 @@ Las fronteras del mundo no-code son muy amplias, y aquí se destacan algunas her
 * [Hotjar](https://www.hotjar.com/) está diseñado para conocer cómo se comportan los usuarios en una web. De este modo, se puede mejorar su experiencia para incrementar el tiempo de permanencia o incluso las suscripciones.
 * Para aquellos medios grandes que están inmersos en investigaciones de mucho calado, [Obviously.ai](https://www.obviously.ai/) puede ser útil, puesto que es una inteligencia artificial (IA) que, entrenada de la forma correcta, puede reconocer patrones y realizar predicciones en grandes cantidades de datos. La relación entre periodismo e IA es cada vez más intensa, como atestigua [este post del investigador José Alberto García-Avilés.](https://mip.umh.es/blog/2021/11/24/recursos-para-utilizar-la-inteligencia-artificial-en-el-periodismo/)
 
+
 ### Bonus track: comunidades de no-coders
 
 La comunidad de creadores que apuestan por el no-code es cada vez mayor. [Sharingaway](https://sharingaway.com/) es la referencia en España: organiza eventos, directos, cursos... Otras plataformas, como [Nocode.tech](https://es.nocode.tech/) o [nocoders.academy](https://www.nocoders.academy/) también proporcionan formación gratuita y de pago. A nivel internacional, una de las recopilaciones más interesantes de herramientas es la de [Nocodelist.co](https://nocodelist.co/), y para quienes prefieren formarse a través de los auriculares, el podcast de [Nocodehackers](https://www.nocodehackers.es/) es uno de los más relevantes.
