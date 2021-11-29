@@ -4,6 +4,8 @@ title: "Periodismo y no-code: herramientas e ideas para potenciar la informació
   con tecnología sin necesidad de programar"
 new_author: Cristian Ramón Marín-Sanchiz
 ---
+![](/images/shots/periodismo-no-code-herramientas.jpg)
+
 La relación entre periodismo y tecnología es, en ocasiones, complicada. Un estudio reciente elaborado por [los investigadores Ferrucci y Perreault (2021) argumenta,](https://www.researchgate.net/profile/Gregory-Perreault/publication/354582196_The_Liability_of_Newness_Journalism_Innovation_and_the_Issue_of_Core_Competencies/links/614355d1b5bdf5148e28258e/The-Liability-of-Newness-Journalism-Innovation-and-the-Issue-of-Core-Competencies.pdf) a través de entrevistas con profesionales, que el periodismo no es un sector muy proclive a la innovación. Por supuesto, existen centenares de medios innovadores que abrazan la tecnología con el objetivo de crear más valor para los usuarios, pero el margen de mejora es amplio, también en el ámbito de la formación. En Europa, los programas de estudio se centran más en el ámbito teórico que en plantear un modelo educativo orientado al ejercicio de la profesión y al aprendizaje de herramientas y tecnologías, según revela [una investigación de Cervi, Simelio y Tejedor-Calvo (2021).](https://www.tandfonline.com/doi/abs/10.1080/17512786.2020.1762505) La buena noticia, en este contexto, es que se está consolidando un movimiento muy interesante para las redacciones y los profesionales: el no-code. 
 
 Las herramientas no-code (en castellano, ‘sin programar’) son aquellas que permiten crear productos digitales ―o funcionalidades para otros que ya existen― sin necesidad de que el periodista tenga conocimientos sobre lenguajes de programación. Su éxito se sustenta sobre una idea muy básica: permitir que las personas se centren en innovar y lanzar proyectos con valor añadido, eliminando las barreras técnicas que se erigían hasta la fecha. Pau Garcia-Mila, innovador del Año en 2011 por la publicación del MIT TR-35 y premio FPdGI Princesa de Girona, reconoce que el no-code constituye “una de las profesiones con más futuro en el mundo tecnológico”, pero que “todavía no se enseña en las universidades” porque “es demasiado nuevo”. 
@@ -24,7 +26,7 @@ Aquí hay una aplicación que reina sobre todas las demás: [Notion](https://www
 
 Aunque Python es un lenguaje de programación relativamente sencillo y con un gran potencial, existen alternativas no-code muy interesantes. [Flourish](https://flourish.studio/) ofrece numerosas opciones para crear visualizaciones de datos interactivas (mapas, gráficos…) que articulan grandes cantidades de información en torno a un formato atractivo para el usuario. Para muestra, una pieza realizada por estudiantes del [Local Data Lab de la Universidad Miguel Hernández](https://localdatalab.umh.es/):
 
-<div class="flourish-embed" data-src="visualisation/4688020"><script src="<https://public.flourish.studio/resources/embed.js>"></script></div>
+`<div class="flourish-embed" data-src="visualisation/4688020"><script src="<https://public.flourish.studio/resources/embed.js>"></script></div>`
 
 De forma similar, [Datawrapper](https://www.datawrapper.de/) está orientada a crear tablas y gráficos, mientras que [Databasic.io](https://www.databasic.io/en/wordcounter/results/5ea9d61b44169001c0220a1d) crea nubes de palabras a partir de un texto en solo dos pasos, algo muy útil para analizar discursos o programas políticos en tiempo de elecciones.
 
@@ -64,8 +66,6 @@ Las fronteras del mundo no-code son muy amplias, y aquí se destacan algunas her
 * [Landbot](https://landbot.io/lp/chatbot-creator?utm_source=google_ads&utm_medium=cpc&utm_term=landbot&utm_campaign=UR_AllMarkets_G_S_B_Brand&gclid=Cj0KCQiAhf2MBhDNARIsAKXU5GSxohdmm-zPsxVgEo767QrGVGq0IN_LdCovcn2rDQl3sVR05B_yyvwaAhWnEALw_wcB) sirve para crear chatbots y publicarlos en una web.
 * [Hotjar](https://www.hotjar.com/) está diseñado para conocer cómo se comportan los usuarios en una web. De este modo, se puede mejorar su experiencia para incrementar el tiempo de permanencia o incluso las suscripciones.
 * Para aquellos medios grandes que están inmersos en investigaciones de mucho calado, [Obviously.ai](https://www.obviously.ai/) puede ser útil, puesto que es una inteligencia artificial (IA) que, entrenada de la forma correcta, puede reconocer patrones y realizar predicciones en grandes cantidades de datos. La relación entre periodismo e IA es cada vez más intensa, como atestigua [este post del investigador José Alberto García-Avilés.](https://mip.umh.es/blog/2021/11/24/recursos-para-utilizar-la-inteligencia-artificial-en-el-periodismo/)
-
-
 
 ### Bonus track: comunidades de no-coders
 
