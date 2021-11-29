@@ -48,7 +48,7 @@ Si un periodista ya tiene su boletín en marcha y desa que el lector se suscriba
 
 [Bubble.io](https://bubble.io/), [Adalo](https://www.adalo.com/) o [Shoutem](https://shoutem.com/) están pensadas para crear aplicaciones web (y móviles) de todo tipo. Desde el punto de vista de los medios de comunicación de nicho, una posibilidad muy interesante es lanzar plataformas de aprendizaje o incluso guías que personalicen la información en función del conocimiento del lector. Ejemplo de ello es ‘Crypto Explainer’, una sección de CoinDesk que forma en el mundo de las criptomonedas. También se pueden construir directorios de negocios locales o de empresas especializadas y cobrar por acceder a ellos, [como hace el medio especializado en bodas One Fab Day.](https://simonowens.substack.com/p/how-the-wedding-blog-one-fab-day)
 
-![](https://lh5.googleusercontent.com/MLYAcxyOvwe6ubCKOzNZx1-QC-OySzQaCDN2FzfeJg3K8Sj0ojh7x8R-bsI0dkfD-bPBcZnMoEa84D3WrvK6SOE1CBQryaAwm0GXoj0rJ0ZwFjkaGQDxy3Yywm2Vnk3dsWVupKF8)
+![###### **Coindesk publica información sobre criptomonedas que el usuario puede consumir en función de su nivel de conocimiento**](https://lh5.googleusercontent.com/MLYAcxyOvwe6ubCKOzNZx1-QC-OySzQaCDN2FzfeJg3K8Sj0ojh7x8R-bsI0dkfD-bPBcZnMoEa84D3WrvK6SOE1CBQryaAwm0GXoj0rJ0ZwFjkaGQDxy3Yywm2Vnk3dsWVupKF8 "###### **Coindesk publica información sobre criptomonedas que el usuario puede consumir en función de su nivel de conocimiento**")
 
 ###### **Coindesk publica información sobre criptomonedas que el usuario puede consumir en función de su nivel de conocimiento**
 
@@ -74,7 +74,5 @@ Gracias a todas las herramientas expuestas y a la vasta cantidad de conocimiento
 ### **Referencias**
 
 Cervi, L., Simelio, N., & Tejedor Calvo, S. (2021). Analysis of journalism and communication studies in Europe’s top ranked universities: Competencies, aims and courses. Journalism Practice, 15(7), 1033-1053.
-
-
 
 Ferrucci, P., & Perreault, G. (2021). The Liability of Newness: Journalism, Innovation and the Issue of Core Competencies. Journalism Studies, 22(11), 1436-1449.
