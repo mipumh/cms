@@ -664,6 +664,10 @@ title: Cuatro libros sobre innovación y periodismo muy recomendables
 
 En la segunda mitad del año se han publicado varias obras centradas en los cambios que atraviesa el periodismo y la comunicación en internet que ofrecen perspectivas muy valiosas. Se trata de: [Innovación y Periodismo Local en América Latina](https://drive.google.com/file/d/1hPW-9FyFy8OWM6LUd1kfvNq9-74_MFWa/view), de la Fundación Gabo; [Error 404. ¿Preparados para un mundo sin Internet?](https://www.penguinlibros.com/es/literatura-contemporanea/258751-libro-error-404-9788418056062) , de Esther Paniagua; [Panmedials: Los medios de la pandemia](https://www.amazon.com/-/es/Mr-Mauricio-Cabrera/dp/B099ZJJBVX/), de Mauricio Cabrera, y [Nuevas Narrativas en Periodismo. Consumo, producción y circulación de noticias en internet](https://medialabpatagonia.org/wp-content/uploads/2021/09/Nuevas-Narrativas-Rost-Bernardi-Bergero.pdf). Alejandro Rost, María Teresa Bernardi y Fabián Bergero. En este artículo reseñamos brevemente estos libros.
 
+![](/images/shots/libros-innovacion.jpg)
+
+![](/images/shots/innovacion-y-periodismo-local-en-america-latina.png)
+
 ## [Innovación y Periodismo Local en América Latina](https://drive.google.com/file/d/1hPW-9FyFy8OWM6LUd1kfvNq9-74_MFWa/view). Fundación Gabo.
 
 Nunca fue tan fácil lanzar un medio digital como hoy en día. Pero igualmente nunca fue tan difícil atraer una audiencia y mantenerla fiel a tu medio. Por ello, resulta útil conocer la experiencia de iniciativas periodísticas incipientes que están logrando consolidarse en Latinoamérica. Es el caso de “[El Surti](https://elsurti.com/)”, lanzado en Paraguay por el periodista Alejandro Valdez y su equipo en 2016. Su foco está en construir una comunidad a partir de nuevos formatos narrativos y la presencia en las redes sociales (especialmente Instagram), abordar temas de contenido social con una perspectiva fresca y utilizar la tecnología de manera innovadora. “La innovación surge de saber escuchar con atención lo que hay y lo que el contexto pide”, es uno los aprendizajes que comparte Valdez en un capítulo de este libro.
@@ -676,7 +680,7 @@ Los casos y entrevistas incluidas en el libro fueron seleccionados a partir de l
 
 Muchos de los consejos de los maestros y emprendedores surgieron a partir de las clases magistrales “Narrativas digitales para cubrir lo local” y “Sostenibilidad, modelos de negocios e innovación” que se impartieron en el programa [ “Innovación y periodismo local en América Latina”](https://fundaciongabo.org/es/noticias/articulo/la-fundacion-gabo-y-google-news-initiative-lanzan-proyecto-de-formacion-para). “La mayor innovación que puede hacer cualquier medio de comunicación es hacer periodismo radical. Y el periodismo radical es el más clásico de todos: revelar cosas, controlar al poder, revelar soluciones que se están ocultando”, subraya Alejandro Valdez. Por eso esta obra coral es tan enriquecedora.
 
-
+![](/images/shots/error-404.jpg)
 
 ## [Error 404. ¿Preparados para un mundo sin Internet?](https://www.penguinlibros.com/es/literatura-contemporanea/258751-libro-error-404-9788418056062) Esther Paniagua. Ed. Debate.
 
@@ -687,6 +691,8 @@ Mediante una prosa ágil y cuidada, y un excelente trabajo de documentación, la
 Este ensayo, que se lee como una novela, pretende anticiparse a lo que puede suceder en cualquier momento. Su autora no es apocalíptica -aunque pueda parecerlo por los títulos que vertebran las tres partes del libro: “Oscuridad, Tinieblas y Nuevo Amanecer”. Paniagua defiende que, a pesar de todo, aún hay motivos para la esperanza. Lejos de ser una distopía, *Error 404* es un manual para la acción lleno de optimismo, plasmado en un capítulo con decenas de propuestas sobre cómo mejorar internet. Las propuestas se articulan en torno a quince temas tan relevantes como ciberseguridad, gobernanza de datos y privacidad, desinformación y discurso del odio, infraestructura digital, valores y derechos, y discriminación, entre otros.
 
 Se trata de una mirada profundamente innovadora sobre el futuro de internet. El empeño de Paniagua es recuperar una internet abierta, libre y basada en el servicio público, con un marco general que garantice su gobernanza, de forma que los usuarios sean considerados ciudadanos con todos sus derechos, en vez de meros consumidores o integrantes de una estadística o de ingentes volúmenes de datos. Y para ello hemos de evitar los lamentos estériles y empeñarnos, como defiende la autora, en construir lo que queremos que sea internet. Es la hora de la revolución.
+
+![](/images/shots/pandemials.jpg)
 
 ## [Panmedials: Los medios de la pandemia](https://www.amazon.com/-/es/Mr-Mauricio-Cabrera/dp/B099ZJJBVX/)**. Mauricio Cabrera. Edición propia.**
 
@@ -700,7 +706,7 @@ Con un jugoso prólogo de Juan Andrés Muñoz, director digital de CNN en Españ
 
 **Panmedials** pretende diagnosticar los errores, consolidar los aprendizajes y, a la vez, convertirse en un detonante de ideas para potenciales soluciones a los problemas actuales. Como señala su autor, se trata de “**un libro vivo**, que te llama a leer, pero también a escuchar. Que habla de lo que fue, de lo que es, y que te invita a descubrir lo que está ocurriendo en nuestra industria”.
 
-
+![](/images/shots/nuevas-narrativas-en-periodismo.jpg)
 
 ## [Nuevas Narrativas en Periodismo. Consumo, producción y circulación de noticias en internet](https://medialabpatagonia.org/wp-content/uploads/2021/09/Nuevas-Narrativas-Rost-Bernardi-Bergero.pdf)**. Alejandro Rost, María Teresa Bernardi y Fabián Bergero. Universidad Nacional del Comahue.**
 
