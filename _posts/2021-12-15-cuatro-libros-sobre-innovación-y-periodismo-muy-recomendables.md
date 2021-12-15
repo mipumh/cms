@@ -2,13 +2,13 @@
 layout: post
 title: Cuatro libros sobre innovación y periodismo muy recomendables
 ---
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -48,9 +48,9 @@ title: Cuatro libros sobre innovación y periodismo muy recomendables
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -629,9 +629,9 @@ title: Cuatro libros sobre innovación y periodismo muy recomendables
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -658,15 +658,11 @@ title: Cuatro libros sobre innovación y periodismo muy recomendables
 	mso-bidi-theme-font:minor-bidi;
 	mso-fareast-language:EN-US;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
 En la segunda mitad del año se han publicado varias obras centradas en los cambios que atraviesa el periodismo y la comunicación en internet que ofrecen perspectivas muy valiosas. Se trata de: [Innovación y Periodismo Local en América Latina](https://drive.google.com/file/d/1hPW-9FyFy8OWM6LUd1kfvNq9-74_MFWa/view), de la Fundación Gabo; [Error 404. ¿Preparados para un mundo sin Internet?](https://www.penguinlibros.com/es/literatura-contemporanea/258751-libro-error-404-9788418056062) , de Esther Paniagua; [Panmedials: Los medios de la pandemia](https://www.amazon.com/-/es/Mr-Mauricio-Cabrera/dp/B099ZJJBVX/), de Mauricio Cabrera, y [Nuevas Narrativas en Periodismo. Consumo, producción y circulación de noticias en internet](https://medialabpatagonia.org/wp-content/uploads/2021/09/Nuevas-Narrativas-Rost-Bernardi-Bergero.pdf). Alejandro Rost, María Teresa Bernardi y Fabián Bergero. En este artículo reseñamos brevemente estos libros.
-
- 
-
- 
 
 ## [Innovación y Periodismo Local en América Latina](https://drive.google.com/file/d/1hPW-9FyFy8OWM6LUd1kfvNq9-74_MFWa/view). Fundación Gabo.
 
@@ -678,11 +674,11 @@ Los lectores encontrarán una auténtica mina de ideas e inspiración para quien
 
 Los casos y entrevistas incluidas en el libro fueron seleccionados a partir de los proyectos presentados en el blog[ Laboratorio de periodismo innovador](https://fundaciongabo.org/es/blog/laboratorios-periodismo-innovador), un espacio en el que la Fundación Gabo comparte iniciativas y aprendizajes de periodistas y medios de Iberoamérica. Estos casos abordan desde la experimentación con nuevos formatos hasta formas creativas de generar ingresos y fortalecer los modelos de negocio.
 
-Muchos de los consejos de los maestros y emprendedores surgieron a partir de las clases magistrales “Narrativas digitales para cubrir lo local” y “Sostenibilidad, modelos de negocios e innovación” que se impartieron en el programa [ “Innovación y periodismo local en América Latina”](https://fundaciongabo.org/es/noticias/articulo/la-fundacion-gabo-y-google-news-initiative-lanzan-proyecto-de-formacion-para). “La mayor innovación que puede hacer cualquier medio de comunicación es hacer periodismo radical. Y el periodismo radical es el más clásico de todos: revelar cosas, controlar al poder, revelar soluciones que se están ocultando”, subraya Alejandro Valdez. Por eso es tan enriquecedora esta obra coral.
+Muchos de los consejos de los maestros y emprendedores surgieron a partir de las clases magistrales “Narrativas digitales para cubrir lo local” y “Sostenibilidad, modelos de negocios e innovación” que se impartieron en el programa [ “Innovación y periodismo local en América Latina”](https://fundaciongabo.org/es/noticias/articulo/la-fundacion-gabo-y-google-news-initiative-lanzan-proyecto-de-formacion-para). “La mayor innovación que puede hacer cualquier medio de comunicación es hacer periodismo radical. Y el periodismo radical es el más clásico de todos: revelar cosas, controlar al poder, revelar soluciones que se están ocultando”, subraya Alejandro Valdez. Por eso esta obra coral es tan enriquecedora.
 
- 
 
-[Error 404. ¿Preparados para un mundo sin Internet?](https://www.penguinlibros.com/es/literatura-contemporanea/258751-libro-error-404-9788418056062) Esther Paniagua. Ed. Debate.
+
+## [Error 404. ¿Preparados para un mundo sin Internet?](https://www.penguinlibros.com/es/literatura-contemporanea/258751-libro-error-404-9788418056062) Esther Paniagua. Ed. Debate.
 
 El 4 de octubre de 2021, [los servicios de Facebook, WhatsApp, Instagram estuvieron caídos durante unas seis horas en todo el mundo](https://www.xataka.com/aplicaciones/facebook-instagram-whatsapp-estan-caidos-servidores-fallan-a-nivel-global). Las **consecuencias de esta caída** fueron notorias: desde crisis de ansiedad entre miles de usuarios, hasta que ni siquiera los empleados de Facebook pudieran comunicarse entre sí con sus propias herramientas. Un inmenso trastorno que demuestra la complejidad que existe detrás de las plataformas de internet. Por eso, este libro es muy oportuno para entender las múltiples formas en las que internet se está cayendo o envileciendo y cómo podría producirse un gran apagón de la red de redes; el caos que ello podría desatar y lo dependientes que somos de ella.
 
@@ -692,9 +688,7 @@ Este ensayo, que se lee como una novela, pretende anticiparse a lo que puede suc
 
 Se trata de una mirada profundamente innovadora sobre el futuro de internet. El empeño de Paniagua es recuperar una internet abierta, libre y basada en el servicio público, con un marco general que garantice su gobernanza, de forma que los usuarios sean considerados ciudadanos con todos sus derechos, en vez de meros consumidores o integrantes de una estadística o de ingentes volúmenes de datos. Y para ello hemos de evitar los lamentos estériles y empeñarnos, como defiende la autora, en construir lo que queremos que sea internet. Es la hora de la revolución.
 
- 
-
-# [Panmedials: Los medios de la pandemia](https://www.amazon.com/-/es/Mr-Mauricio-Cabrera/dp/B099ZJJBVX/)**. Mauricio Cabrera. Edición propia.**
+## [Panmedials: Los medios de la pandemia](https://www.amazon.com/-/es/Mr-Mauricio-Cabrera/dp/B099ZJJBVX/)**. Mauricio Cabrera. Edición propia.**
 
 [Mauricio Cabrera](https://twitter.com/macafut) es uno de los analistas que mejor siguen las tendencias de la innovación en el ecosistema mediático, desde los creadores individuales de contenido hasta las narrativas que triunfan en las plataformas o los modelos de negocio disruptivos. A través de los distintos formatos de la marca [Story Baker](https://www.storybaker.co/) (el boletín diario y los podcasts que produce), sus hallazgos y comentarios resultan realmente valiosos. Cabrera argumenta que “los medios vivimos dos pandemias en una. Sobre la del coronavirus nada podíamos hacer. Pero sobre la otra, la del colapso de los modelos de negocio, la de la pérdida de credibilidad y la de la fuga de talento de creadores que se han ido de los medios para emprender por cuenta propia, sí que podíamos hacer algo”.
 
@@ -706,13 +700,13 @@ Con un jugoso prólogo de Juan Andrés Muñoz, director digital de CNN en Españ
 
 **Panmedials** pretende diagnosticar los errores, consolidar los aprendizajes y, a la vez, convertirse en un detonante de ideas para potenciales soluciones a los problemas actuales. Como señala su autor, se trata de “**un libro vivo**, que te llama a leer, pero también a escuchar. Que habla de lo que fue, de lo que es, y que te invita a descubrir lo que está ocurriendo en nuestra industria”.
 
- 
 
-[Nuevas Narrativas en Periodismo. Consumo, producción y circulación de noticias en internet](https://medialabpatagonia.org/wp-content/uploads/2021/09/Nuevas-Narrativas-Rost-Bernardi-Bergero.pdf)**. Alejandro Rost, María Teresa Bernardi y Fabián Bergero. Universidad Nacional del Comahue.**
 
-Se trata del último libro del equipo de investigación en periodismo digital de la Universidad Nacional del Comahue, que cumple **20 años de labor ininterrumpida**. Los doce capítulos de la obra -editada por los investigadores **Alejandro Rost, María Teresa Bernardi y Fabián Bergero**- examinan los cambios que experimentan **las rutinas periodísticas,** la **producción informativa, los formatos narrativos y las prácticas de consumo**, con especial referencia a la región del norte de la Patagonia argentina.
+## [Nuevas Narrativas en Periodismo. Consumo, producción y circulación de noticias en internet](https://medialabpatagonia.org/wp-content/uploads/2021/09/Nuevas-Narrativas-Rost-Bernardi-Bergero.pdf)**. Alejandro Rost, María Teresa Bernardi y Fabián Bergero. Universidad Nacional del Comahue.**
 
-Este libro arroja luz sobre el **convulso escenario del periodismo actual**, en un contexto de dificultad para hallar **modelos sustentables de financiación, la creciente precarización, el impacto del aislamiento** que impuso la pandemia del Covid-19 y **las innovaciones en las narrativas y herramientas** para contar historias. De este modo, los usuarios se acostumbran a las **nuevas redes y gramáticas digitales que, según los autores,** “generan **largas mesetas y hasta depresiones creativas**, pero también **cordilleras de ingenio** que dan lugar a modos originales de hacer periodismo”.
+Se trata del último libro del equipo de investigación en periodismo digital de la Universidad Nacional del Comahue, que cumple **20 años de labor ininterrumpida**. Los doce capítulos de la obra -editada por los investigadores **Alejandro Rost, María Teresa Bernardi y Fabián Bergero**- examinan los cambios que experimentan las rutinas periodísticas, la producción informativa, los formatos narrativos y las prácticas de consumo, con especial referencia a la región del norte de la Patagonia argentina.
+
+Este libro arroja luz sobre el convulso escenario del periodismo actual, en un contexto de dificultad para hallar modelos sustentables de financiación, la creciente precarización, el impacto del aislamiento que impuso la pandemia del Covid-19 ylas innovaciones en las narrativas y herramientas para contar historias. De este modo, los usuarios se acostumbran a las nuevas redes y gramáticas digitales que, según los autores, “generan **largas mesetas y hasta depresiones creativas**, pero también **cordilleras de ingenio** que dan lugar a modos originales de hacer periodismo”.
 
 La renovación narrativa ha sido una constante a lo largo de la historia del periodismo, alimentada por sucesivos movimientos de índole periodística, social y tecnológica. Los investigadores analizan numerosos casos de medios consolidados, junto con medios más pequeños, start-ups y periodistas que tratan de evolucionar e innovar contra viento y marea. En el entorno complejo de la Sociedad Red, ante la proliferación de tecnologías y la participación de los usuarios, los medios desarrollan diversos formatos narrativos basados ​​en la hipertextualidad e interactividad que incorporan la Inteligencia Artificial, la visualización de datos, la gamificación y el *Big Data*.
 
