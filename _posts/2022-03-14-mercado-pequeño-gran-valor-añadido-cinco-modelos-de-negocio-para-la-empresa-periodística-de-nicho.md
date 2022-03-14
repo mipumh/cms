@@ -34,7 +34,7 @@ Este emprendedor subraya otro factor relevante: la importancia de la comunicaci�
 
 ![](/images/shots/revista-manual-suscripcion.jpeg)
 
-En definitiva, la filosofía con la que Manual pretende crear un alto valor añadido para su comunidad de usuarios es que la publicación no parezca, en realidad, una revista de videojuegos  y se aleje de los postulados más arraigados en este mercado, tanto por la atemporalidad de los textos y su enfoque ―[centrándose, por ejemplo, en las personas que hay detrás de cada título](https://mip.umh.es/blog/2021/02/23/papel-estaba-muerto-la-expansio-n-tranquila-del-periodismo-lento/)― como por la apuesta por un producto tangible que va en sintonía con la propuesta de valor del medio.
+La filosofía con la que Manual pretende crear un alto valor añadido para su comunidad de usuarios es que la publicación no parezca, en realidad, una revista de videojuegos y se aleje de los postulados más arraigados en este mercado, tanto por la atemporalidad de los textos y su enfoque ―[centrándose, por ejemplo, en las personas que hay detrás de cada título](https://mip.umh.es/blog/2021/02/23/papel-estaba-muerto-la-expansio-n-tranquila-del-periodismo-lento/)― como por la apuesta por un producto tangible que va en sintonía con la propuesta de valor del medio.
 
 ### **[Nazarenos](https://revistanazarenos.es/)**
 
