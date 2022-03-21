@@ -39,7 +39,7 @@ De acuerdo con el [Digital 2022 Global Overview Report](https://www.hootsuite.co
 
 Una de las iniciativas más aplaudidas por los usuarios es su nueva política de **cero tolerancia ante las violencias dirigidas contra el colectivo LGBTQ+**. Hace tan solo unas semanas, TikTok anunció la prohibición de contenido transfóbico, el deadnaming o la promoción de las terapias de conversión. Además, recientemente han [actualizado su política de seguridad](https://www.tiktok.com/safety/en-us/bullying-prevention/) para incluir **vídeos, recomendaciones y consejos contra el ciberbullying**. 
 
-VÍDEO: **<https://sf16-va.tiktokcdn.com/obj/eden-va2/glkuhuyloeh7hupn/Bullyingprevention.mp4>**
+(Incrustar) **<https://sf16-va.tiktokcdn.com/obj/eden-va2/glkuhuyloeh7hupn/Bullyingprevention.mp4>**
 
 Otra iniciativa interesante es su apuesta por el “contenido amable”. Con el objetivo de crear un ambiente positivo, centrado en la creatividad y el apoyo entre los usuarios, TikTok ha lanzado dos nuevas prestaciones que fomentan los discursos amables. La primera se trata de un sistema de filtrado de comentarios que **permite a los creadores de contenido bloquear o eliminar los comentarios no deseados**, así como establecer un filtro automático basado en palabras clave. La segunda, tiene como objetivo **hacer reflexionar a los usuarios que van a realizar comentarios ofensivos**. Para ello, tras realizar un análisis de contenido basado en palabras clave “hostiles”, pide al usuario que reconsidere su contenido antes de publicarlo.
 
