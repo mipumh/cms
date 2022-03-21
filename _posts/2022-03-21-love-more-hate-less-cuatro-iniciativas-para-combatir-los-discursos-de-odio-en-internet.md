@@ -17,7 +17,7 @@ Internet se ha convertido en un caldo de cultivo para los discursos de odio. El 
 
 Los minijuegos se basan en la premisa de que la **alfabetización digital y la visibilización de las injusticias resultan clave en la lucha contra el odio**. El [Rondo del odio](https://play.nomorehaters.es/rondo), inspirado en el rosco de Pasapalabra, reta al usuario a adivinar conceptos y conductas relacionadas con la discriminación, el acoso o el odio. El segundo minijuego, titulado [Verdad o bulo](https://play.nomorehaters.es/cards), se centra en los bulos, noticias y contenidos manipulados que circulan en la red. El jugador debe **adivinar si se trata de una noticia real o una estrategia de desinformación**. Cada una de las tarjetas interactivas en las que se estructura el juego, incluye un enlace al contenido verificado por Maldita.es. Por último, en [Quizzz](https://play.nomorehaters.es/quiz) el usuario debe **ponerse en la piel de una víctima o testigo de conductas de odio**. La premisa es muy sencilla: ¿cómo actuarías?
 
-![](/images/shots/api.gif)
+![](/images/shots/gif_api.gif)
 
 ### **Perspective: una API contra la toxicidad en internet**
 
