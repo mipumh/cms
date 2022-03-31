@@ -2,13 +2,13 @@
 layout: post
 title: La transformación del periodismo explicada en 9 gráficos
 ---
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -48,9 +48,9 @@ title: La transformación del periodismo explicada en 9 gráficos
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -629,9 +629,9 @@ title: La transformación del periodismo explicada en 9 gráficos
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -658,7 +658,7 @@ title: La transformación del periodismo explicada en 9 gráficos
 	mso-bidi-theme-font:minor-bidi;
 	mso-fareast-language:EN-US;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
@@ -668,7 +668,7 @@ A los medios de comunicación les falta capacidad de respuesta sobre todo porque
 
 Entender hacia dónde nos llevan estas tendencias ya es una cuestión empresarial de primer orden y también debería ser una cuestión prioritaria para quienes toman las decisiones estratégicas. Lo que suceda en los próximos años postpandemia remodelará el periodismo más profundamente de lo que podríamos imaginar.
 
- 
+![](/images/shots/1-2021-internetminute.png)
 
 **1. El periodismo apenas sobrevive en la batalla por la atención.**
 
@@ -694,60 +694,66 @@ La pandemia sin duda influyó en el incremento en el uso de Internet ya que much
 
 Cada nueva newsletter, podcast o app a la que presto mi atención implica menos tiempo de consumo disponible para las restantes opciones. En este entorno tan saturado de reclamos de todo tipo, los periodistas luchan por captar y retener nuestra tención. Y me temo que los medios cada vez más tienen menos posibilidades de éxito.
 
-
+![](/images/shots/2perfil-usuarios-en-cada-red-social.jpg)
 
 **2. Las redes sociales siguen su ascenso imparable como fuente informativa**
 
 Meta (Facebook) se mantiene como la principal fuente de noticias, mientras que Instagram supera a Twitter, al tiempo que TikTok crece vertiginosamente. El Oxford **Reuters Institute** for the Study of Journalism publica estos datos en [¿Cómo y por qué accede la audiencia a las noticias en redes sociales?](https://email.mg2.substack.com/c/eJwtUc1yhCAMfprlhoPgKh449NLXcBCipWXBQmjr2zd2O8Pkj-RL8sVZhD2X0xy5IrvEgucBJsF3jYAIhbUKZQne9EKOkx4082bwvb5rFuqyFYCHDdFgacCOtsbgLIacroppVGpmbwb0tq5y03rdprsb3KgtOJj6bbazE4N69rXNB0gODHxBOXMCFs0b4lFv6uUmX-kVaDRQDaliQDK7I8eAwdUu_3TWde2DkqCS8GEPaCO_1uAFjlyQolLInpTLj8xPTkH-2YBb58ADj5b_TxAsOZWnTNCBDEgE4aHymsmPUFkwBHWhDb1UdzV3sqNNN9j8eBdqnESvuqhqbvj5cxvEY5ddbWtF6z466s6Kebe7LYRmvwIBUs5-sfj3SSQupB8tBTwXSHaN4J_84vNMf4wvOyQodD6_WDT9OAx6oIGUEOLJJx2AQrPsxcSou89UlUxsCeov-kKsmg) El informe analiza las seis redes sociales abiertas más numerosas en un total de 46 mercados encuestados. Los datos indican que los medios se han dado cuenta de que para llegar a los lectores o espectadores, sobre todo en los grupos demográficos más jóvenes, tienen que publicar a través de las redes sociales.
 
+![](/images/shots/2bgrafico_fuentesnoticiasmasutilizadas-kantar.png)
+
 [Sin embargo, los usuarios no consideran las redes sociales como una fuente informativa fiable,](<>) según el informe [Media Navigator 2021](https://get-media.kantar.com/las-5-claves-para-redefinir-las-estrategias-de-comunicacion/) de Kantar. La excepción es la Generación Z (de 16 a 24 años). Sin embargo, [solo un 39% de ellos está seguro de saber identificar la fuente de lo que lee en las redes](https://www.kantar.com/es/inspiracion/publicidad-y-medios/solo-uno-de-cada-tres-jovenes-de-entre-16-y-24-anos-sabe-identificar-la-fuente).
 
- 
+![](/images/shots/3difusión-prensa-eeuu-2019-2021.jpg)
 
 **3. La difusión de los diarios se desploma. Esto ya lo sabíamos. Lo inquietante es la magnitud del desplome por la COVID-19.**
 
 Los datos de la prensa en Estados Unidos son elocuentes. Han pasado de vender 4.7 millones de periódicos en abril de 2019 a 3.1 millones en octubre de 2021, lo que supone un descenso del 34% en apenas año y medio. ¿Qué sector industrial puede resistir esta caída tan estrepitosa? Es cierto que sus ingresos se ven compensados por otras vías, pero en conjunto el panorama no es optimista.
 
- 
+![](/images/shots/4pew-2020-newsroomemployment_02.png)
 
 **4. El número de periodistas en los medios tradicionales sigue disminuyendo. Muchos se han reciclado en medios nativos digitales.**
 
  Es evidente que las televisiones, las emisoras de radio y los periódicos no pueden mantener redacciones sobredimensionadas en un momento en el que los ingresos publicitarios siguen en caída libre. Por ejemplo, [en Estados Unidos el número de periodistas que trabajan en los medios impresos](<>) descendió un 51% entre 2008 y 2019, pasando de 71.000 a 35.000 empleados. Se afianza por tanto el cambio generacional: un alto porcentaje de los profesionales mayores de 50 años se ha prejubilado o ha perdido su trabajo. Otros han ampliado su horizonte en los medios digitales.
 
- 
+![](/images/shots/5-us-ad-market-sizes-2021-2025-july2021-.png)
 
 **5. Los ingresos publicitarios en radio y TV se ralentizan y se desploman en los diarios y revistas (incluyendo sus ediciones online).**
 
 Este gráfico con los datos de las previsiones de la evolución de los ingresos publicitarios para los diferentes medios en Estados Unidos revela que esta vía de financiación está mermando considerablemente en el caso de los diarios y revistas, se mantiene estancada en la radio y crece ligeramente en la televisión. Solo experimentará un incremento considerable en el caso de los medios en internet.
 
-
+![](/images/shots/6annual-revenue-google-2002-2021.png)
 
 **6. Los ingresos publicitarios de las empresas tecnológicas se disparan.**
 
 Los gigantes tecnológicos pueden suministrar audiencias masivas con targets muy precisos y eficacia demostrable. Esta es su gran ventaja competitiva y donde los medios de comunicación siguen arrastrando muchas dificultades.
 
-De ahí el vertiginoso crecimiento de los ingresos publicitarios de Google (Alphabet), que ha pasado de 6 billones de dólares en 2005 a más de 256 billones en 2021. Por su parte, los ingresos de Facebook (Meta) crecieron de unos 2.000 millones de dólares en 2010 hasta más de 118 millones en 2021.
+![](/images/shots/6ingresos-anuales-de-facebook-meta-2009-2021.png)
 
- 
+De ahí el vertiginoso crecimiento de los ingresos publicitarios de Google (Alphabet), que ha pasado de 6 billones de dólares en 2005 a más de 256 billones en 2021. Por su parte, los ingresos de Facebook (Meta) crecieron desde unos 2.000 millones de dólares en 2010 hasta superar los 118 millones en 2021.
+
+![](/images/shots/7people-who-pay-for-online-news.png)
 
 **7.  Apenas el 10 por ciento de los usuarios está dispuesto a pagar por las noticias online.**
 
- La mentalidad del “acceso gratis a la información” implantada durante casi dos décadas hace que la cultura del pago por las noticias sea todavía complicada. Las suscripciones a los medios en muchos mercados (España y América Latina) no acaban de despegar. Este gráfico del **Digital News Report** elaborado por el Oxford Reuters Institute for the Study of Journalism revela que en la mayor parte de Europa (con la notable excepción de los países nórdicos) la gente todavía no está dispuesta a pagar por las noticias en internet.
+La mentalidad del “acceso gratis a la información” implantada durante casi dos décadas hace que la cultura del pago por las noticias sea todavía complicada. Las suscripciones a los medios en muchos mercados (España y América Latina) no acaban de despegar. Este gráfico del **Digital News Report** elaborado por el Oxford Reuters Institute for the Study of Journalism revela que en la mayor parte de Europa (con la notable excepción de los países nórdicos) la gente todavía no está dispuesta a pagar por las noticias en internet.
 
 Sin embargo, se dan pasos para cambiar la mentalidad. Los servicios de streaming consolidados (Netflix, Amazon Prime, HBO Max, Spotify, etc.) contribuyen a que la cultura del pago se generalice, pero a su vez los usuarios demandan un servicio con altos estándares de calidad. Buena parte de los medios se emplean a fondo por conseguir que la gente reciba productos y servicios de calidad y se acostumbre a pagar por ello (suscribirse).
 
- 
+![](/images/shots/8most_subscribed_news_websites.jpg)
 
 **8. Las suscripciones y los modelos de membresía son las vías de ingresos más importantes para los medios.**
 
 El cambio de modelo es evidente, aunque no se halla exento de incertidumbre. Los diarios afrontan el reto de diversificar sus ingresos, más allá de la tradicional vía publicitaria, en declive continuo. Numerosas cabeceras han apostado por implantar modelos de suscripción que buscan fidelizar al lector mediante un producto de calidad. El reto es si los medios lograrán cautivar a un volumen de lectores suficientemente amplio como para financiar un periodismo de calidad. No todos están en condiciones de hacerlo y cada vez hay más competencia. En el caso de España, los medios apuntan a lograr un millón de suscriptores en los próximos meses.
 
- 
+![](/images/shots/9pj_2019.03.05-trust-in-the-media.png)
 
 **9. Los periodistas son la profesión en la que los ciudadanos menos confían.**
 
- Este quizá es el dato más demoledor para el periodismo: su permanente crisis de credibilidad. Dos encuestas, una en Reino Unido y otra que incluye ocho países europeos, avalan la espada de Damocles de los medios: la pérdida de confianza entre la ciudadanía. Las causas son complejas. En muchos casos, la opinión gana terreno a la información y se traduce en una militancia que mucha gente no soporta porque fomenta la polarización y el “periodismo de trinchera”.
+Este quizá es el dato más demoledor para el periodismo: su permanente crisis de credibilidad. Dos encuestas, una en Reino Unido y otra que incluye ocho países europeos, avalan la espada de Damocles de los medios: la pérdida de confianza entre la ciudadanía. Las causas son complejas. En muchos casos, la opinión gana terreno a la información y se traduce en una militancia que mucha gente no soporta porque fomenta la polarización y el “periodismo de trinchera”.
 
-Durante la Covid-19, muchos medios apostaron por la información de servicio público basada en los datos y el rigor. Atendieron en primera instancia las necesidades de los lectores.  Ahora más que nunca el periodismo se ha convertido en un bien de primera necesidad. **Es preciso que los medios reconstruyan su independencia de los poderes económicos y políticos**, si quieren recuperar la confianza de las audiencias. No basta con un lavado de cara, ha de ser un objetivo estratégico.
+![](/images/shots/9trust-in-professions.jpeg)
+
+Durante la Covid-19, muchos medios apostaron por la información de servicio público basada en los datos y el rigor. Atendieron en primera instancia las necesidades de los lectores. Ahora más que nunca el periodismo se ha convertido en un bien de primera necesidad. **Es preciso que los medios reconstruyan su independencia de los poderes económicos y políticos**, si quieren recuperar la confianza de las audiencias. No basta con un lavado de cara, ha de ser un objetivo estratégico.
 
 <!--EndFragment-->
