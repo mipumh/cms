@@ -109,7 +109,7 @@ Chiner destacó también el impacto de la contaminación en los dos años de pan
 
 Para tratar de frenar los elevados niveles de contaminación presentes en las grandes zonas urbanas, la Organización Mundial de la Salud (OMS) fija unos niveles que no deberían sobrepasarse para evitar que la mala calidad del aire influya en la salud de la población. En la siguiente tabla se muestran las pautas de calidad del aire según la Organización Mundial de la Salud desde el pasado 2021 comparadas con las anteriores normativas, fijadas en el año 2005.
 
-![](/images/shots/imagen-5-dr1.png)
+<iframe title="Niveles establecidos por la OMS" aria-label="Tabla" id="datawrapper-chart-kBjxS" src="https://datawrapper.dwcdn.net/kBjxS/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="422"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data\["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data\["datawrapper-height"])for(var r=0;r<t.length;r++){if(t\[r].contentWindow===e.source)t\[r].style.height=e.data\["datawrapper-height"]\[a]+"px"}}}))}();
 
 Los gobiernos de cada país pueden utilizar estas directrices de diferentes maneras, ya que se trata sólo de recomendaciones. Dependiendo de las condiciones de cada región, las capacidades técnicas, económicas, políticas, etc., no se pueden tener los mismos niveles en todo el mundo.
 
@@ -141,7 +141,7 @@ En nuestro país, ya se han puesto en marcha diferentes alternativas para reduci
 
 En España y en muchas otras zonas alrededor del mundo deben readaptarse los planes y las políticas públicas para disminuir las emisiones de contaminación y que estas tengan un menor impacto en la población. Cualquier medida que implique una disminución de emisiones, ya sea pequeña o grande, será positiva tanto para nosotros como para las generaciones futuras, ya que estas repercutirán en la mejora de la calidad del aire y por lo tanto, en la salud de las personas y en el medio ambiente.
 
-![]()
+
 
 > ### Nota metodológica
 >
