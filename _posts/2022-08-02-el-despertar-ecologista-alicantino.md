@@ -4,7 +4,7 @@ title: El despertar ecologista alicantino
 subtitle: El número de asociaciones medioambientales se ha multiplicado por
   siete en los últimos veinte años en la provincia de Alicante
 ---
-IMAGEN 1
+![](/images/shots/imagen1.jpeg)
 
 <sup> Activistas alicantinos de Fridays For Future en la última global strike, la cual tuvo lugar el pasado 25 de marzo | Imagen cedida por Sergio Aires </sup>
 
@@ -22,13 +22,13 @@ El verdadero auge de este asociacionismo se dio en el traspaso al nuevo milenio,
 
 Estas entidades se pueden clasificar en distintos tipos según su subactividad: grupos excursionistas, naturismo y medicinas, promoción del patrimonio natural, protección de animales y terapias alternativas con plantas. El aumento mencionado previamente se refleja en cómo más de la mitad (58%) de las asociaciones que se inscribieron en los 2000 se dedican a promover el patrimonio natural en la provincia de Alicante. Por otro lado, desde el surgimiento del asociacionismo, las de terapias con plantas no estuvieron presentes, hasta que en 2010 se unieron con su propia causa y ya, en 2020, superan en número a las de patrimonio, que dominaron en el pasado.
 
-<iframe title="Asociaciones medioambientales en Alicante" aria-label="Mapa" id="datawrapper-chart-X3Qwc" src="https://datawrapper.dwcdn.net/X3Qwc/4/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="746"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data\["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data\["datawrapper-height"])for(var r=0;r<t.length;r++){if(t\[r].contentWindow===e.source)t\[r].style.height=e.data\["datawrapper-height"]\[a]+"px"}}}))}();
+<iframe title="Asociaciones medioambientales en Alicante" aria-label="Mapa" id="datawrapper-chart-X3Qwc" src="https://datawrapper.dwcdn.net/X3Qwc/4/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="746"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data\\["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data\\["datawrapper-height"])for(var r=0;r<t.length;r++){if(t\\[r].contentWindow===e.source)t\\[r].style.height=e.data\\["datawrapper-height"]\\[a]+"px"}}}))}();
 
 El tipo de agrupación medioambiental más popular es la encargada de proteger a los animales, que supone casi la mitad de las asociaciones existentes hasta la fecha. Estas organizaciones han estado presentes desde los años sesenta, pero su crecimiento no se llevó a cabo hasta los años comprendidos entre 2010 a 2019, en los que se inscribieron 23 veces más que en los años ochenta en la Generalitat Valenciana, concretamente en la provincia de Alicante.
 
 La Generalitat Valenciana lleva un [registro de todas las asociaciones inscritas en la Comunidad Valenciana](https://www.gva.es/es/inicio/procedimientos?id_proc=20560&version=amp), que a su vez está dividido en las tres provincias que la componen: Castellón, Valencia y Alicante. Dentro de ese sistema, existe una clasificación independiente según la actividad que emprenden. Además de las medioambientales, hay 26 diferentes, entre las que destacan las asociaciones culturales, profesionales, recreativas y de aficionados, de participación social y de asistencia social, que superan la cifra de 500.
 
-<iframe title="" aria-label="Gráfica de barras" id="datawrapper-chart-2xL4I" src="https://datawrapper.dwcdn.net/2xL4I/9/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="750"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data\["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data\["datawrapper-height"])for(var r=0;r<t.length;r++){if(t\[r].contentWindow===e.source)t\[r].style.height=e.data\["datawrapper-height"]\[a]+"px"}}}))}();
+<iframe title="" aria-label="Gráfica de barras" id="datawrapper-chart-2xL4I" src="https://datawrapper.dwcdn.net/2xL4I/9/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="750"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data\\["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data\\["datawrapper-height"])for(var r=0;r<t.length;r++){if(t\\[r].contentWindow===e.source)t\\[r].style.height=e.data\\["datawrapper-height"]\\[a]+"px"}}}))}();
 
 Si se tiene en cuenta la tasa de población de los municipios de la provincia de Alicante en relación al número de asociaciones instauradas en cada uno de ellos, destacan los municipios más pequeños como Almudaina, Cuatrentondeta o el Valle de Alcalá.
 
@@ -38,7 +38,7 @@ A su vez, organizan rutas familiares y en solitario. Su presidente Paolo Tedesco
 
 Alicante y Elche son las dos ciudades en las que el movimiento asociacionista ha generado una mayor conciencia social. Esto se ve en la gran cantidad de organizaciones que las componen, que conforman casi una cuarta parte de todas las que hay en la provincia.
 
-<iframe title="" aria-label="Mapa" id="datawrapper-chart-dCVB1" src="https://datawrapper.dwcdn.net/dCVB1/5/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="706"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data\["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data\["datawrapper-height"])for(var r=0;r<t.length;r++){if(t\[r].contentWindow===e.source)t\[r].style.height=e.data\["datawrapper-height"]\[a]+"px"}}}))}();
+<iframe title="" aria-label="Mapa" id="datawrapper-chart-dCVB1" src="https://datawrapper.dwcdn.net/dCVB1/5/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="706"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data\\["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data\\["datawrapper-height"])for(var r=0;r<t.length;r++){if(t\\[r].contentWindow===e.source)t\\[r].style.height=e.data\\["datawrapper-height"]\\[a]+"px"}}}))}();
 
 Con respecto a las protectoras de animales, la capital es la localidad que está más implicada, ya que acumula el 42% de la totalidad de asociaciones de esta subactividad en toda la provincia.
 
@@ -64,7 +64,7 @@ A su vez, se reportó ante el Seprona y la Consellería. “Una vía pecuaria co
 
 Asimismo, Manuela Campello, activista de Margalló, añade al tema: “Margalló repobló toda su vegetación autóctona de la zona norte del municipio, que está un poco abandonada y desconocida. Esta zona está afectada por unos productos que no son autóctonos y que requieren mucha agua”.
 
-IMAGEN 2
+![](/images/shots/imagen2.jpeg)
 
 <sup> La asociación Margalló — Ecologistas en Acción de Elche manifestándose en el palacio de Altamira | Imagen cedida por la organización </sup>
 
