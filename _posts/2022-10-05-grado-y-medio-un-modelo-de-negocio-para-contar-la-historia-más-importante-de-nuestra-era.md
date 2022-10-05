@@ -3,13 +3,13 @@ layout: post
 title: "Grado y Medio: un modelo de negocio para contar la historia más
   importante de nuestra era"
 ---
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -49,9 +49,9 @@ title: "Grado y Medio: un modelo de negocio para contar la historia más
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -630,9 +630,9 @@ title: "Grado y Medio: un modelo de negocio para contar la historia más
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -659,7 +659,7 @@ title: "Grado y Medio: un modelo de negocio para contar la historia más
 	mso-bidi-theme-font:minor-bidi;
 	mso-fareast-language:EN-US;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
@@ -689,15 +689,11 @@ Tras muchas idas y venidas, concluí —por medios empíricos— que mi potencia
 
 Este gráfico, del [Informe 2022 del Instituto Reuters para el Estudio del Periodismo](https://reutersinstitute.politics.ox.ac.uk/es), muestra que hay un interés real de la audiencia por consumir noticias sobre cambio climático. Nótese que en América Latina hay más que en entre los consumidores españoles.
 
- 
-
 ![](/images/shots/reuters-institute-digital-news-report-2022.jpg)
 
 En paralelo al proceso de estudio de la audiencia, otros profesores del MIP introdujeron diversos elementos de fundamental comprensión a la hora de gestionar una empresa periodística moderna. Así entraron en mi vida conceptos como métricas, *engagement*, SEO, propuesta de valor, dolores, mínimo producto viable, plan de acción, experiencia de usuario, pivotar, monetización y *canvas business model*.
 
 Semana tras semana, las clases en directo alternaban la teoría con casos prácticos, mientras se sucedían las charlas con profesionales de primer nivel, sin duda uno de los mayores *assets* del MIP, en mi opinión. Esos vasos comunicantes entre academia y empresa, entre lo abstracto y lo concreto, le daban otra dimensión a los *papers* y los datos de estudios académicos que leíamos para las asignaturas. Tras muchos días de estudiar, pensar, analizar y cuestionar mi idea inicial, logré llegar a *Grado y Medio. La newsletter sobre crisis climática que se lee y se escucha.*
-
-
 
 ![](/images/shots/gym.jpg)
 
@@ -713,9 +709,7 @@ El mayor hito del proyecto es la tasa de apertura: nunca ha estado por debajo de
 
 Esto tiene especial valor porque no he adulterado las suscripciones a la newsletter por medio de incluir a amigos o conocidos. La ratio de conocidos-desconocidos suscritos ronda la proporción de 2 a 8. Desde la primera newsletter, he sumado 108 suscriptores y he tenido cuatro bajas. Mi estrategia de crecimiento (lenta, pero constante) es dar a conocer *Grado y Medio* entre profesores universitarios españoles y, posteriormente, de América Latina. Ese es mi público objetivo y, por lo tanto, es prioritario en mi modelo de negocio.
 
- 
-
-
+![](/images/shots/datos-mailchimp.jpg)
 
 Otro hito, este personal, es algo que dijo Ismael Nafría —gran experto en newsletters además de generoso profesional que compartió su extenso conocimiento conmigo— durante una de las sesiones del MIP: escribir una newsletter te convierte rápidamente en un experto de un tema, pues para poder aportar valor debes estar hiperconectado al asunto que tratas. En mi caso, el cambio climático. Lo elegí porque creo que es un sector con gran potencial: requiere de gran especialización para poder aportar valor, no está ultra-saturado y, por desgracia, creo que estará en boga durante las próximas décadas. También permite darles un ángulo humano a las historias.
 
@@ -723,15 +717,11 @@ Otro hito, este personal, es algo que dijo Ismael Nafría —gran experto en new
 
 El principal fracaso ha sido el podcast. Mi propuesta de valor preveía que *Grado y Medio* se pudiera leer, pero también escuchar, por medio de una locución —hecha por mí— de un texto adaptado de la newsletter. El podcast también incluía sonidos ambientes y las entrevistas originales con mis fuentes, para que la experiencia auditiva de quien no tenía tiempo de leer fuera más enriquecedora. No ha funcionado, como revelan los datos de Spotify. No he abandonado del todo la idea de explorar el formato podcast, pero he suspendido su producción porque exigía mucho tiempo. El coste-beneficio no compensaba.
 
- 
-
- 
-
- 
+![](/images/shots/spotify-for-podcasters.jpg)
 
 Lecciones que he extraído en cinco meses:
 
-<!--\[if !supportLists]-->—     <!--\[endif]-->Necesidad de inversión en colaboradores de perfil diverso:
+<!--\\[if !supportLists]-->—     <!--\\[endif]-->Necesidad de inversión en colaboradores de perfil diverso:
 
 Esta es una lección clave del MIP: no juntarse solo con periodistas para sacar adelante tu proyecto. [Este estudio](https://www.cogitatiopress.com/mediaandcommunication/article/view/2677) fue particularmente útil para entender por qué.
 
@@ -739,15 +729,15 @@ Actualmente tengo contratado a un colaborador (estudiante de Ingeniería de Dato
 
 Anteriormente exploré otra colaboración para que otro estudiante me ayudara con las redes sociales (Twitter, Instagram). No funcionó y este es un puesto que debo cubrir con urgencia (interesados escribirme a gradoymedio@protonmail.com). Cuando llegue a varios cientos de suscriptores también necesitaré a un comercial que explore oportunidades de patrocinio de la newsletter.
 
-<!--\[if !supportLists]-->—     <!--\[endif]-->La hora importa:
+<!--\\[if !supportLists]-->—     <!--\\[endif]-->La hora importa:
 
 He realizado varios tests de estrés con mi audiencia, sobre todo variando la hora de envío de la newsletter. Puedo concluir que la mejor hora es, como ya previó José Alberto García Avilés, el viernes antes de la hora de la comida (12:00-14:30). Cuando la newsletter sale a esa hora roza el 40 por ciento de apertura antes del final del mismo día de envío y se multiplican las reaperturas. En el último número *castigué* a mi audiencia enviando la newsletter de madrugada y la tasa de apertura ha evolucionado de forma más lenta.
 
-<!--\[if !supportLists]-->—     <!--\[endif]-->Una buena historia siempre funciona…
+<!--\\[if !supportLists]-->—     <!--\\[endif]-->Una buena historia siempre funciona…
 
 Hay algunos reportajes de los que estoy más orgulloso que de otros, porque les he dedicado mucho tiempo a producirlos. Son, por ejemplo, la historia de Quimera o este texto sobre el [rol que tenemos como consumidores de carne](http://eepurl.com/h45piT). Los datos (tasa de apertura, clics en links, crecimiento orgánico tras newsletter) avalan que también a mi audiencia les ha gustado. Para lograr buenos resultados, creo, hay un punto de intuición y experiencia, más que un trabajo de SEO.
 
-<!--\[if !supportLists]-->—     <!--\[endif]-->…y puede traerte buenas sorpresas (monetización):
+<!--\\[if !supportLists]-->—     <!--\\[endif]-->…y puede traerte buenas sorpresas (monetización):
 
 No he explorado ninguna oportunidad de monetización todavía, pero *Grado y Medio* ya ha dado frutos. El Periódico (Prensa Ibérica) me ofreció escribir un reportaje sobre cambio climático cada dos semanas para su nuevo suplemento dominical, Entender Más. Las próximas semanas también publicaré colaboraciones en otros medios españoles y estadounidenses. Las historias nacieron de mi trabajo produciendo la newsletter.
 
