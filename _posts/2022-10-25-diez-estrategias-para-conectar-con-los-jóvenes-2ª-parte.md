@@ -2,13 +2,13 @@
 layout: post
 title: Diez estrategias para conectar con los jóvenes (2ª parte)
 ---
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -48,9 +48,9 @@ title: Diez estrategias para conectar con los jóvenes (2ª parte)
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -629,9 +629,9 @@ title: Diez estrategias para conectar con los jóvenes (2ª parte)
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -658,11 +658,11 @@ title: Diez estrategias para conectar con los jóvenes (2ª parte)
 	mso-bidi-theme-font:minor-bidi;
 	mso-fareast-language:EN-US;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
-Tras la primera entrega, continuamos con las estrategias que algunos medios adoptan para llegar a la Generación Z y los Millenials:
+[Tras la primera entrega](https://mip.umh.es/blog/2022/10/18/diez-estrategias-para-conectar-con-los-jovenes/), continuamos con las estrategias que algunos medios adoptan para llegar a la Generación Z y los Millenials:
 
 ![](/images/shots/gettyimages-karrastock-971413018.jpg)
 
@@ -675,8 +675,6 @@ Para captar la atención de los jóvenes, el diario digital más leído de Norue
 El videoperiodista explica cómo eligen y cubren las noticias que aparecen en su cuenta de Snapchat: "Intentamos contar una historia en seis snaps, y hacemos varias interacciones con los lectores dentro de esos seis snaps. Para nosotros es importante que cada imagen se sostenga por sí sola". Jonathan subraya que en Snapchat no cubren los temas de política de la misma manera que lo harían en su web. "Tenemos que explicarlo todo, literalmente, como si estuviéramos hablando con un completo desconocido, porque muchos de nuestros lectores son exactamente eso", afirma.
 
 Jonathan y su equipo se centran especialmente en cómo afectan esos temas a los jóvenes. "Sería muy fácil para nosotros escribir historias sobre Kim Kardashian y Justin Bieber todos los días, porque la Generación Z también quieren leer sobre eso", dice. "Pero no hay nada más satisfactorio que ver que los jóvenes reaccionan positivamente a una historia periodística que de verdad les aporta contexto".
-
- 
 
 **6. Usa vídeos explicativos**
 
@@ -691,8 +689,6 @@ En un minuto de vídeo se puede comunicar mucha más información que con el tex
 Puede que los lectores de la Generación Z estén acostumbrados a la tecnología, pero en última instancia lo que más valoran es la conexión humana. Las marcas periodísticas que demuestran un compromiso con los lectores más jóvenes y generan conversaciones con ellos pueden capitalizar esa relación.
 
 Polly Curtis, editora del medio británico Tortoise, explica cómo utiliza Think-Ins para comunicarse con su base de miembros y hablar sobre los temas que les interesan. El 40% de los miembros de pago de Tortoise son menores de 30 años. Estos jóvenes suelen querer saber más sobre las historias que aparecen en las redes sociales, como la crisis de Sudán. "Hubo un meme de Instagram en torno a la crisis de Sudán que había comparado a Sudán con Notre Dame y que cuestionaba los valores de las noticias. El tema había estado en todas partes, pero nadie lo estaba contando bien. A partir de nuestra escucha en las redes, conseguimos enfocarlo y producir varios artículos de interés. Si hacemos un periodismo unidimensional, no estamos captando la historia completa y poder ofrecer un periodismo diferente, que apele a los jóvenes".
-
-
 
 **8. Diseña nuevos productos para los menores de 30 años**
 
@@ -718,8 +714,6 @@ The Times y The Sunday Times han desarrollado un plan piloto dirigido a universi
 
 Los nativos digitales han entrenado a estos algoritmos para que les den exactamente lo que quieren, a menudo contenidos que reafirman sus creencias existentes. Y la generación Z espera especialmente una experiencia online "impecable". Hay que tener en cuenta que la generación Z se maneja bien con la información y son expertos en conseguir el contenido online que quieren.
 
- 
-
 ![](/images/shots/maldita-twitch.jpg)
 
 **10. Apuesta por comunicadores que conectan y emocionan**
@@ -729,8 +723,6 @@ La generación Z valora la autenticidad. Ansían las experiencias auténticas de
 En los últimos años, varios medios o programas han lanzado sus canales en Twitch (en España *Newtral*, *Maldita.es*, *Revista 5W* o *El Chiringuito*, entre otros). [Maldita Twitchería](https://www.twitch.tv/malditaes?lang=es) que modera Luisa Bernal y en que participan diversos profesionales de Maldita.es, se emite de lunes a viernes a las 13.00 horas. El espacio habla sobre ciencia, bulos, timos, datos, o corrupción, en un tono distendido y abierto a la participación de los usuarios.
 
 Hay todavía mucho espacio para que los periodistas sean más empáticos con las audiencias jóvenes y construyan una relación basada en la confianza y en la cercanía. Muchos jóvenes siguen a las celebridades e *influencers* en las redes sociales, y quizá buscan ese tipo de conexión con los periodistas. Es hora de redefinir el éxito basado en la conexión emocional–más allá de los clics y las visitas- si se pretende llegar al público joven.
-
- 
 
 En definitiva, ser nativo digital no capacita de forma automática a la Generación Z para navegar por un panorama informativo cada vez más complejo. En buena medida, los jóvenes son escépticos con la mayor parte de la información y no juzgan necesariamente el valor de una fuente por su imparcialidad. Ello, a su vez, condiciona el modo en que obtienen las noticias, aunque tienden a una combinación de fuentes convencionales y alternativas. **En este escenario, las marcas informativas buscan conectar con los más jóvenes, pero no saben cómo.** Los medios deben investigar cómo utilizar las plataformas emergentes, respetando sus códigos y convenciones, e invertir en talentos jóvenes y socialmente nativos para crear contenidos con la sensibilidad y el tono adecuado.
 
