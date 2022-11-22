@@ -37,7 +37,7 @@ El jugador debe resolver una serie de acertijos que le permitirán desbloquear d
 * VERDADERO: el contenido completo ha demostrado ser verdadero tras ser contrastado con los actores involucrados, fuentes y datos.
 * INSOSTENIBLE: la afirmación surge de investigaciones con falta de sustento o graves errores metodológicos o resulta imposible de chequear.
 
-Como amante de los *escapes rooms*, debo admitir que en ocasiones resulta desafiante. El juego combina puzzles clásicos, códigos, búsqueda de objetos, incluso (¡cuidado, spoiler!) anima al jugador a salir de la interfaz y buscar informes reales, cuentas de Twitter y enviar emails. 
+Como amante de los *escapes rooms*, debo admitir que en ocasiones resulta desafiante. El juego combina puzzles clásicos, códigos, búsqueda de objetos, incluso (**¡cuidado, spoiler!**) anima al jugador a salir de la interfaz y buscar informes reales, cuentas de Twitter y enviar emails. 
 
 ![](https://lh3.googleusercontent.com/-XhDmig2VwEA3jaaXejvtJLx7mAYM6tz0ngcoDTOej00ZheSoVz2ntdu-KbmOBvXCOTKvMLKJey0iJe9-Erzg-hpyOpqyUTALP9KmyTJQ-47c4bKuK2So6fFW8IkJtDl5WP4Jf3GUqWOYgnTZ5oB7rmeee58DPj_SxhDkuByu2-oTWj-z_tpTIFu4BCKfQ)
 
