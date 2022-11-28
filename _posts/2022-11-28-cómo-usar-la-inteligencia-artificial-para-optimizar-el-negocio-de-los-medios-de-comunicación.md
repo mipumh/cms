@@ -9,33 +9,25 @@ La Inteligencia Artificial (IA) es una de las tecnologías con [mayor potencial 
 
 Las empresas periodísticas más innovadoras exploran técnicas como el *machine learning,* el *deep learning* y el *natural language processing* (NLP) asociadas a la IA, para **ofrecer más y mejores noticias a sus audiencias, optimizar la forma en la que sus contenidos llegan a cada usuario e incluso aumentar sus ingresos** mediante el despliegue de [muros de pago dinámicos o algorítmicos](https://mip.umh.es/blog/2019/07/09/muros-pago-algoritmicos-futuro/). En este artículo se analizan los objetivos y usos más destacados de estas tecnologías en el área de negocio de los medios, identificados por cuatro profesores de Periodismo de la Universidad Miguel Hernández para una investigación en curso.
 
-
-
 ![](/images/shots/imagen1.jpg)
-
-
 
 **¿Por qué aplicar la IA en el área de negocio?**
 
 Los principales objetivos de cualquier estrategia de suscripciones son **la adquisición y la retención de los usuarios de pago. La IA puede ayudar en ambos.** Con respecto al primero, el *machine learning* tiene el potencial de aumentar las tasas de suscripción al personalizar la oferta de contenidos y precios que recibe cada usuario. Esto es posible por su capacidad de segmentar de las audiencias en diferentes grupos con características comunes, pero también por de aprender de los usuarios y tomar decisiones autónomas.
 
-Por ejemplo, el Corriere della Sera aumentó su base de suscriptores en un 24% en 2021 gracias a la implementación de un [muro de pago basado en *machine learning*](https://piano.io/wp-content/uploads/2022/08/Corriere-della-Sera-Case-Study-English.pdf). Esta tecnología calcula la propensión a suscribirse de los usuarios que se topan con el muro y ofrece automáticamente **precios más bajos a los menos predispuestos**. De modo similar, el diario noruego [Dagbladet es capaz de detectar](https://innovation.media/magazines/new-revenue-streams/case-studies-of-reader-revenue-success-in-digital-media)cuál es **el mejor momento y lugar para mostrar ofertas** a cada usuario en función de su historial en el medio.
+Por ejemplo, el Corriere della Sera aumentó su base de suscriptores en un 24% en 2021 gracias a la implementación de un [muro de pago basado en *machine learning*](https://piano.io/wp-content/uploads/2022/08/Corriere-della-Sera-Case-Study-English.pdf). Esta tecnología calcula la propensión a suscribirse de los usuarios que se topan con el muro y ofrece automáticamente **precios más bajos a los menos predispuestos**. De modo similar, el diario noruego [Dagbladet es capaz de detectar](https://innovation.media/magazines/new-revenue-streams/case-studies-of-reader-revenue-success-in-digital-media) cuál es **el mejor momento y lugar para mostrar ofertas** a cada usuario en función de su historial en el medio.
 
 Una vez el usuario se convierte en suscriptor, el objetivo es retenerlo. [Reducir las cancelaciones es prioritario](https://mip.umh.es/blog/2022/06/07/del-churnalism-al-churn-la-fidelidad-del-periodismo-bajo-suscripcion/) en mercados relativamente pequeños y saturados, [como el español](https://www.xataka.com/otros/cada-vez-medios-que-se-pasan-al-muro-pago-espana-gran-pregunta-habra-suscriptores-para-todos). La frecuencia de consumo es uno de los indicadores más importante del compromiso del usuario, por lo que, en su búsqueda de la retención, las empresas dedican recursos a desarrollar **estrategias de IA que aumenten las visitas** de los suscriptores. La personalización del contenido es la más frecuente.
-
-
 
 ![](/images/shots/imagen2.png)
 
 Ya en 2015, [The Washington Post desarrolló Clavis](https://knightlab.northwestern.edu/2015/06/03/how-the-washington-posts-clavis-tool-helps-to-make-news-personal/), una herramienta que trata de **entender los intereses de los usuarios y ofrecerles contenidos personalizados**. Clavis analiza automáticamente todo lo que el medio publica y lo clasifica en torno a temas, al tiempo que identifica qué tipo de lector accede a cada contenido. El algoritmo devuelve a cada usuario una selección de artículos basados en la popularidad del tema, su propio historial de lectura y los patrones de consumo de otros usuarios similares.
 
-Del mismo modo, el conglomerado indio The Hindu Group lanzó un algoritmo que identificaba las historias más interesantes y las recomendaba a los suscriptores para crear una experiencia que "ampliara su lectura". El medio sueco [NTM incluso personaliza su portada](https://www.inma.org/best-practice/Readership-and-Engagement/2022-163/Copy-With-Pride-Introducing-Reactions-and-Comments-to-Win-Back-Audience-Engagement)reparando en el valor de conversión dado a cada noticia y la cantidad de comentarios, entre otras métricas.
+Del mismo modo, el conglomerado indio The Hindu Group lanzó un algoritmo que identificaba las historias más interesantes y las recomendaba a los suscriptores para crear una experiencia que "ampliara su lectura" reparando en el valor de conversión dado a cada noticia y la cantidad de comentarios, entre otras métricas. El medio sueco [NTM incluso personaliza su portada](https://www.inma.org/best-practice/Readership-and-Engagement/2022-163/Copy-With-Pride-Introducing-Reactions-and-Comments-to-Win-Back-Audience-Engagement) reparando en el valor de conversión dado a cada noticia y la cantidad de comentarios, entre otras métricas.
 
 Por otro lado, se crean **modelos predictivos que determinan si un suscriptor está mostrando síntomas de cancelación**. La organización noruega Schibsted, por ejemplo, ha creado [una herramienta que procesa las llamadas a su centro de atención al usuario](https://www.inma.org/blogs/conference/post.cfm/schibsted-nzz-use-ai-other-futuristic-methods-to-improve-subscription-sales-retention) y les asigna una etiqueta roja, amarilla o verde, en función de la propensión de ese suscriptor a cancelar su plan. Las llamadas calificadas con la distinción roja reciben un tratamiento específico por el que se ofrecen diversas ventajas al usuario.  
 
 ![](/images/shots/imagen3.jpg)
-
-
 
 **¿Qué tareas realiza la IA para optimizar el negocio de los medios?**
 
