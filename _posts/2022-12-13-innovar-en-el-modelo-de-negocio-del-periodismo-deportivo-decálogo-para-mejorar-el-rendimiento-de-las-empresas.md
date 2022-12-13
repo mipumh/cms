@@ -4,6 +4,8 @@ title: "Innovar en el modelo de negocio del periodismo deportivo: decálogo para
   mejorar el rendimiento de las empresas"
 new_author: Cristian Ramón Marín Sanchiz
 ---
+![](/images/shots/untitled-5-.png)
+
 Hay sed de información deportiva. Pero el contexto es muy volátil en el plano económico y social. Para lo bueno y para lo malo. En este caldo de cultivo, la obligación del sector es innovar para garantizar un ecosistema empresarial sostenible y en una profesión sana, próspera y movida por intereses puramente informativos. Este artículo ofrece un decálogo de prácticas orientadas a innovar en el modelo de negocio de las empresas de periodismo deportivo. Los hábitos de consumo mutan a un ritmo vertiginoso y es necesario que las organizaciones sean ágiles para garantizar su éxito, pero esa no es la única clave, según la tesis doctoral* de la que parten estas recomendaciones.
 
 1. Establecer una estrategia competitiva clara y explícita. Muchas empresas periodísticas navegan sin una hoja de ruta clara, algo que les impide aprovechar oportunidades de negocio o, simplemente, trabajar de forma eficiente. Por esta razón, es imprescindible que las empresas cuenten con un documento que deje claros los objetivos de los gestores, el papel de los distintos stakeholders y qué se espera del trabajo de cualquier persona. Este esfuerzo increment la transparencia,  fortalece la cultura organizacional e incluso sirve para informar a la audiencia sobre  los principios que guían la actividad de la compañía. Un ejemplo interesante es [el Manifiesto de la Revista Panenka. ](https://www.panenka.org/manifiesto/)
