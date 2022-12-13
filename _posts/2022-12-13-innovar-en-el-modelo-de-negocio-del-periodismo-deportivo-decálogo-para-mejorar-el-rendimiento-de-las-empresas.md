@@ -28,7 +28,7 @@ Hay sed de información deportiva. Pero el contexto es muy volátil en el plano 
 
 Muestra de ello es el auge de los eventos, el branded content o la edición de obras periodísticas con mayor recorrido temporal, [como los libros](https://tienda.panenka.org/es/libros) que vende la revista Panenka. Al mismo tiempo, es recomendable explorar nuevos dominios informativos que, en un momento de auge de los eSports, del deporte femenino o de disciplinas como el pádel, ofrecen amplias posibilidades para las organizaciones mediáticas. 
 
-
+![](/images/shots/david-travis-wc6mj0krzgw-unsplash-2-1-.jpg)
 
 8. Establecer alianzas estratégicas con otras empresas, incluidos medios de comunicación nacionales e internacionales. El objetivo de estos acuerdos de colaboración es adquirir nuevas capacidades y recursos competitivos, como la distribución del contenido, el acceso a fuentes de otros países o incluso la venta de publicidad conjunta, sin necesidad de afrontar grandes gastos. Es interesante explorar más allá de las fronteras del sector informativo, como hace Javier Padilla, product manager de ElDesmarque. La relación de este periodista con el ámbito tecnológico le llevó a ser uno de los primeros profesionales que adoptó el método Lean Startup en una empresa periodística española.
 
