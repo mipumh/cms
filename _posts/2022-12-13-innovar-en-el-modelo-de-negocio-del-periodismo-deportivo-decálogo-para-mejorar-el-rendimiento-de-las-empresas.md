@@ -2,6 +2,7 @@
 layout: post
 title: "Innovar en el modelo de negocio del periodismo deportivo: decálogo para
   mejorar el rendimiento de las empresas"
+new_author: Cristian Ramón Marín Sanchiz
 ---
 Hay sed de información deportiva. Pero el contexto es muy volátil en el plano económico y social. Para lo bueno y para lo malo. En este caldo de cultivo, la obligación del sector es innovar para garantizar un ecosistema empresarial sostenible y en una profesión sana, próspera y movida por intereses puramente informativos. Este artículo ofrece un decálogo de prácticas orientadas a innovar en el modelo de negocio de las empresas de periodismo deportivo. Los hábitos de consumo mutan a un ritmo vertiginoso y es necesario que las organizaciones sean ágiles para garantizar su éxito, pero esa no es la única clave, según la tesis doctoral* de la que parten estas recomendaciones.
 
