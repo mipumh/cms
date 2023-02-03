@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Entre la información y el entretenimiento: qué puede aprender el
-  periodismo (y qué no) de los streamers de Twitch"
+  periodismo (y qué no) de los 'streamers' de Twitch"
 author: null
 new_author: Dámaso Mondéjar Aráez
 ---
@@ -43,7 +43,7 @@ Por ejemplo, se podía ver cómo en pleno mundial de fútbol, los periodistas de
 
 ![El periodista Emilio Doménech (@nanisimo), en ‘El Juego del Calamar’ de Minecraft | Captura de pantalla](/images/shots/nanisimo.png "El periodista Emilio Doménech (@nanisimo), en ‘El Juego del Calamar’ de Minecraft | Captura de pantalla")
 
-#### Mantener el equilibrio entre información y entretenimiento
+### Mantener el equilibrio entre información y entretenimiento
 
 Ser periodista en Twitch implica saber hacer malabares constantes entre noticias y memes, información y entretenimiento. No hay mejor muestra de ello que Gerard Romero, exprofesional de RAC1 [y dueño del canal Jijantes TV](https://jijantes.com/twitch/), que sigue la actualidad en torno al F.C. Barcelona. El pasado enero fue doblemente galardonado en los premios ESLAND —una especie de gala de los Óscar del mundo *streamer*, organizada por TheGrefg—. El primer premio que obtuvo fue a mejor clip del año, por la *haka* [en mitad de una entrevista con Luis Suárez](https://www.youtube.com/watch?v=NpVUN2d_QvA) que dejó patidifuso al exjugador azulgrana. El segundo, a [la mejor cobertura informativa](https://twitter.com/InfoSTREMS/status/1619810136973000704?ref_src=twsrc%5Etfw). Intencionadamente o no, parece que el mundo del *stream* manda un mensaje: **primero la diversión, luego la información**.
 
