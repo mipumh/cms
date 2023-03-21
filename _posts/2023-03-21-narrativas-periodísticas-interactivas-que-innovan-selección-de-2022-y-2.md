@@ -2,13 +2,13 @@
 layout: post
 title: "Narrativas periodísticas interactivas que innovan: selección de 2022 (y 2)"
 ---
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -48,9 +48,9 @@ title: "Narrativas periodísticas interactivas que innovan: selección de 2022 (
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -629,9 +629,9 @@ title: "Narrativas periodísticas interactivas que innovan: selección de 2022 (
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 10]>
+<!--\\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -658,25 +658,25 @@ title: "Narrativas periodísticas interactivas que innovan: selección de 2022 (
 	mso-bidi-theme-font:minor-bidi;
 	mso-fareast-language:EN-US;}
 </style>
-<!\\[endif]-->
+<!\\\[endif]-->
 
 <!--StartFragment-->
 
 Las narrativas interactivas generan cierta ven­taja competitiva porque captan la atención del usuario y ofrecen algo totalmente distinto a lo que consume a diario. Frente a la velocidad y al gran volumen de contenidos que se publican en los medios y redes, los formatos interactivos representan modelos más pausados, como alternativa a la saturación y a la superficialidad. A menudo, estos formatos permiten que el usuario tenga una experiencia enrique­cida y diferente de los acontecimientos, aunque exigen más tiempo para interactuar y explorar las distintas capas de lectura. [Tras la primera entrega](https://mip.umh.es/blog/2023/03/15/narrativas-periodisticas-interactivas-innovan-seleccion-de-2022-1/), seleccionamos otros diez proyectos interactivos innovadores publicados en 2022.
 
-[Play mini golf to see how politicians tilt elections using maps](https://www.washingtonpost.com/politics/interactive/2022/redistricting-mini-golf/) **\| The Washington Post**
+#### [Play mini golf to see how politicians tilt elections using maps](https://www.washingtonpost.com/politics/interactive/2022/redistricting-mini-golf/) **\| The Washington Post**
 
 Esta visualización interactiva de The Washington Post utiliza la comparación con un minicampo de golf para explicar en qué consiste la manipulación de las elecciones (“gerrymandering") en Estados Unidos, de forma muy visual. Una vez cada década, los Estados pueden redibujar las líneas de sus distritos electorales del Congreso, una práctica que permite el gerrymandering, es decir, la distribución de los votantes en distritos estratégicos para inclinar las elecciones hacia un lado u otro. Entender cómo funciona el gerrymandering y la delimitación los distritos electorales es complicado, pero cómo se traza un campo de golf en cambio, es fácil de captar. Por eso, esta visualización de datos transforma las extrañas líneas de los distritos electorales en minicampos de golf completamente absurdos, incluso aparentemente increíbles, que el usuario puede diseñar en su navegador. El juego empieza de forma sencilla, en Wyoming, donde se disputa un único escaño en el Congreso, con un único distrito electoral. Pero cuando el usuario llega al hoyo número 3 está en Ohio, donde los republicanos dividieron Cincinnati (un bastión demócrata) en tres distritos separados. Y tiene que jugar en un campo que empieza en una gran zona rural roja, atraviesa el corazón de la ciudad por una pequeña puerta casi infranqueable y luego aterriza en el *green*. Entonces el usuario se da cuenta de que este mapa no tiene sentido. Y precisamente esa es la idea del juego. Sobresaliente.
 
-### [Mapping Iran’s Unrest: How Mahsa Amini’s Death Led to Nationwide Protests](https://www.theguardian.com/world/ng-interactive/2022/oct/31/mapping-irans-unrest-how-mahsa-aminis-death-led-to-nationwide-protests) **\|The Guardian**
+#### [Mapping Iran’s Unrest: How Mahsa Amini’s Death Led to Nationwide Protests](https://www.theguardian.com/world/ng-interactive/2022/oct/31/mapping-irans-unrest-how-mahsa-aminis-death-led-to-nationwide-protests) **\|The Guardian**
 
 A raíz de la muerte de Mahsa Amini, una joven iraní de 22 años de ascendencia kurda que fue detenida y presuntamente asesinada mientras se encontraba bajo arresto, surgió una oleada masiva de protestas en Irán. Con el cierre de Internet y la censura en línea en todo el país, los medios y los periodistas se enfrentaron al reto de cubrir y transmitir al mundo exterior esta nueva agitación política de repulsa. El interactivo de Niels de Hoog y Elena Morresi utiliza mapas, vídeos e imágenes que muestran la protesta y las represalias en todo Irán. El trabajo aporta un valioso contexto que ayuda a los lectores a entender lo que ocurría sobre el terreno, al tiempo que revela la evolución de las protestas desde que comenzaron. Usan datos de Armed Conflict Location y del Event Data Project para crear los mapas, desarrollados por MapLibre. El contenido se visualiza mediante un excelente *scrollytelling*.
 
-### [What Qatar Built for the Most Expensive World Cup Ever](https://www.bloomberg.com/graphics/2022-what-qatar-built-for-the-world-cup/) **\| Bloomberg**
+#### [What Qatar Built for the Most Expensive World Cup Ever](https://www.bloomberg.com/graphics/2022-what-qatar-built-for-the-world-cup/) **\| Bloomberg**
 
 Durante el Mundial de Qatar, una de las polémicas más sonadas fueron las malas condiciones laborales de los obreros que construyeron las infraestructuras y los estadios. La decisión de la FIFA de celebrar la competición en un país con un historial lamentable en materia de derechos humanos también fue destacada por los medios de comunicación en todo el mundo. Este proyecto de Bloomberg ofrece un análisis exhaustivo de la enorme logística a la que se sometió Qatar para albergar el Mundial 2022. Sobre un fondo cambiante de fotografías aéreas que muestran los efectos visuales, el interactivo desglosa los 300.000 millones de dólares gastados en la preparación de las sedes. A medida que el usuario se desplaza por la pantalla, puede ver la construcción de cada uno de los ocho estadios, siete completamente nuevos y otro renovado, cómo transformaron el país y su coste en vidas humanas.
 
-##### [El mapa de las cesáreas en España](https://www.eldiario.es/sociedad/mapa-tasa-cesareas-espana-hospitales-abusan-partos-quirurgicos_1_9545161.html) | Eldiario.es
+#### [El mapa de las cesáreas en España](https://www.eldiario.es/sociedad/mapa-tasa-cesareas-espana-hospitales-abusan-partos-quirurgicos_1_9545161.html) | Eldiario.es
 
 Las cesáreas han salvado la vida de cientos de miles de mujeres y niños en todo el mundo desde hace siglos. Sin embargo, desde los años noventa su uso ha crecido de forma desigual, por lo que la Organización Mundial de la Salud (OMS) ha alertado de sus riesgos. En España, la tasa media de cesáreas en los hospitales públicos es del 21,9%, mientras que llega al 37% en los privados. Unos 28 hospitales españoles, públicos y privados, superan el 45% de cesáreas. Es decir, prácticamente la mitad de los partos que atienden terminan con esta operación, según la investigación realizada por elDiario.es. La probabilidad de dar a luz por cesárea se multiplica en función del hospital al que la mujer acuda. Cruzando fuentes de datos abiertas con los registros anónimos de partos por cesárea publicados por el Ministerio de Sanidad, los profesionales de Eldiario.es identificaron los datos correspondientes a cada hospital. Gran trabajo de investigación con una ejecución impecable.
 
@@ -710,7 +710,7 @@ El Berliner Morgenpost creó un juego parecido al Tetris para que los lectores a
 
 Durante años, los residentes que viven alrededor de los campos de azúcar de Florida se han quejado de la quema de caña, que ayuda a producir más de la mitad del azúcar de caña de Estados Unidos, pero que ahoga con humo y cenizas a las comunidades negras e hispanas cercanas a los Everglades. Lo llaman la "nieve negra". Mientras tanto, las políticas de las poderosas empresas azucareras y los reguladores estatales han asegurado a los residentes que el aire es sano para respirar. A lo largo de 18 meses, The Palm Beach Post y ProPublica pusieron a prueba esa afirmación, analizando la contaminación vinculada a la quema de caña. Con entrevistas a docenas de habitantes de los cañaverales, cientos de registros públicos de agencias medioambientales y de salud pública y un seguimiento de la polución en el aire, la investigación reveló que los residentes estaban expuestos a contaminantes que los sistemas de control actuales no detectaban en los días de la quema de caña. Estos picos a menudo cuadruplicaban los niveles medios de contaminación, lo que supone un riesgo para la salud. Un mapa interactivo permite apreciar el impacto de al menos cuatro meses de incendios en los Glades.
 
-##### [Amazon workers say minor aches suddenly became debilitating](https://www.businessinsider.com/warehouse-injuries-amazon-chronic-pain-speed-risk-productivity-targets-employees-2022-10)  | Business Insider
+#### [Amazon workers say minor aches suddenly became debilitating](https://www.businessinsider.com/warehouse-injuries-amazon-chronic-pain-speed-risk-productivity-targets-employees-2022-10)  | Business Insider
 
 Una crisis silenciosa se extiende por los almacenes de Amazon. Los datos recogidos en las inspecciones de trabajo indican que el ritmo de trabajo de Amazon aumenta enormemente el riesgo de lesiones para sus más de 750.000 trabajadores de almacén en Estados Unidos. El riesgo de lesiones musculares y articulares debilitantes es desorbitado, según las autoridades. Como estas lesiones se acumulan con el tiempo, es posible que los trabajadores de Amazon no sepan que corren peligro hasta pasados meses o años, pero pueden sufrir dolores de por vida. Cuatro inspecciones del estado de Washington entre 2020 y 2022 encontraron una "conexión directa" entre el ritmo de trabajo de Amazon y sus elevadas tasas de lesiones. Uno de los mayores retos de los desarrolladores fue incorporar a la perfección texto, visualizaciones de datos, fotos, arte y gráficos interactivos para contar la historia de forma coherente. El interactivo muestra con detalle cómo afecta a los trabajadores, con excelentes animaciones a cargo de Alonso Guzmán.
 
