@@ -2,13 +2,13 @@
 layout: post
 title: Es hora de que pongas en práctica tu creatividad
 ---
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -48,9 +48,9 @@ title: Es hora de que pongas en práctica tu creatividad
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -629,9 +629,9 @@ title: Es hora de que pongas en práctica tu creatividad
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -660,11 +660,11 @@ title: Es hora de que pongas en práctica tu creatividad
 	mso-ligatures:standardcontextual;
 	mso-fareast-language:EN-US;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
-En el vertiginoso sector de los medios de comunicación, la creatividad se ha convertido en un elemento crucial para el éxito, aunque en las redacciones apenas se potencia (e incluso se la ahoga o asfixia). En las profesiones relacionadas con la comunicación, ser creativo te ayudará a destacar y alcanzar tus objetivos. Pero esta cualidad no es innata ni tampoco se improvisa; requiere esfuerzo, constancia, y está al alcance de todos. Pero solo tú puedes dar el primer paso. Por eso, te recomendamos una serie de buenas prácticas que te ayudarán a llevar tu creatividad a otro nivel.
+En el vertiginoso sector de los medios de comunicación, la creatividad se ha convertido en un elemento crucial para el éxito, aunque en las redacciones apenas se potencia (e incluso se la ahoga o asfixia). En las profesiones relacionadas con la comunicación, ser creativo te ayudará a destacar y alcanzar tus objetivos. Pero esta cualidad no es innata ni tampoco se improvisa; requiere esfuerzo, constancia, y está al alcance de todos. Aunque solo tú puedes dar el primer paso. Por eso, te recomendamos una serie de buenas prácticas que te ayudarán a llevar tu creatividad a otro nivel.
 
 ![](/images/shots/pexels-andrea-piacquadio-3758105.jpg)
 
@@ -717,8 +717,6 @@ Desde las aportaciones de estos gurús y la experiencia personal, ahí van unos 
 * Utiliza analogías y metáforas que facilitan conectar ideas aparentemente inconexas, generar emociones y explicar una realidad de manera que la entiendan tus interlocutores.
 * Acepta el fracaso y aprende de él. No tengas miedo a asumir riesgos y cometer errores, que a menudo originan propuestas innovadoras. La mente creativa afronta saltos al vacío y vueltas en círculo. Es una forma que tiene nuestro cerebro de ir estructurando el pensamiento.
 * Deja que tus ideas germinen. Algunos pensamientos te parecerán más o menos acertados, pero no los desprecies. Las ideas -incluso las malas- son una excelente materia prima que necesita tiempo para crecer, expandirse y llegar a buen puerto. Con el tiempo, tus intuiciones cristalizarán en ideas más concretas y certeras…
-
- 
 
 Ojalá los periodistas dediquemos más tiempo al pensamiento creativo y a romper con los moldes establecidos, la falta de tiempo y las rutinas que cercenan nuestra imaginación. En estos tiempos de automatización, algoritmos y ChatGPT, practicar regularmente estas técnicas incrementará tu creatividad. Si desarrollas estas cualidades hasta convertirlas en hábitos integrados en tu vida diaria, podrás emprender proyectos que te desafíen, te sentirás más realizado y recuperarás la ilusión. El resultado te sorprenderá.
 
