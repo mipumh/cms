@@ -4,7 +4,7 @@ title: "Desinformación visual: cómo detectar imágenes falsas o manipuladas"
 ---
 ![](https://lh3.googleusercontent.com/Nw98NTYkvFPkFnohwHr1l5EoPrE9tMdJmco-iM_cDrRhew38T8FtedhFObiyDM5dZws52MK0bluUwPKoxGCvSEtLTnLZW8B-sbE0EJreZK1oMbJ_MJ2RCQ75yOSldtFAkOWUgD8kQEOhd4iese6iumLh2Nk80hkfp_zbQrW51dM3upSC12kZBr8G_hjxH16Y)
 
-Imagen generada con Bing Image Creator
+###### Imagen generada con Bing Image Creator
 
 Los contenidos audiovisuales se han convertido en el foco de gran parte de las estrategias de desinformación actuales. La aparición de herramientas de edición cada vez más sofisticadas, unida a los continuos avances en las técnicas de inteligencia artificial generativa, han dado lugar a **un escenario comunicativo en el que se cuestiona la autenticidad y veracidad de lo que vemos**. En los últimos meses hemos sido testigos de [una oleada de imágenes falsas](https://www.newtral.es/bulos-imagenes-inteligencia-artificial/20230327/) sin precedentes, difundidas en las redes sociales. Por suerte, algunas herramientas y trucos pueden ayudarte a detectarlas, como explicamos en este artículo.
 
@@ -39,8 +39,6 @@ Otra iniciativa similar es el proyecto **DepthFake**, llevado a cabo por un grup
 Sin embargo, aunque ambas técnicas facilitan el proceso y son clave a la hora de analizar un gran volumen de datos, **algunos trucos pueden ayudarnos a detectar *deepfakes*** de manera más “tradicional”. Los expertos coinciden en que, cuando entra en juego la inteligencia artificial, **la respuesta está en los detalles**. Los ojos son el primer elemento a tener en cuenta. El número de parpadeos y la forma en que lo hace (a menudo forzada y poco natural), pueden darnos una pista de que algo anda mal. Otro detalle importante es el interior de la boca. **Las tecnologías de creación de *deepfakes* tienen problemas a la hora de reproducir la lengua y los dientes** cuando la persona está hablando. Las texturas, el número y la forma de los dientes, son otro aspecto clave. Además, si la persona es famosa, podemos fijarnos en otros detalles como la desaparición o aparición de lunares, líneas de expresión o vello facial poco realista. 
 
 ¿Y qué ocurre con las **fotografías generadas mediante inteligencia artificial**? Eso nos daría para otro artículo. Por ahora, aquí van algunas pinceladas. Al igual que sucedió con los *deepfakes*, la reciente oleada de fotografías generadas con IA plantea nuevos retos, dudas e incertidumbres. Mientras diversos organismos e instituciones internacionales debaten sobre cuál es la mejor forma de proceder, numerosos expertos en el ámbito de la verificación comienzan a publicar **guías y pautas para ayudar a la sociedad a detectar este tipo de imágenes**. En español, son especialmente valiosas las propuestas de [Maldita](https://maldita.es/malditatecnologia/20230512/consejos-detectar-imagenes-inteligencia-artificial-dalle/), [Newtral](https://www.newtral.es/como-detectar-imagenes-videos-audios-deepfakes-generados-ia/20230331/) y [Chequeado](https://chequeado.com/ultimas-noticias/como-saber-si-una-imagen-fue-creada-con-inteligencia-artificial/). 
-
-
 
 Este artículo es el resultado de la colaboración de la investigadora Alba García Ortega en el [proyecto europeo IBERIFIER](https://iberifier.eu/), un observatorio financiado por la Comisión Europea para la investigación sobre el ecosistema mediático y la lucha contra la desinformación en España y Portugal.
 
