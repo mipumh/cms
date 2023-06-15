@@ -2,6 +2,20 @@
 layout: post
 title: Los datos del 28M en Elche
 ---
+Las elecciones municipales en Elche, celebradas el pasado 28 de mayo de 2023, se convirtieron en otra gran oportunidad para explotar los datos locales. A través de varias piezas periodísticas, analizamos la situación electoral antes de que se produjeran las elecciones. Y tras conocer los resultados, estudiamos los resultados de las urnas y, sobre todo, el grado de acierto de los trabajos previos.
+
+## El Ohio ilicitano… \[E]NLACE]
+
+<iframe title="\\[ Insert title here ]" aria-label="Mapas de ubicación" id="datawrapper-chart-sqNcq" src="https://datawrapper.dwcdn.net/sqNcq/1/" scrolling="no" frameborder="0" style="border: none;" width="100%" height="802" data-external="1"></iframe>
+
+Los datos disponibles en el [Portal de Información Argos](https://argos.gva.es/es/argos) permitieron descubrir que existe una sección censal que lleva reflejando los resultados locales desde las elecciones de 1999. En particular, los partidos políticos que obtienen al menos el 3% de los votos válidos obtienen en esta sección un resultado que está a menos de tres puntos porcentuales del resultado municipal. Situada en el distrito 4 y la sección 1, en el este de Carrús, los habitantes de esta zona se asemeja (aunque no en todo) a los del conjunto de la ciudad.
+
+### … volvió a reflejar el resultado electoral \[E]NLACE]
+
+<iframe title="23 | PSOE y PP | Casco" aria-label="Map" id="datawrapper-chart-eEcYw" src="https://datawrapper.dwcdn.net/c7BQc/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="803" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
+</script>
+El 28M ilicitano, en datos
+
 Finalmente, el recuento de las elecciones locales de este año mostraron que la sección censal que acertaba los resultados electorales, la de la plaza conocida como “Las chimeneas”, obtuvo unos resultados muy similares a los de los partidos en el conjunto de la ciudad. 
 
 ### Un modelo predictivo basado en encuestas… \[E]NLACE]
