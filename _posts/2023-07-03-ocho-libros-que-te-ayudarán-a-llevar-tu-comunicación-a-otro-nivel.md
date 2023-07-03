@@ -2,13 +2,13 @@
 layout: post
 title: Ocho libros que te ayudarán a llevar tu comunicación a otro nivel
 ---
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -48,9 +48,9 @@ title: Ocho libros que te ayudarán a llevar tu comunicación a otro nivel
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -629,9 +629,9 @@ title: Ocho libros que te ayudarán a llevar tu comunicación a otro nivel
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -658,13 +658,15 @@ title: Ocho libros que te ayudarán a llevar tu comunicación a otro nivel
 	mso-bidi-theme-font:minor-bidi;
 	mso-fareast-language:EN-US;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
 El dominio de la comunicación oral, escrita, audiovisual y no verbal es, junto con la creatividad, la habilidad más importante para el desarrollo personal y profesional en el periodismo. Conocer y practicar las diferentes formas de comunicación nos permitirá transmitir con eficacia y llegar a una audiencia más amplia. En este artículo te recomendamos ocho libros que te ayudarán a mejorar radicalmente tu comunicación. Son lecturas ideales para estas vacaciones. ¡Feliz verano!
 
- 
+![](/images/shots/comunicacion-blog.jpg)
+
+![](/images/shots/presentaciones-de-impacto.jpg)
 
 [Mario Tascón y Prodigioso Volcán (2021) Presentaciones de impacto. Larousse](https://www.prodigiosovolcan.com/pv/presentaciones-impacto/?20211006)
 
@@ -672,7 +674,7 @@ Para comunicar con eficacia es necesario cautivar a quien nos escucha usando t
 
 Mario Tascón, director y fundador de Prodigioso Volcán, tiene una amplia experiencia en el periodismo (El País, El Mundo) y en el sector de la comunicación. Sus recomendaciones son muy útiles: evita la ambigüedad y la jerga, y apuesta por un lenguaje claro y sencillo para transmitir tus ideas de manera efectiva. Las narrativas también son una excelente forma de captar la atención y conectar con tu audiencia. Tascón recomienda utilizar historias relevantes y bien estructuradas, que ayudará a que tu audiencia recuerde mejor la información que estás comunicando. También ofrece trucos para ser creativo mediante enfoques originales y el uso de metáforas o analogías que hagan tu mensaje más memorable. En definitiva, una obra muy completa.
 
- 
+![](/images/shots/storytelling-buster.jpg)
 
 [Bobette Busher (2020) Storytelling. Cómo contar tu historia para que el mundo quiera escucharla. Ed. Koan](https://www.amazon.es/Storytelling-contar-historia-quiera-escucharla/dp/8418223057)
 
@@ -680,7 +682,7 @@ Uno de los principales problemas es que las intervenciones en público se centra
 
 En esta obra, la guionista norteamericana Bobette Buster enseña el arte de contar historias poderosas y atractivas. A través de los relatos de emprendedores, activistas, visionarios y líderes, Buster comparte una variedad de estilos y temas para mostrar los diez principios del storytelling que te permitirán descubrir cómo generar, estructurar y dar forma a tu historia. Por ejemplo, la autora subraya el poder del "detalle resplandeciente" y por qué la conexión emocional resulta clave. Según Buster, la gente quiere conocerte y descubrir la verdadera historia de por qué haces lo que haces, por lo que es más probable que conecten contigo si les ofreces una historia bien elaborada y sincera, que les involucre emocionalmente.
 
- 
+![](/images/shots/piensa-claro.jpg)
 
 [Kiko Llaneras (2022) Piensa claro. Ocho reglas para descifrar el mundo y tener éxito en la era de los datos. Debate.](https://www.penguinlibros.com/es/economia-politica-y-actualidad/305936-libro-piensa-claro-9788418967078)
 
@@ -688,9 +690,9 @@ Se dice que “el dato mata el relato”. ¿O es al revés? Los datos se han con
 
 Doctor en ingeniería y redactor en El País, Kiko Llaneras explica que escribe “para analizar y explicar con gráficos y datos los asuntos que me interesan, desde elecciones a cambios sociales, pandemias o partidos de fútbol”. Este periodista especializado en datos lleva años dedicado a ordenar, interpretar y explicar los datos con sensatez, con la mente abierta y con la mayor objetividad posible. En esta obra -clara y muy práctica- nos revela numerosas técnicas para analizar los datos y presentarlos de forma deslumbrante.
 
-#  
+![](/images/shots/storytelling-carlos-salas.jpg)
 
-[Carlos Salas (2017) Storytelling, la escritura mágica: Técnicas para ordenar las ideas, escribir con facilidad y hacer que te lean. Amazon](https://www.amazon.es/Storytelling-escritura-m%C3%A1gica-T%C3%A9cnicas-facilidad-ebook/dp/B078P2CBSN)
+#### [Carlos Salas (2017) Storytelling, la escritura mágica: Técnicas para ordenar las ideas, escribir con facilidad y hacer que te lean. Amazon](https://www.amazon.es/Storytelling-escritura-m%C3%A1gica-T%C3%A9cnicas-facilidad-ebook/dp/B078P2CBSN)
 
 El principal objetivo de la escritura es lograr que te lean. Pero ¿cuántas personas logran captar la atención de sus lectores? Muy pocas. La mayor parte de las cosas que se escribimos están desordenadas, son caóticas, con frases muy largas, sin buena puntuación o con descripciones incomprensibles y aburridas. Así es imposible captar la atención por mucho tiempo. Para captar la atención, la técnica más eficaz es el storytelling, para que los lectores se sientan atrapados desde el principio. Según Salas, el storytelling consiste en presentar una situación, añadir complicaciones, crear preguntas y exponer soluciones. Es la técnica que usan los guionistas de cine y de televisión, con una mezcla de suspense y trucos de pensamiento visual. Se puede aplicar hasta en los documentos más sencillos, en los informes, en las cartas y en cualquier artículo.
 
@@ -698,11 +700,15 @@ Carlos Salas es periodista y escritor, imparte clase en varias universidades y e
 
 #  
 
+![](/images/shots/habla-como-en-ted.jpg)
+
 #### [Carmine Gallo (2016). Hable como en TED: Nueve secretos para comunicar utilizados por los mejores. Conecta.](https://www.penguinlibros.com/es/audiolibros-de-ocio-y-cultura/13101-audiolibro-hable-como-en-ted-9788416883851)
 
-#### La comunicación se ha convertido en la verdadera clave para el éxito. Por ello, las conferencias TED, seguidas por millones de personas en todo el mundo, han redefinido las reglas para cautivar a cualquier auditorio. El especialista en comunicación Carmine Gallo ha realizado un estudio exhaustivo de las conferencias TED más vistas y de las técnicas que utilizan los mejores ponentes. Con los resultados obtenidos, su propia experiencia como orador y las entrevistas realizadas a neurocientíficos, psicólogos y expertos en comunicación, ha confeccionado este libro eminentemente práctico.
+#### **La comunicación se ha convertido en la verdadera clave para el éxito. Por ello, las conferencias TED, seguidas por millones de personas en todo el mundo, han redefinido las reglas para cautivar a cualquier auditorio. El especialista en comunicación Carmine Gallo ha realizado un estudio exhaustivo de las conferencias TED más vistas y de las técnicas que utilizan los mejores ponentes. Con los resultados obtenidos, su propia experiencia como orador y las entrevistas realizadas a neurocientíficos, psicólogos y expertos en comunicación, ha confeccionado este libro eminentemente práctico.**
 
-#### *Hable como en TED* contiene los secretos para aprender a expresarnos con seguridad y triunfar en cualquier intervención en público. Carmine Gallo plantea qué debemos hacer para conseguir que una conferencia funcione y sea memorable. Con ejemplos reales detallados, información contrastada y mucha pasión, nos revela los secretos que podemos incorporar en nuestras presentaciones para que la audiencia nos siga con atención.
+#### ***Hable como en TED* contiene los secretos para aprender a expresarnos con seguridad y triunfar en cualquier intervención en público. Carmine Gallo plantea qué debemos hacer para conseguir que una conferencia funcione y sea memorable. Con ejemplos reales detallados, información contrastada y mucha pasión, nos revela los secretos que podemos incorporar en nuestras presentaciones para que la audiencia nos siga con atención.**
+
+![](/images/shots/resonancia.jpg)
 
 [Nancy Duarte (2012) RESONANCIA (RESONATE). Cómo presentar historias visuales que transformen a tu audiencia. Gestión 2000.](https://www.casadellibro.com/libro-resonancia-como-presentar-historias-visuales-que-transformen-a-t-u-audiencia/9788498752007/1964637)
 
@@ -710,7 +716,7 @@ El 86% de los ejecutivos encuestados por Nancy Duarte reconoce que comunicar co
 
 Este es elsegundo libro de Nancy Duarte, tras el exitoso *Slide:ology.* Además de relatarnos vivencias y conmovedoras anécdotas personales, Duarte, confiesa haberse emocionado la mañana de un sábado en la que descubrió que las presentaciones de grandes comunicadores se ajustaban a un determinado patrón. Recomienda incluir una idea por diapositiva, transformando las palabras en imágenes. El abusode las diapositivas disminuye la capacidad de conexión humana, así como la lectura de lo escrito en la pantalla. La manera en que se lleve a la pantalla esa gran idea y cómo se estructure la información marca la diferencia entre presentar algo que nunca se olvide o ser una presentación más. Duarte analiza las presentaciones Steve Jobs o Benjamin Zander y los discursos de Martín Luther King o Ronald Reagan, entre otros.
 
- 
+![](/images/shots/camino-escritor.jpg)
 
 [Julia Cameron (2015) El camino del escritor. Curso de escritura creativa. Gaia](https://www.casadellibro.com/libro-el-camino-del-escritor-curso-de-escritura-creativa/9788484455509/2523441)
 
@@ -718,7 +724,7 @@ Con esta obra los lectores descubrirán que escribir es algo simple y, a la vez,
 
 El camino que transita un escritor no es diferente a la de cualquier otro artista u oficio, es como todos, hay que dedicarle tiempo, es un trabajo de prueba y error, hay que practicarlo todos los días para ir mejorando, tiene momentos oscuros, otros días son luminosos y te saldrán las palabras como si dejaras una canilla abierta donde no para de salir agua.  Julia Cameron lo sabe y lo plasma muy bien en este libro. Me gustan sus consejos sencillos y fácil de aplicar. Uno de ellos es escribir, es tomar notas, es aflojar la mano, es practicar la observación todos los días. Robarle tiempo al tiempo que tenemos. Como dice Cameron, "es como encender la llave de luz, la corriente está ahí y empieza a fluir”.
 
- 
+![](/images/shots/rostro-ekman.jpg)
 
 [Paul Elkman (1972) El rostro de las emociones. RBA](https://www.casadellibro.com/libro-el-rostro-de-las-emociones/9788492966981/5749128)
 
