@@ -2,13 +2,13 @@
 layout: post
 title: Los modelos de innovación periodística explicados mediante 5 gráficos
 ---
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -48,9 +48,9 @@ title: Los modelos de innovación periodística explicados mediante 5 gráficos
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -629,9 +629,9 @@ title: Los modelos de innovación periodística explicados mediante 5 gráficos
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -660,7 +660,7 @@ title: Los modelos de innovación periodística explicados mediante 5 gráficos
 	mso-ligatures:standardcontextual;
 	mso-fareast-language:EN-US;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
@@ -688,8 +688,6 @@ Este modelo define la innovación según dos dimensiones: la tecnología que uti
 
 En los medios de comunicación, la mayor parte de las innovaciones son de tipo incremental, es decir, introducen mejoras o modificaciones sustanciales en un producto, servicio o proceso.
 
- 
-
 **2.    Torre del cambio tecnológico**
 
 Los medios afrontan una transformación continua y vertiginosa. Lo nuevo no es el cambio sino el grado del cambio en el periodismo. Todos estos cambios se aceleran por la incidencia simultánea de varias tecnologías (Big Data, Inteligencia Artificial, Blockchain, Realidad Aumentada, dispositivos de voz…) en la captación, producción y distribución de contenidos, lo que afecta al crecimiento de la audiencia y a la inestabilidad de los ingresos. Además, las empresas tecnológicas ganan fuerza en competencia directa con los medios. Estos actores (Google, Apple, Meta, Amazon…) acaparan un elevado porcentaje de la inversión publicitaria y atraen el tiempo y la atención de los usuarios, al igual que otras productoras y distribuidoras de contenidos (Netflix, HBO, Disney+, Spotify…).
@@ -700,43 +698,30 @@ El modelo visualiza la aceleración de los cambios en la última década a trav�
 
 Los medios de comunicación cada vez tienen menos control sobre cómo y dónde se consumen sus contenidos, mientras que su relación con las audiencias pierde consistencia [en el entorno de comunicación interactiva, horizontal y colaborativa característico de la Sociedad Red](http://www.revistaeic.eu/index.php/raeic/article/view/114). Ante la complejidad del entorno y la disminución de los recursos, las empresas mediáticas necesitan reconsiderar sus estrategias para estudiar dónde deben focalizarse. Desde esta perspectiva, **la innovación es un camino** que permite adaptar la tecnología, competir con las plataformas, afrontar la fragmentación de las audiencias y encontrar modelos de negocio exitosos.
 
-
-
-**3. La rueda de la innovación.** 
+**3. La rueda de la innovación** 
 
 A la hora de innovar, los periodistas deben centrarse en los contenidos, el crecimiento empresarial y las audiencias, según el estudio realizado por el [Proyecto de Innovación Periodística con sede en el Instituto Reuters para el Estudio del Periodismo de la Universidad de Oxford](https://reutersinstitute.politics.ox.ac.uk/sites/default/files/2018-11/Posetti_Towards_a_Sustainable_model_of_Journalism_FINAL.pdf). El informe, elaborado por la periodista e investigadora Julia Posetti, se basa en entrevistas con 39 periodistas innovadores de 17 países. Posetti sostiene que la innovación periodística se ha centrado sobre todo en la distribución, dejando de lado los contenidos y el modelo de negocio. Esta tendencia es contraproducente porque sacrifica tiempo, dinero y esfuerzo que deberían dedicarse a la captación y fidelización de la audiencia y a profundizar en las necesidades de los usuarios para tratar de resolverlas. En este contexto, Posseti subraya que la cultura organizacional y el clima laboral son esenciales en los procesos de innovación.
 
 El informe define la innovación periodística como algo nuevo o útil, o una forma diferente de hacer las cosas, que pueden ser intervenciones radicales, disruptivas y transformadoras, o mejoras más básicas y graduales.
-
- 
 
 ![](/images/shots/matriz-innovacion.jpg)
 
 ¿Cómo visualizar el modelo?  Posseti dibuja la “rueda de la innovación periodística” integrada por ocho ejes:
 
 1. Narrativas y cultura
-
 2. Engagement con los usuarios
-
 3. Producto y tecnología
-
 4. Distribución
-
 5. Organización
-
 6. Cultura profesional
-
 7. Liderazgo y gestión
-
 8. Negocio
 
 A largo plazo, centrarse demasiado en la innovación sin una estrategia clara distrae la atención de las funciones periodísticas básicas, provoca agotamiento y fatiga, y el estancamiento de la innovación. Por ello, las redacciones deben abandonar la búsqueda incesante y desenfocada de la innovación y, en su lugar, experimentar según sus objetivos específicos.
 
 El informe insta a los medios a reorientar sus estrategias de innovación hacia las necesidades de sus "usuarios finales". El peligro de la falta de experimentación es el estancamiento, pero la búsqueda frenética y a corto plazo de las tecnologías conlleva el riesgo de desperdiciar esfuerzos y no obtener resultados. Los medios interesados en ser más innovadores tienen que identificar objetivos en los que quieran progresar.
 
- 
-
-**4. Motores y las barreras de la innovación**
+**4. Motores y barreras de la innovación**
 
 Los profesores del MIP Alicia de Lara, Miguel Carvajal, Félix Arias y yo mismo elaboramos este modelo en 2019, que forma parte de la investigación [How journalists innovate in the newsroom. Proposing a model of the diffusion of innovations in media outlets](https://journals.uio.no/index.php/TJMI/article/view/3968), publicada en The Journal of Media Innovation. El modelo concibe la innovación periodística como un proceso que incluye factores derivados de las aportaciones de unos 20 periodistas de medios innovadores, entrevistados para este estudio. Si las innovaciones surgen únicamente como reacción a las amenazas del negocio, la disrupción tecnológica y el entorno comercial competitivo sin una estrategia definida, el cambio es lento y errático. Por el contrario, cuando se incentiva el talento y la dirección toma la iniciativa, las innovaciones aumentan en número y calidad. En cierto modo, observamos que los medios nativos digitales están más abiertos a experimentar, por lo que incorporan más rápidamente las innovaciones en sus procesos o productos.
 
@@ -748,9 +733,7 @@ Para identificar las oportunidades de innovación, algunos medios se centran en 
 
 Incorporar nuevas prácticas y experimentar es crucial en los proyectos. Si los profesionales de los medios experimentan con frecuencia, es obvio que muchas ideas acabarán en fracaso. Sin embargo, en las primeras fases estos fracasos son bienvenidos, ya que permiten a los equipos eliminar rápidamente las opciones que no funcionan y centrarse en las alternativas más viables. El "fracasa pronto, fracasa con frecuencia" es un lema que algunos equipos han adoptado con éxito a la hora de innovar.
 
- 
-
-**5.  Modelo de los 3 niveles de la innovación**
+**5.  Los 3 niveles de la innovación**
 
 El origen del modelo es un estudio elaborado  por los investigadores alemanes Michael Graßl y Klaus Meier en el marco del proyecto [“Journalism Innovation in Democratic Societies”](https://innovations-in-journalism.com/nuestro-proyecto), en el que participamos los profesores del Máster. En septiembre de 2023, [se presentaron las conclusiones del proyecto durante un simposio celebrado en Viena](https://mip.umh.es/blog/2023/10/03/40-expertos-analizan-en-viena-el-impacto-de-la-innovacion-periodi-stica-y-rinden-homenaje-a-mario-tascon/).
 
