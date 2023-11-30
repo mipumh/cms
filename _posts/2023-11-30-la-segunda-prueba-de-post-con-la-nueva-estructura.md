@@ -1,0 +1,11 @@
+---
+layout: post
+title: La segunda prueba de post con la nueva estructura
+subtitle: Dime si funciona
+author: miguel_carvajal
+---
+Creo que hay distintos tipos de persona. Está quien quiere reinventarse y no encuentra el apoyo en su medio de comunicación, porque al final le piden que haga lo que siempre ha hecho, que en términos generales son notas informativas, porque no estamos ni siquiera en un momento como el de las revistas o el de los periódicos, donde un reportaje de cinco páginas enriquecía esa narrativa. Ahora tenemos una mayoría de periodistas en la redacción que se dedica a generar notas informativas. Y el modo en que uno puede desmarcarse es creando un *side project*, habilitando un espacio en el que sea capaz de lograr un hábito y empezar a construir su audiencia.
+
+![](/{{ site.baseurl }}/images/001/3eevg6.jpg)
+
+Pueden empujar la innovación desde dentro de sus medios. Pero esa innovación, para convencer al jefe inmediato, debe venir acompañada de data, de argumentación, de un pitch de ventas que muchas veces el periodista no lo tiene bien construido. Y también hace falta que a nivel directivo y a nivel medios haya una reinterpretación de cómo se relaciona el periodista con el medio. He trabajado con muchas empresas que me dicen, “yo no le puedo dar protagonismo a esta persona porque luego dice que debería recibir una compensación o cuando le pido que haga un TikTok para mi cuenta corporativa pone cara de molestia y en cambio cuando lo publica en su cuenta personal tiene una cara radicalmente distinta”. Y eso tiene que ver con el ego, el individualismo que todos tenemos por parte del periodista que quiere lucirse, pero también con la falta de variedad en los contratos con los periodistas, sobre todo en los medios escritos. Pero en los medios digitales en general, es un contrato que dice que eres redactor, con una serie de generalidades. También entiendo al periodista que dice, “es que yo porque le voy a entregar un producto al medio en el que estoy, si al final a mí no me van a querer dar ingresos al respecto, si yo lo termino haciendo, no necesariamente me van a dar ese reconocimiento porque se lo va a terminar quedando el área que decida el medio”. Es decir, de lo más complicado para los medios y para el talento con ganas de reinventarse es cómo nos relacionamos.
