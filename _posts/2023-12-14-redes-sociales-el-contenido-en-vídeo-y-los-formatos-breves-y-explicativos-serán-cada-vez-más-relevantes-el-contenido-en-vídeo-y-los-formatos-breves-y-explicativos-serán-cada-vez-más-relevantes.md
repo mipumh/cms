@@ -23,8 +23,6 @@ Silvia Martínez, Directora del Máster Universitario Social Media: Gestión y E
 
 Las tendencias de consumo y acceso a la información han cambiado. La última edición del Digital News Report  revela que, mientras que el acceso a través de aplicaciones y páginas web desciende año tras año, el consumo mediante redes sociales no para de crecer. Su ubicuidad y comodidad, unidas a los hábitos informativos de una generación de nativos sociales que comienza a alcanzar la edad adulta, las convierten en un área estratégica para cualquier proyecto de comunicación. Sin embargo, la dependencia de las plataformas, los continuos cambios en los algoritmos y la aparición constante de nuevos agentes generan un entorno comunicativo complejo y exigente. 
 
-
-
 ### Tendencias e innovaciones
 
 * **Liderazgo de las plataformas que apuestan por el vídeo**. Los informes de los últimos años muestran un crecimiento imparable de las redes sociales basadas en el contenido audiovisual (We are social, IAB Spain). Los expertos confían en que la tendencia se mantenga en el corto-medio plazo. 
@@ -33,8 +31,6 @@ Las tendencias de consumo y acceso a la información han cambiado. La última ed
 * **Apuesta por una comunicación “real”**. Existe una tendencia hacia la naturalidad que se verá reforzada en los próximos años (Alberto Pachano). Los usuarios empiezan a mostrar una inclinación hacia los contenidos de carácter relajado y espontáneo, bien sean informativos, personales o de entretenimiento. Sin embargo, los expertos advierten de que esa naturalidad no siempre es real: “Un estudio reciente muestra que en Estados Unidos cerca del 70% de los usuarios preparan previamente el momento que van a mostrar en plataformas como BeReal” (Alberto Pachano). Se corre el riesgo, por tanto, de caer en una “realidad preparada”. 
 * **Aumento de la comunicación emocional**. El contenido que apela a las emociones de los usuarios, ya sean positivas o negativas, ha demostrado obtener grandes resultados en la mayoría de las plataformas. En los próximos años se espera que la comunicación emocional gane terreno con enfoques más humanos y cercanos (Marcos Gómez Piñeiro).
 * **Nuevas funcionalidades para la gestión de comunidades**. Los constantes cambios en los algoritmos que regulan el funcionamiento de las plataformas han hecho patente la importancia de tener una comunidad participativa y comprometida. En los próximos años, se espera que se potencien y desarrollen nuevas funcionalidades para gestionar las comunidades y acercar posiciones entre los productores de contenido y sus audiencias. 
-
-
 
 ### Retos
 
@@ -57,9 +53,5 @@ Las tendencias de consumo y acceso a la información han cambiado. La última ed
 Las redes sociales son un entorno complejo y dinámico que dificulta realizar predicciones a largo plazo. Sin embargo, los expertos coinciden en que se mantendrán algunas tendencias que han ganado popularidad en los últimos años. El contenido en vídeo seguirá siendo el gran protagonista y los formatos breves y explicativos ocuparán un lugar privilegiado en la mayoría de las plataformas. Frente a este tipo de consumo rápido y fugaz, se espera que aparezcan contenidos de carácter relajado y espontáneo que permitan mostrar la información de una forma más cercana y transparente. Además, con el objetivo de establecer una conexión más profunda y significativa con la audiencia, se realizarán mejoras en las funcionalidades de gestión de comunidades y la comunicación emocional ganará terreno con enfoques más humanos y cercanos.
 
 El principal reto gira en torno a la capacidad de adaptación de la industria mediática y su habilidad para enfrentarse a un panorama social basado en la polarización y viralización de los contenidos. En este sentido, la proliferación de las estrategias de desinformación, agravadas por la irrupción de la inteligencia artificial, demandan acciones conjuntas para garantizar la veracidad y la integridad de la información publicada en las redes sociales.
-
-
-
-<!--EndFragment-->
 
 <!--EndFragment-->
