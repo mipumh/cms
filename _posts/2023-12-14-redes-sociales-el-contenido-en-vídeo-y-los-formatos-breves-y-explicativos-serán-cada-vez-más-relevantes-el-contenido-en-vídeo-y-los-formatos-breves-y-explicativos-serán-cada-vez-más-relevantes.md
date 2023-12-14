@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "Redes sociales: El contenido en vídeo y los formatos breves y
-  explicativos serán cada vez más relevantes El contenido en vídeo y los
-  formatos breves y explicativos serán cada vez más relevantes "
+  explicativos serán cada vez más relevantes"
 new_author: Alba García-Ortega, Universidad Miguel Hernández
 ---
 <!--StartFragment-->
