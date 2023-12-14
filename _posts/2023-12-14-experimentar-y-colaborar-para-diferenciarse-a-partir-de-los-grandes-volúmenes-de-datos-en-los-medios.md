@@ -8,8 +8,6 @@ author: felix_arias
 
 Publicamos un nuevo análisis sobre las tendencias que impactarán en el panorama mediático en España y Portugal durante el próximo quinquenio, un adelanto del informe del proyecto IBERIFIER que estamos recogiendo en esta [serie especial para final de año](https://mip.umh.es/blog/2023/12/09/especial-tendencias-innovaciones-ecosistema-mediatico-de-espana-y-portugal-2025-2030/): nos centramos en el área de *Big Data*.
 
-
-
 **Expertos entrevistados**
 
 Eduard Martín-Borregón, COO, Datasketch
@@ -30,11 +28,9 @@ Borja Andrino, periodista de datos, El País
 
 ![](/images/001/big-data-1.jpg)
 
-El Big Data lleva años transformando la esencia de todos los sectores económicos, especialmente en los que la información constituye la materia prima (EBA, 2020). Experimentó un auge durante la pandemia de Covid-19 y el impulso se mantiene en empresas e instituciones que están invirtiendo en proyectos de carácter más generalista, a medio y largo plazo, porque sus posibilidades de desarrollo son casi ilimitadas (Quero, 2023). 
+El Big Data lleva años transformando la esencia de todos los sectores económicos, especialmente en los que la información constituye la materia prima. Experimentó un auge durante la pandemia de Covid-19 y el impulso se mantiene en empresas e instituciones que están invirtiendo en proyectos de carácter más generalista, a medio y largo plazo, porque sus posibilidades de desarrollo son casi ilimitadas. 
 
-Esta tendencia afecta a una triple vertiente en el periodismo. En primer lugar, como cualquier empresa, un medio puede aprovechar la potencialidad del Big Data para optimizar sus procesos y mejorar su comercialización (publicidad y suscripción). Segundo, por su capacidad para nutrirse del crecimiento de los datos que manejan instituciones públicas y otras empresas privadas. Y a partir de esto, su derivada más visible: el periodismo de datos. Tras más de una década, ya ha alcanzado su madurez y se encamina hacia un proceso más centrado en la capacidad crítica de los enfoques, el tratamiento y la visualización (Gray and Bounegru, 2019).
-
-
+Esta tendencia afecta a una triple vertiente en el periodismo. En primer lugar, como cualquier empresa, un medio puede aprovechar la potencialidad del Big Data para optimizar sus procesos y mejorar su comercialización (publicidad y suscripción). Segundo, por su capacidad para nutrirse del crecimiento de los datos que manejan instituciones públicas y otras empresas privadas. Y a partir de esto, su derivada más visible: el periodismo de datos. Tras más de una década, ya ha alcanzado su madurez y se encamina hacia un proceso más centrado en la capacidad crítica de los enfoques, el tratamiento y la visualización.
 
 ### Tendencias e innovaciones
 
@@ -47,8 +43,6 @@ Algo similar sucede en la publicación de datos por parte de empresas privadas. 
 * **Procesamiento y apoyo a la visualización**. Los avances técnicos, mediante las herramientas digitales y la Inteligencia Artificial (IA), serán de gran ayuda para el tratamiento de datos previo al diseño final (María Ángeles Chaparro). Se prevé que exploten métodos como el procesamiento de datos no estructurados, las transcripciones de texto y el lenguaje natural. Estos recursos permitirán que, sin apenas programación, se automaticen tareas como la detección de tendencias o la limpieza de datos, lo que simplificará el acceso a resultados ahora reservados a los equipos grandes o especializados (David Cabo). 
 
 La IA también impulsará las visualizaciones de datos, con técnicas como el parallax scroll (desplazamiento a diferentes velocidades de la interfaz vertical para generar efectos de movimiento) o los gráficos a pantalla completa adaptados al móvil, para generar contenidos diferenciadores (Sergio Sangiao). Esta tecnología permitirá las sugerencias sobre las visualizaciones más adecuadas para conjuntos de datos y el uso de aplicaciones personalizadas para los usuarios (Eduard Martín-Borregón).
-
-
 
 ### Retos
 
@@ -67,8 +61,6 @@ Los periodistas tendrán también la oportunidad de prestar sus servicios a empr
 * **Diferenciación**. La generación de contenidos de calidad, tanto en la forma como en el fondo, será esencial para que un proyecto periodístico destaque frente a la saturación informativa que, con toda seguridad, se acrecentará ante la automatización de la IA generativa. Hasta el momento, la mayor parte de los proyectos de calidad están ofreciendo rendimientos positivos para los medios (Borja Andrino). Los grandes proyectos de visualización serán cada vez más importantes para captar y retener a usuarios, suscriptores y anunciantes (Sergio Sangiao). La capacidad para experimentar y medir con precisión el impacto de las innovaciones en la producción o la distribución será clave para mejorar la efectividad de los equipos especializados en datos.
 * **Transparencia y metodología**. Frente al auge de la desinformación, la generación de confianza y autoridad en los medios será esencial. Para eso, la transparencia en los procesos y los contenidos será una de las principales herramientas con las que podrá contar el periodista. El uso de tecnologías que permitan rastrear los pasos de cada profesional, como el blockchain, permitirá verificar la identidad y demostrar que se trata de un profesional en la verificación de información. Los periodistas de datos podrán perfeccionar y exportar al resto de la redacción sus metodologías para alcanzar mejores resultados y ofrecer una experiencia más enriquecedora para los usuarios (Eli Vivas).
 
-
-
 ### Conclusión
 
 El avance tecnológico, encabezado por la IA, derivará en una nueva explosión de los datos disponibles y su capacidad de procesamiento. Las instituciones y las empresas, incluyendo las periodísticas, tendrán más facilidades para generar y procesar grandes volúmenes de información. Será complicado alcanzar el nivel de otros países europeos, y el auge de todo un sector centrado en el Big Data, porque el crecimiento afrontará dos grandes frenos:
@@ -77,7 +69,5 @@ El avance tecnológico, encabezado por la IA, derivará en una nueva explosión 
 * **Las reticencias motivadas por el miedo a la experimentación con grandes volúmenes de datos.** Sobre todo, cuando se trate de abrir al menos una parte de esa información.
 
 Además, la colaboración entre instituciones, empresas y profesionales de la comunicación será clave. Si se detallan y acuerdan previamente las condiciones de todas las partes implicadas, las ganancias serán mutuas. La rendición de cuentas, la responsabilidad social e incluso los intereses comerciales tendrán que encajar con la independencia y la transparencia de los periodistas. Porque todos los sectores, particularmente el de los medios, y el conjunto de la sociedad, podrán beneficiarse del potencial del Big Data.
-
-
 
 <!--EndFragment-->
