@@ -10,7 +10,7 @@ El juego está pensado para 2-4 jugadores y combina técnicas de juego cooperati
 
 ![](https://lh7-eu.googleusercontent.com/VQiaHj7YhD9TGhKuEVAaccm2vnEw3YPnL8O_RPLwJTBb8QBvnhwkSCEVh7AlQqhGLs9DiZISm63Pjwor5hsSUlbh-dDWpiTRCDW3amMoE6M2MSgmMhMtsRNLGQ54-gKZ2Uk4R5x4F5K4FH2T3gkyApg)
 
-##### La selección de los conceptos
+### La selección de los conceptos
 
 Si algo nos han enseñado los serious games (“aquellos juegos cuya finalidad van más allá del entretenimiento y pretenden educar”) es que, para que este tipo de experiencias resulten eficaces, no es suficiente con que sean divertidas. También deben cumplir el propósito para el que han sido creadas. En el caso de Check Wars, el objetivo era diseñar **una experiencia lúdica que permitiese a los jugadores mejorar sus conocimientos sobre la desinformación**. En concreto, se pretendía mostrar cuáles son las estrategias de desinformación más habituales y qué técnicas y herramientas de verificación existen para detectarlas. Por eso, la elección de los conceptos sobre los que se estructura la experiencia lúdica fue un elemento clave. 
 
@@ -46,7 +46,7 @@ Además de las cartas básicas, cada equipo cuenta con una carta estrella que le
 
 ![](/images/001/captura-de-pantalla-2024-01-11-a-las-17.56.32.png)
 
-##### La importancia de las mecánicas de juego
+### La importancia de las mecánicas de juego
 
 Una vez definidos los conceptos, es el turno de asignarles una regla a cada una de las cartas. Para ello, tuvimos en cuenta dos aspectos que consideramos fundamentales: 1) las mecánicas debían **guardar relación con el concepto** que acompañan, y 2) **mantener la tensión y favorecer el equilibrio** entre ambos equipos. Para cumplir este último objetivo, intentamos diseñar reglas que otorgasen beneficios similares a ambos bandos, respetando la naturaleza de cada uno. De este modo, las cartas del equipo de verificadores fueron diseñadas para obtener información del equipo contrario, mientras que las de los desinformadores tienen como objetivo engañar y confundir. 
 
