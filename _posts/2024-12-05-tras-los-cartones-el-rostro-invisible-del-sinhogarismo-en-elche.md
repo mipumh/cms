@@ -2,6 +2,8 @@
 layout: post
 title: "Tras los cartones: El rostro invisible del sinhogarismo en Elche"
 subtitle: Las calles ilicitanas acogen a 96 personas, casi un 20% son menores de 30 años
+new_author: Guillermo Rojo Villasur (https://x.com/Villojoo) y Alejandro Ramón
+  Ortega (https://www.instagram.com/alejandro_ro/)
 ---
 Seguro que caminando por Elche, alguna vez han encontrado a un chico que vende pulseras artesanales a cambio de la voluntad. Muchos lo conocen como “el mendigo de las pulseras”, pero lo cierto es que Samuel es una persona sin hogar que ha acabado en situación de calle por múltiples razones que no justifican su final.
 
