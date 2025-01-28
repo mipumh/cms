@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Jaime Alonso y Carmela Guillén, creadores del podcast infantil Las TRES
-  a las 3: “El podcast ofrece un espacio seguro donde abordar la educación
+title: "Jaime Alonso y Carmela Guillén, creadores del podcast infantil 'Las TRES
+  a las 3': “El podcast ofrece un espacio seguro donde abordar la educación
   afectivo-sexual con naturalidad”"
 ---
 <!--\[if gte mso 9]><xml>
