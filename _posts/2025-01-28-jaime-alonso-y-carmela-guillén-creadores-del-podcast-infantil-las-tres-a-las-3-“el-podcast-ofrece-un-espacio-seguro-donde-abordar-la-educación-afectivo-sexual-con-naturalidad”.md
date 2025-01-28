@@ -4,13 +4,13 @@ title: "Jaime Alonso y Carmela Guillén, creadores del podcast infantil 'Las TRE
   a las 3': “El podcast ofrece un espacio seguro donde abordar la educación
   afectivo-sexual con naturalidad”"
 ---
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -50,9 +50,9 @@ title: "Jaime Alonso y Carmela Guillén, creadores del podcast infantil 'Las TRE
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -631,9 +631,9 @@ title: "Jaime Alonso y Carmela Guillén, creadores del podcast infantil 'Las TRE
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -649,13 +649,11 @@ title: "Jaime Alonso y Carmela Guillén, creadores del podcast infantil 'Las TRE
 	font-size:10.0pt;
 	font-family:"Aptos",sans-serif;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
-Jaime Alonso, profesor de periodismo en la Universidad de Murcia, y Carmela Guillén, psicóloga y maestra de educación especial, desarrollaron en plena pandemia un proyecto innovador junto a sus tres hijas, de 7, 8 y 10 años, el pódcast infantil *[Las TRES a las 3](https://micuerpomepertenece.es/las-tres-a-las-3-un-podcast-para-la-prevencion-de-la-violencia-sexual-infantil/)*, que aborda la prevención frente a los abusos sexuales en la infancia. En el podcast se escuchan diálogos protagonizados por las propias niñas con la finalidad de que niños y niñas de entre 6 y 12 años aprendan a detectar y rechazar posibles situaciones de este tipo de violencia. El pódcast ha sido elaborado por la Facultad de Comunicación y Documentación de la Universidad de Murcia en colaboración con la Fundación Márgenes y Vínculos. En la entrevista, Carmela y Jaime explican esta iniciativa.
-
- 
+Jaime Alonso, profesor de periodismo en la Universidad de Murcia, y Carmela Guillén, psicóloga y maestra de educación especial, desarrollaron en plena pandemia un proyecto innovador junto a sus tres hijas, de 7, 8 y 10 años, el pódcast infantil *[Las TRES a las 3](https://micuerpomepertenece.es/las-tres-a-las-3-un-podcast-para-la-prevencion-de-la-violencia-sexual-infantil/)*, que aborda la prevención frente a los abusos sexuales en la infancia. En el podcast se escuchan diálogos protagonizados por las propias niñas con la finalidad de que niños y niñas de entre 6 y 12 años aprendan a detectar y rechazar posibles situaciones de este tipo de violencia. El podcast ha sido elaborado por la Facultad de Comunicación y Documentación de la Universidad de Murcia en colaboración con la Fundación Márgenes y Vínculos. En la entrevista, Carmela y Jaime explican esta iniciativa.
 
 ![](/images/001/las-3-a-las-3.jpg)
 
@@ -666,8 +664,6 @@ Jaime: Un día leímos en un periódico una información sobre cómo proteger a 
 Carmela: Otra cuestión en donde se aprecia la complejidad de la transmisión de los mensajes de prevención en abusos sexuales radica en el hecho de que, si bien desde que nacen les decimos a los menores que su familia principal, extendida y entorno (colegio, amigos, etc.) siempre van a ser ámbitos de seguridad y prevención, ahora, cuando les hablamos de este tipo de prevención, tenemos que advertirles que se han dado situaciones en donde alguna de esas personas no se comportan de la forma correcta.       
 
 Jaime: Una vez constatado lo difícil que era transmitir a nuestras hijas un mensaje de esa naturaleza, fue cuando decidimos combinar nuestros ámbitos profesionales -la psicología por parte de Carmela y la comunicación por el mío- para crear un relato adaptado a la edad infantil y que tuviera la capacidad de condensar eficazmente las ideas más relevantes de prevención y a la vez que fuera lo más entretenido posible.
-
- 
 
 ![](/images/001/jaime-y-carmela.jpeg)
 
@@ -681,8 +677,6 @@ Jaime: Una de las cuestiones cruciales sobre la que reflexionamos al elaborar el
 
 Carmela:  Para transmitir un mensaje persuasivo en menores de entre seis y doce años, no es necesario entrar en las consecuencias emocionales y/o físicas del abuso sexual, y tampoco, por supuesto, en cómo se produce el abuso. Otra cosa sería si los destinatarios fueran adolescentes, tanto en este como en otro tipo de relatos. Ahí hablaríamos de otro enfoque.
 
- 
-
 **¿Cuánto tiempo os llevó grabar los episodios y cómo fue la dinámica de trabajo?**
 
 Jaime: Revisamos la bibliografía sobre la prevención de abusos sexuales en menores, no solo artículos académicos y libros, sino también vídeos, podcast, etcétera. Incorporar a nuestras hijas en el proyecto fue un proceso lúdico, casi como un juego, aunque también hubo momentos complicados. Durante el año escolar posterior a la pandemia en la Región de Murcia, un día a la semana el alumnado no asistía presencialmente al colegio para reducir la ratio de alumnos por aula. Aprovechamos esos días no presenciales de nuestras hijas para grabar los capítulos.
@@ -690,8 +684,6 @@ Jaime: Revisamos la bibliografía sobre la prevención de abusos sexuales en men
 Carmela: Dado que la grabación no se realizaba de forma continua, sino de forma fragmentada (un día se podían grabar pequeños cortes de varios capítulos), lo habitual era comenzar con ensayos. Nos suelen comentar la buena locución de las niñas, y lo cierto es que se basa en un guion que habíamos practicado muchas veces. Jaime les indicaba cómo enfatizar ciertas palabras o frases, dónde y cómo efectuar las pausas y silencios, dónde y cómo bajar y subir el tono, así como algo tan importante como interiorizar y expresar los estados emocionales de cada contenido. Nos insistía en que debíamos aprender nuestro papel, de tal forma que el resultado final no fuera un relato leído, sino hablado y vivido.
 
 Jaime: Grabar los ocho episodios nos llevó dos-tres meses. Luego hice labores de edición para eliminar ruidos de fondo, toses, respiraciones fuertes, y cualquier otro elemento no deseado. Los episodios no se grabaron en un estudio, sino en el salón de nuestra casa. Aunque la Facultad de Comunicación de la Universidad de Murcia nos bridó los estudios de radio y cabinas de locución, la situación post-COVID nos llevó a grabarlo en casa, un entorno más seguro.
-
- 
 
 ![](/images/001/bannercabeceraweb.jpg)
 
@@ -701,15 +693,11 @@ Carmela: Efectivamente. Lo que más les gusta a niños y niñas cuando escuchan 
 
 En ese centro educativo se va a trabajar el podcast por tercer año consecutivo y, según nos cuentan, a los niños y niñas les encanta oír las voces de nuestras hijas, a pesar de haber escuchado el podcast varias veces. Tal y como nos explica la directora de ese centro, junto a la escucha de los capítulos se van leyendo unos libros seleccionados que sirven como refuerzo a lo que se va narrando en cada capítulo del podcast. La novedad es que la selección de cuentos realizada por los docentes es distinta cada año, las actividades también son diferentes y el grado de madurez de los menores también ha cambiado al paso de los años, por lo que percepción de lo que se transmite también es diferente… y más provechosa, esperamos.
 
- 
-
 **¿Qué aspectos destacas de la narrativa de *Las Tres a las 3*?**
 
 Jaime: Uno de los elementos clave es que menores hablen a menores. Además, es fundamental que el pódcast proporcione respuestas claras ante las posibles dudas que pudieran surgir. Por ejemplo, una de nuestras hijas nos preguntó durante la grabación: "¿cómo es posible que un padre llegue a abusar de su hijo o hija?". Este tipo de cuestiones no debemos evitarlas; hay que abordarlas. Tras pensarlo un tiempo (porque la pregunta es realmente difícil) consideramos que una buena respuesta era: “pues porque a ese padre nadie le explicó, tal y como estamos haciendo ahora nosotros, que las zonas íntimas son privadas, y no se deben tocar a nadie,”. Pensamos que esta idea afronta la pregunta pero situándose al nivel compresivo/emocional del menor.
 
 Una característica muy importante del podcast es que se “autoexplica”. Es decir, al finalizar cada episodio quedan resueltas las posibles dudas que a lo largo de su escucha pudieran surgirle a docentes, madres, padres y familiares. En el epílogo se incluyen algunas orientaciones facilitadas por la *Fundación Márgenes y Vínculos* que son fundamentales. Una de ellas nos explica cómo actuar en el caso de que durante la escucha del podcast detectemos que algún menor ha podido ser objeto de abuso.
-
- 
 
 ![](/images/001/jaime-y-carmela.jpg)
 
@@ -717,21 +705,15 @@ Una característica muy importante del podcast es que se “autoexplica”. Es d
 
 Carmela: La educación afectivo-sexual es un contenido transversal que se trabaja desde la etapa de infantil en las aulas. Considero que el pódcast es adecuado para niños y niñas de entre 6 y 12 años, es decir, desde primero hasta sexto de primaria. Con esta población, es esencial abordar estos temas con naturalidad y utilizando un vocabulario sencillo y accesible, adaptado a su nivel de comprensión, y sobre todo, sin crearles alarma, como hemos indicado anteriormente.  Se aborda la prevención del abuso sexual infantil tal y como se haría con cualquier otro tema que queremos transmitir a nuestros menores: seguridad vial, alimentación saludable, etcétera
 
- 
-
 **¿Cuál ha sido la respuesta de los profesores al pódcast?**
 
 Carmela: Los docentes destacan un doble beneficio. Por un lado, escuchar el pódcast en las aulas supone ofrecer a niños y niñas un espacio seguro donde pueden abordar estos temas relacionados con la educación afectivo-sexual con naturalidad. El profesorado nos comenta que a menudo tienen que interrumpir la escucha de los capítulos porque los menores quieren contar sus experiencias o hacer preguntas. Por otro lado, supone disponer de un material de fácil aplicación, a pesar de la complejidad de los contenidos que aborda. Entiendo que es crucial que tanto padres como profesores se involucren en estos contenidos y se trabajen conjuntamente en ambos contextos: aulas y familias.
-
-
 
 **¿Qué repercusión está teniendo el pódcast?**
 
 Jaime: Desde su presentación en noviembre de 2022, el pódcast ha tenido una acogida muy positiva tanto en centros educativos como en las familias. Un colegio lo implementó ese mismo curso en el último trimestre, incluyéndolo dentro del plan lector del centro. La forma de implementar el podcast consistió en combinar la escucha de los capítulos con la lectura de uno o dos cuentos y la realización de actividades para la consolidación de los aprendizajes. Tenemos conocimiento de que se ha implementado en tres centros de la Región de Murcia, uno en la Comunidad Valenciana y otro en Navarra, cada uno de forma diferente. Además, nos consta que alguno más está estudiando llevarlo a cabo este curso, dado que hemos impartido charlas a las que ha asistido algún miembro de equipos directivos de colegios.  
 
 La iniciativa ha crecido notablemente gracias al boca a boca entre profesionales, tales como orientadores, trabajadores sociales, docentes, consolidándose como una herramienta valiosa en el ámbito educativo. Aunque, claro, deseamos que aun tenga mucho más recorrido conforme se vaya conociendo. Como se trata de un contenido eminentemente atemporal, espero que sea de utilidad durante muchos años.
-
- 
 
 ![](/images/001/material-docentes.jpg)
 
@@ -741,22 +723,16 @@ Jaime: Hemos diseñado el pódcast para que sea claro y se explique por sí mism
 
 Carmela: El material se caracteriza por un léxico cuidadosamente adaptado a la edad de los menores, presentando situaciones con las que ya están familiarizados. Por ejemplo, al abordar el concepto de privado y público, utilizamos analogías del tipo: "Un cepillo de dientes es privado porque sólo lo usas tú" o “Una biblioteca es un espacio público porque el acceso está abierto a todo el mundo”. De manera similar, conceptos como ser asertivo, o que las zonas íntimas son privadas, se explican con ejemplos prácticos y sencillos.
 
-
-
 **¿Cómo se implementa el pódcast en los colegios?**
 
 Carmela: Lo primero es mantener una reunión inicial con las familias y con el claustro de profesores explicándoles el proyecto. A las familias se les envía todo el material, y en su caso, la selección de cuentos, y se les invita a que una vez que se inicie la escucha de los capítulos, ellos lo hagan también en casa con sus hijos e hijas de manera paralela para reforzar los contenidos. Semana a semana se les va recordando qué capítulo se va a escuchar y se les envía por la plataforma el colegio para que dispongan de él de la manera más accesible posible.
 
 Es fundamental que las familias estén informadas y trabajen conjuntamente en casa con sus hijos e hijas sobre los temas abordados en los diferentes capítulos. Este enfoque coordinado casa-escuela garantiza un mejor aprendizaje de los contenidos. También existe la opción de que los padres y madres escuchen en familia el pódcast de forma autónoma, ya que no se requiere ninguna formación específica.
 
- 
-
 **¿Cómo contribuye el pódcast al aprendizaje en la prevención del abuso sexual?**\
 Carmela: Escuchar los capítulos con los menores, leer los cuentos correspondientes y finalizar cada sesión con una situación de aprendizaje garantiza que adquieran los contenidos de manera lúdica, sencilla y divertida. Esto hace el proceso más interactivo y facilita que los conceptos principales queden bien interiorizados.
 
 Por ejemplo, al trabajar el primer capítulo, que aborda la diferencia entre la familia principal, la familia extendida y el entorno, se leen diferentes cuentos que tratan sobre los diversos tipos de familias. Posteriormente, se realiza una actividad con botones en la que cada niño o niña elabora una pulsera de su familia. Otra actividad es la creación de la "maleta viajera" donde los niños incluyen fotos o dibujos de sus personas de confianza de casa y del colegio.
-
- 
 
 ![](/images/001/abuso-del-1280x645.png)
 
@@ -766,21 +742,15 @@ Carmela: Un comentario en una de las plataformas donde está publicado el podcas
 
 Hay que destacar que el podcast no es una armadura infalible contra el abuso sexual, pero sí va a dotar a los menores de las herramientas necesarias para identificar que una situación ha sido anómala y dar la voz de alarma. Por ejemplo, si un juego inocente de cosquillas por parte de un adulto, baja de forma inesperada a las zonas íntimas, el niño o la niña, aunque no sea capaz de reaccionar en ese momento, sí podrá reconocer que la situación ha sido inapropiada y quizá lo vaya a compartir más tarde con un adulto de confianza, ya sea en casa o en la escuela. En este sentido, podemos decir que el pódcast brinda la oportunidad para que niños y niñas desarrollen la capacidad de reconocer situaciones que son percibidas como extrañas y busquen ayuda cuando lo necesiten. Todo esto dependerá siempre de cómo se esté ejerciendo el abuso (como el tipo de coacciones verbales por parte del abusador, por ejemplo); pero entendemos que el podcast puede suponer un paso más en la oportunidad que se le brinda a menores a la hora de detectar situaciones de abuso.   
 
- 
-
 **¿Cómo recomendáis que los padres y los niños escuchen *Las tres a las 3*?**
 
 Carmela: Los padres nos comentan: *"Sí, yo un día le hablé a mi hijo de las zonas íntimas"*. Abordar un tema una única vez no garantiza su aprendizaje. Transmitir contenidos de educación afectivo-sexual requieren una repetición similar a otros tipos de contenidos de prevención, como la educación vial. No basta con decir una sola vez: *"Ten cuidado al cruzar la calle"*. Solemos repetírselo a nuestros hijos e hijas cada vez que salen de casa. Así, entendemos que sería idóneo escuchar el podcast dos veces al año.
-
-
 
 **¿Habéis recibido apoyo de entidades externas?**
 
 Jaime: Durante la elaboración del guion buscamos la colaboración de entidades con experiencia en la prevención del abuso sexual infantil. La Fundación Márgenes y Vínculos respondió con gran interés y aportó sugerencias muy valiosas que incluimos en el epílogo. Esta fundación accedió a una subvención del Ministerio de Derechos Sociales y Agenda 2030. Gracias a su colaboración, se diseñó [la página web del proyecto](https://micuerpomepertenece.es/las-tres-a-las-3-un-podcast-para-la-prevencion-de-la-violencia-sexual-infantil/) y se alojó en las plataformas Spotify, Apple Podcast e IVOOX.
 
 El proyecto se presentó en noviembre de 2022 en la Facultad de Comunicación de la Universidad de Murcia, la cual difundió el proyecto a los medios nacionales y regionales. Recientemente hemos creado un grupo de transferencia de conocimiento de esta Universidad, denominado *Relatos de Experiencias Creativas en Prevención,* en donde pretendemos que un grupo multidisciplinar de profesionales expertos en comunicación, psicología y enseñanza trabajemos conjuntamente para desarrollar productos como este pódcast y transferirlos a la sociedad como herramientas educativas innovadoras y efectivas.
-
- 
 
 **¿Cuál es vuestro próximo proyecto?**
 
