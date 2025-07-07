@@ -4,13 +4,13 @@ title: "Juan Carlos Blanco, autor de ‘La tiranía de las naciones pantalla’:
   “Todas aquellas sociedades donde la industria de los medios está muy
   debilitada, se están precipitando hacia un desfiladero muy peligroso”"
 ---
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -50,9 +50,9 @@ title: "Juan Carlos Blanco, autor de ‘La tiranía de las naciones pantalla’:
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -631,9 +631,9 @@ title: "Juan Carlos Blanco, autor de ‘La tiranía de las naciones pantalla’:
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -662,13 +662,11 @@ title: "Juan Carlos Blanco, autor de ‘La tiranía de las naciones pantalla’:
 	mso-ligatures:standardcontextual;
 	mso-fareast-language:EN-US;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
-**Juan Carlos Blanco** es periodista y consultor de comunicación. Colabora en programas de análisis político en Canal Sur Televisión y Radio, la Cadena SER y Onda Cero en Andalucía, y escribe en la edición nacional de 20 Minutos. También dirige el podcast Algohumanos y asesora a empresas sobre estrategias de comunicación corporativa. Fue portavoz del Gobierno de Andalucía, director de El Correo de Andalucía y subdirector del Diario de Sevilla. Acaba de publicar ***[La tiranía de las naciones pantalla (Akal).](https://www.akal.com/libro/la-tirania-de-las-naciones-pantalla_54290/)*** Charlamos extensamente sobre cómo las plataformas tecnológicas han transformado el ecosistema comunicativo, sus efectos nocivos sobre la ciudadanía y qué pueden hacer los medios de comunicación y los usuarios al respecto.
-
- 
+**[Juan Carlos Blanco](https://juancarlosblanco.es/)** es periodista y consultor de comunicación. Colabora en programas de análisis político en Canal Sur Televisión y Radio, la Cadena SER y Onda Cero en Andalucía, y escribe en la edición nacional de 20 Minutos. También dirige el podcast Algohumanos y asesora a empresas sobre estrategias de comunicación corporativa. Fue portavoz del Gobierno de Andalucía, director de El Correo de Andalucía y subdirector del Diario de Sevilla. Acaba de publicar ***[La tiranía de las naciones pantalla (Akal).](https://www.akal.com/libro/la-tirania-de-las-naciones-pantalla_54290/)*** Charlamos extensamente sobre cómo las plataformas tecnológicas han transformado el ecosistema comunicativo, sus efectos nocivos sobre la ciudadanía y qué pueden hacer los medios de comunicación y los usuarios al respecto.
 
 ![](/images/001/img_8213.jpg)
 
@@ -680,8 +678,6 @@ No se habla, por ejemplo, de cómo destruyen determinados modelos de negocio. En
 
 Yo quería contribuir porque sentía esa necesidad y tenía ganas de escribir en largo, sobre un asunto, el de las ‘naciones pantalla’, que impacta en nuestras vidas.
 
- 
-
 **¿Cuál es la tesis del libro?**
 
 Que estas plataformas se han convertido en ‘naciones pantalla’. ¿Por qué las llamo naciones pantallas? Porque entiendo que las plataformas tienen ya más poder que la mayoría de los estados del globo y tienen más poder e imponen sus reglas del juego. Y como imponen sus reglas del juego, han pasado de ser un oligopolio tecnológico a ser algo más. Y ese algo más son estas entidades o compañías que superan en poder e importancia a prácticamente casi todos los estados. Y la primera idea fuerza de estas ‘naciones pantalla’ es asumir su tamaño, su impacto, su importancia y también su influencia en el mundo.
@@ -689,8 +685,6 @@ Que estas plataformas se han convertido en ‘naciones pantalla’. ¿Por qué l
 En segundo lugar, advierto que el impacto de las ‘naciones pantalla’ tiene como mínimo cinco consecuencias tóxicas que hay que reflexionar en profundidad: la violación masiva de la privacidad, la pandemia de distracción y desatención, la destrucción del modelo del negocio de los medios en lo que tiene que ver con su papel de plaza pública y la erosión de la calidad de la conversación.
 
 Cuatro, la destrucción del modelo de negocio del comercio de proximidad. En este caso, si se hunde el comercio de proximidad, se hunde el tejido, el alma y la sangre de los barrios, de las ciudades, con todo lo que eso significa. Un barrio donde lo único que hay son puntos de recogida online y casas de apuestas, empieza a ser un barrio degradado. Y, por último, el quinto de los pecados capitales que identifico de las ‘naciones pantalla’ es cómo han hecho de las redes sociales una especie de droga de fentanilo para la sociedad. Nunca hemos sufrido mayor intoxicación de bulos, infamias y patrañas en la historia de la humanidad como la que estamos viviendo ahora. Siempre ha habido patrañas, infamias y mentiras. Pero nunca en esta escala. Porque jamás hemos tenido unos canales para la distribución de la información tan potentes.
-
-
 
 **Denuncias que las plataformas seducen a los usuarios, se meten en sus vidas y acaban controlándolos. ¿Cómo hemos llegado a ese nivel tan pernicioso para la mayoría de los ciudadanos que las usan?**
 
@@ -730,13 +724,9 @@ Como profesor, digo a veces que tengo que luchar antes contra Instagram, contra 
 
 Respondiendo a tu pregunta. Uno, responsabilidad personal. Dos, responsabilidad de las administraciones. Y creo que estamos en el momento en el que sí está cambiando nuestra percepción y la de las administraciones. Hoy somos más conscientes de la situación que vivimos con las plataformas tecnológicas.
 
- 
-
 **Has abierto muchísimos melones:  hacia dónde va la enseñanza, la necesidad de alfabetización mediática, de uso responsable y de regulación de las plataformas…**
 
 Hay que tomar decisiones muy drásticas en el ámbito educativo. Tengo dos hijos. Ella tiene 24 y él, 21. Siempre digo que ellos han vivido todo el sarampión digital, los 20 años en los que creíamos que había que abrazar la pantalla en todo momento. Yo, que también abracé las pantallas, hoy les recomiendo que escriban en papel. Y que lean en papel. Y, por supuesto, mucha escritura a mano. Porque soy consciente de que esas herramientas y habilidades son clave para que sean mejores ciudadanos y profesionales más competitivos. Hace diez, quince años, ni tú ni yo, que somos personas con un cierto criterio y conocimiento de este ámbito, hubiéramos dicho esto. ¿Por qué? Porque hemos necesitado vivir este periodo de sarampión digital. Los chicos que tienen 20, 22, han vivido toda su vida metidos en las pantallas…
-
- 
 
 **¿Cómo describirías la relación de los medios de comunicación con las plataformas en esta década?**
 
@@ -770,15 +760,11 @@ El Confidencial es otro que he utilizado mucho como modelo de negocio. Cuando te
 
 Hoy se han roto todas las barreras, se pueden hacer muchos modelos editoriales que puedan funcionar como modelo de negocio. Evidentemente, muchos fallan, pero es el mundo de los negocios. Esto no es un jardín de infancia.
 
- 
-
 **Compartimos esa visión de que hay que huir de los ‘cenizos apocalípticos’ y resaltar las señales de optimismo en una profesión que siempre ha afrontado dificultades.**
 
 Estoy convencido de que, en España, pronto veremos ejemplos de referencia como esos periodistas norteamericanos que están montando sus modelos de negocio en Substack, con su cuenta, su marca profesional, aportando información de valor para su comunidad.
 
 Hay multitud de oportunidades. Un chico o una chica joven que empieza en el periodismo no se tiene que dejar llevar por el abatimiento. Ha de entender que, para él o para ella, es más importante su capacidad de atrevimiento y su obsesión por ofrecer un valor añadido a la comunidad antes que aprender el oficio en grandes compañías que ya no te garantizan la transmisión del oficio.
-
- 
 
 ![](/images/001/002.jpg)
 
