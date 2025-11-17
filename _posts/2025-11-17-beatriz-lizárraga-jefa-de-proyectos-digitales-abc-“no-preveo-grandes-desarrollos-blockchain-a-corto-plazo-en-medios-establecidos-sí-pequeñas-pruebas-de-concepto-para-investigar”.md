@@ -5,22 +5,22 @@ title: "Beatriz Lizárraga (Jefa de Proyectos Digitales, ABC): “No preveo gran
   pruebas de concepto para investigar”"
 new_author: Chema Valero
 ---
-<!--\[if !mso]>
+<!--\\[if !mso]>
 <style>
 v\:* {behavior:url(#default#VML);}
 o\:* {behavior:url(#default#VML);}
 w\:* {behavior:url(#default#VML);}
 .shape {behavior:url(#default#VML);}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -60,9 +60,9 @@ w\:* {behavior:url(#default#VML);}
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -641,13 +641,13 @@ w\:* {behavior:url(#default#VML);}
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if !supportAnnotations]-->
+<!--\\[if !supportAnnotations]-->
 
-<!--\[endif]-->
+<!--\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -674,7 +674,7 @@ w\:* {behavior:url(#default#VML);}
 	mso-ligatures:standardcontextual;
 	mso-fareast-language:EN-US;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
@@ -700,13 +700,17 @@ R.: BYN fue un proyecto beta que hicimos coincidiendo con un aniversario de ABC,
 
 **P.: ¿La normalización hace que se reduzca el *boom* especulador?**
 
-R.: No. Cada vez es mayor, pero con más conocimiento. Hay dos corrientes y las va a seguir habiendo: gente que conoce mejor la tecnología, que la estudia e invierte porque cree en ella, pero también tarados y chavales que trastean sin demasiado conocimiento. El problema es que mucha gente sigue asociando los NFT al *boom* de los monos[,](<>) los *apes* y todo aquello [colecciones de NFT con ilustraciones de monos —como Bored Ape Yacht Club— que, entre 2021 y 2022, [alcanzaron precios millonarios](<\[colecciones de NFT con ilustraciones de monos —como Bored Ape Yacht Club— que, entre 2021 y 2022, alcanzaron precios millonarios y se convirtieron en símbolo de estatus digital]>) y se convirtieron en símbolo de estatus digital], y los reducen a eso. Pero los NFT se están utilizando más que nunca, aunque para otros fines y con otra visión: perfiles muy digitales, artistas, empresas y *smart contracts* distintos a los iniciales.
+R.: No. Cada vez es mayor, pero con más conocimiento. Hay dos corrientes y las va a seguir habiendo: gente que conoce mejor la tecnología, que la estudia e invierte porque cree en ella, pero también tarados y chavales que trastean sin demasiado conocimiento. El problema es que mucha gente sigue asociando los NFT al *boom* de los monos[,](<>) los *apes* y todo aquello [colecciones de NFT con ilustraciones de monos —como Bored Ape Yacht Club— que, entre 2021 y 2022, [alcanzaron precios millonarios](<[colecciones de NFT con ilustraciones de monos —como Bored Ape Yacht Club— que, entre 2021 y 2022, alcanzaron precios millonarios y se convirtieron en símbolo de estatus digital]>) y se convirtieron en símbolo de estatus digital], y los reducen a eso. Pero los NFT se están utilizando más que nunca, aunque para otros fines y con otra visión: perfiles muy digitales, artistas, empresas y *smart contracts* distintos a los iniciales.
 
 **P.: ¿Vais a utilizar este conocimiento obtenido con la experiencia de BYN en otros proyectos?**
 
 R.: Tengo poco presupuesto de innovación, pero me encanta, así que sigo intentándolo. Por ejemplo, ahora estamos inmersos en el lanzamiento de Revista SIX, un vertical orientado al colectivo LGTBI que verá la luz el 3 de diciembre. El proyecto ya está en redes sociales, lo que marca unos flujos distintos a los tradicionales en ABC.
 
 Vamos a montar un gran evento, para el que me gustaría hacer un POAP \[Proof of Attendance Protocol, token digital que demuestra que has asistido a un evento]. Antes necesitaba una agencia para hacerlo, pero ya no: gracias a plataformas que han mejorado la conexión entre web2 y web3, puedo crear uno yo misma en un par de horas. No es solo por introducir una funcionalidad llamativa, sino para generar comunidad con algo nuevo. El POAP me sirve para dinamizar la revista, el evento o la invitación, obtener leads y ofrecer esa prueba de participación que la gente quiera coleccionar.
+
+![](/images/001/captura-de-pantalla-2025-11-17-130906.png)
+
+
 
 **P.: ¿Se aplicará algún aspecto más de Web3 a Revista SIX?**
 
@@ -731,6 +735,10 @@ R.: Sí, hay más ejemplos. De hecho, yo me inspiré bastante en el New Yorker, 
 R.: Claro, pero en realidad la integración puedes configurarla como quieras. Por ejemplo, yo estoy asociando el POAP a un mail. Ahí es donde entra realmente la estrategia de diseño de producto y diseño de marketing. El New Yorker lo hizo así para dar entrada a los nativos Web3 y a los usuarios que saben un poco más sobre la tecnología, tienen un monedero cripto y no quiere dar acceso a sus datos.
 
 Todo lo relacionado con anonimidad está creciendo muchísimo. El mundo de los adblockers también: en los últimos datos que sacamos, rondábamos ya un 25%. Hace años hicimos un desarrollo antiadblocker y generamos un flujo, pero aun así ha subido unos ocho puntos el porcentaje de usuarios que los utilizan, que es muchísimo. Esa gente quiere informarse sin que tengamos sus cookies ni su registro, por más que digas que les mejoras la experiencia. Sé que hay proyectos en este sentido, pero no sé si son solo betas o están realmente integrados en el día a día del negocio.
+
+![](/images/001/captura-de-pantalla-2025-11-17-131302.png)
+
+
 
 **P.: ¿Y se plantea esto para SIX?**
 
