@@ -5,6 +5,10 @@ title: En tiempos de incertidumbre para la industria, el periodismo deportivo
 author: null
 new_author: Cristian Ramón Marín Sanchiz
 ---
+
+
+![](/images/001/periodismo-deportivo-.png)
+
 La industria periodística se enfrenta a su enésimo cambio de paradigma, en esta ocasión por los avances en materia de Inteligencia Artificial y su consecuencia más inmediata: la pérdida de tráfico de los medios.  ¿Lo superará? No hay duda, como ha ocurrido tantas veces hasta ahora. Las implicaciones no son únicamente publicitarias, sino de negocio, porque un menor número de páginas vistas también acarrea  consecuencias para los modelos de pago. Menos páginas vistas, menos relevancia para la marca, un embudo más reducido, mayor dificultad para conseguir suscriptores.  En este contexto, la especialización deportiva se consolida como una avanzadilla perfecta para entender qué hay más allá del horizonte. Por su capacidad para conectar con públicos masivos y de nicho, el papel de los hábitos, las pistas que ―siempre― deja el dinero y la capacidad de innovación que están demostrando muchos de sus actores.
 
 ### **Cuestión de hábitos**
@@ -16,6 +20,8 @@ Uno de los elementos más atractivos del periodismo deportivo ―y, por tanto, u
 ### Follow the money
 
 Una buena forma de tomar el pulso al mercado de la información y el infoentretenimiento deportivo es entender sus dimensiones económicas. Y para muestra, los derechos de retransmisión: la National Football League (NFL) norteamericana, una de las disciplinas con mayor crecimiento actual, firmó en 2021 un conjunto de acuerdos de derechos televisivos por valor de 110.000 millones de dólares durante once temporadas, lo que supone unos 10.000 millones anuales: una cifra que equivale a casi cinco veces la facturación de The New York Times, la cabecera más relevante del periodismo mundial.
+
+![](/images/001/anders-krogh-jorgensen-syy1flmhov4-unsplash.jpg)
 
 Las cifras en otras competiciones también son astronómicas. La Premier League británica distribuye aproximadamente 3.000 millones de libras anuales solo en derechos de retransmisión, LaLiga española ha convertido sus derechos audiovisuales en un activo valorado en más de 1.000 millones de euros por temporada, y la NBA está negociando contratos que podrían superar los 75.000 millones de dólares en los próximos años. Este tipo de acuerdos pone de manifiesto algo fundamental: el contenido deportivo es de los pocos productos mediáticos que mantienen su capacidad de congregar audiencias masivas en directo, un fenómeno que es punta de lanza de todo lo que genera alrededor el periodismo. 
 
@@ -29,9 +35,11 @@ No hay que olvidar que el periodismo deportivo juega con ventaja. Habla sobre un
 
 Y es aquí donde la capacidad de generar verticales y contar con firmas que atraigan con contenidos de calidad es clave. Se ha observado [en el caso de Movistar+, Antoni Daimiel y Guille Giménez.](https://www.lavanguardia.com/gente/20250916/11065541/antoni-daimiel-55-anos-despide-nba-movistar-miro-delante-veces-veo-valle-acantilado-han-sido-30-anos-haciendo-empresa-pmv.html) A pesar de que ya no cuentan con los derechos de la NBA, el gigante decidió recolocar a estos dos comentaristas de referencia en la multicámara de LaLiga, ofreciendo un partido semanal a los espectadores. Así, consiguen mantener vínculos para ganar la batalla por la atención.
 
-Casos de innovación en nichos
+### Casos de innovación en nichos
 
 El mercado del periodismo deportivo de nicho también deja pistas de innovación, tanto en la forma de plantear su oferta editorial como en la monetización. “Esta área informativa, siempre creativa y atrevida, ha sido capaz de situarse a la vanguardia en la forma de presentar y contar las historias en la red, porque por su naturaleza se anticipa en la exploración de nuevos caminos y sirve de laboratorio”, asegura José Luis Rojas, profesor de la Universidad de Sevilla [en otro artículo de la Revista de Innovación en Periodismo.](https://mip.umh.es/blog/2018/02/05/periodismo-deportivo-innovador-olimpico/)
+
+![](/images/001/la-media-inglesa.png)
 
 Un ejemplo claro es el de La Media Inglesa, un proyecto especializado en la Premier League y el fútbol inglés que [se ha asociado con el Harborough Town FC, club de séptima división, para dirigir la entidad.](https://cadenaser.com/nacional/2025/09/23/la-historia-tras-el-harborough-town-de-recorrer-los-pubs-de-la-ciudad-a-sonar-con-la-fa-cup-cadena-ser/) Con este movimiento, Ilie Oleart y su equipo son capaces de generar una gran cantidad de contenido y hacer partícipe a toda su comunidad ―que ya roza el medio millón de suscriptores en YouTube― de la gestión.
 
@@ -43,4 +51,4 @@ Durante décadas, el periodismo deportivo se ha visto obligado a luchar contra e
 
 Casi de forma visionaria, [lo adelantaba en 2012 una obra liderada por el investigador Neil Farrington:](https://www.taylorfrancis.com/books/mono/10.4324/9780203146309/race-racism-sports-journalism-john-price-neil-farrington-daniel-kilvington-amir-saeed) “El periodismo deportivo ha pasado de ser el departamento de juguete al departamento financiero. Si bien antes la profesión era vista con diversión o desprecio, ahora resulta crucial para los ingresos y la audiencia de muchas organizaciones mediáticas”.
 
-En tiempos de cambios constantes en los hábitos de consumo y un tsunami tecnológico con pocos precedentes, la especialización deportiva muestra el camino por su capacidad para conectar con quienes están al otro lado de la pantalla. Y esa ambición conlleva la responsabilidad de crear piezas de calidad, imposibles de replicar por la IA generativa, que lleven el debate y las ganas de consumir periodismo a la calle. Porque ChatGPT responde muy bien a una pregunta intrascendente pero no es capaz de generar ―por ahora, al menos―la métrica más importante: recomendar un buen contenido a la persona con la que quieres intercambiar ideas.
+En tiempos de cambios constantes en los hábitos de consumo y un tsunami tecnológico con pocos precedentes, la especialización deportiva muestra el camino por su capacidad para conectar con quienes están al otro lado de la pantalla. Y esa ambición conlleva la responsabilidad de crear piezas de calidad, imposibles de replicar por la IA generativa, que lleven el debate y las ganas de consumir periodismo a la calle. Porque ChatGPT responde muy bien a una pregunta intrascendente, pero no es capaz de generar ―por ahora, al menos― la métrica más importante: recomendar un buen contenido a la persona con la que quieres intercambiar ideas.
