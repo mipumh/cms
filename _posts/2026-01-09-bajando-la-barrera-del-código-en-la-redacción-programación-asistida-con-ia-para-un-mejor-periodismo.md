@@ -64,6 +64,8 @@ La seguridad es otro punto crítico. Scripts con permisos excesivos, claves API 
 
 Por último, aparece la falta de trazabilidad. Si no se documenta qué se hizo, con qué datos y en qué orden, el proyecto se convierte en una “caja negra”,  difícil de defender editorialmente.
 
+![](/images/001/chatgpt-image-9-ene-2026-13_39_31.png)
+
 Por eso la clave es dejar de ver el código como algo “técnico” y empezar a tratarlo como parte del proceso editorial, al mismo nivel que una entrevista, una base de datos o una metodología de verificación. Nunca hay que perder de vista que el factor humano es insustituible. La programación asistida con IA no elimina la necesidad de revisión, sino que la desplaza. En vez de revisar solo el texto final, el periodista debe revisar también la lógica del proceso, los supuestos implícitos, los límites de los datos y los casos extremos. 
 
 Además, aquí cobra aún más importancia la transparencia. No es solo una cuestión ética, sino también práctica. Facilita el trabajo en equipo, permite corregir errores y refuerza la confianza con la audiencia. A nivel interno, la transparencia implica que otros miembros de la redacción puedan entender qué se ha hecho, modificarlo o reutilizarlo. En el externo, no siempre será necesario publicar el código completo, pero sí explicar el método: de dónde salen los datos, cómo se han tratado y cuáles son sus límites.
