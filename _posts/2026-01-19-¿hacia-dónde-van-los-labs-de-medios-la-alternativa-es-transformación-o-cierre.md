@@ -746,7 +746,7 @@ Los labs de medios europeos no son experimentos ni soluciones uniformes. Se trat
 
 Desempeñan un papel crucial a la hora de ayudar a los medios a mantener su posición dentro del panorama periodístico nacional, mediante el desarrollo de proyectos innovadores [que satisfacen tanto las necesidades organizativas como las expectativas de la audiencia](https://revistas.unav.edu/index.php/communication-and-society/article/view/34466). Al mismo tiempo, ponen de manifiesto tensiones inherentes en lo que se refiere a la resistencia cultural, la complejidad organizativa y la financiación.
 
-Su supervivencia dependerá de la integración, la adaptabilidad y la claridad de sus objetivos. Es probable que los laboratorios de los próximos cinco años tengan que elegir: o se convierten en motores integrados del cambio continuo o cesarán en su actividad.
+Su supervivencia dependerá de la integración, la adaptabilidad y la claridad de sus objetivos. Es probable que los laboratorios de los próximos cinco años tengan que elegir: o se convierten en motores integrados del cambio continuo o cesarán en su actividad. 
 
 **Referencia:**
 
