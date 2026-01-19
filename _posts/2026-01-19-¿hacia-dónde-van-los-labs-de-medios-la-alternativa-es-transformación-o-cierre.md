@@ -2,13 +2,13 @@
 layout: post
 title: ¿Hacia dónde van los labs de medios? La alternativa es transformación o cierre
 ---
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -48,9 +48,9 @@ title: ¿Hacia dónde van los labs de medios? La alternativa es transformación 
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -629,9 +629,9 @@ title: ¿Hacia dónde van los labs de medios? La alternativa es transformación 
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -660,7 +660,7 @@ title: ¿Hacia dónde van los labs de medios? La alternativa es transformación 
 	mso-ligatures:standardcontextual;
 	mso-fareast-language:EN-US;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
@@ -671,8 +671,6 @@ Durante la última década, [los medios europeos han recurrido cada vez más a l
 Nuestro análisis comparativo en seis países arroja luz sobre cómo funcionan estos laboratorios, qué tipo de innovación fomentan y qué condiciones favorecen o limitan su trabajo. Hemos entrevistado a los responsables de doce laboratorios de medios de comunicación en España, Italia, Bélgica, Portugal, Alemania y Reino Unido. Hemos comprobado que no son departamentos uniformes, sino que se hallan integradas en sistemas mediáticos, culturas y realidades económicas muy diferentes. En España, analizamos los labs de RTVE y El Confidencial. Por cierto, que el Lab de RTVE parece que ya no está activo: no ha lanzado ningún proyecto desde mayo de 2025.
 
 En esencia, los labs de medios funcionan como «*sandboxes*» para la experimentación, es decir, espacios diseñados para poner a prueba ideas que serían difíciles de llevar a cabo dentro de las rutinas y presiones de la producción diaria. Sin embargo, la investigación demuestra que estos laboratorios son más que *incubadoras* de ideas: funcionan como lugares estratégicos a través de los cuales los medios intentan mantener su relevancia, legitimidad y posición competitiva dentro del panorama nacional. Sus proyectos buscan satisfacer tanto las necesidades organizativas como las de la audiencia, mientras que los profesionales de los labs lidian a menudo con la resistencia cultural, la complejidad organizativa y las limitaciones de financiación en los diversos países europeos.
-
- 
 
 **Tendencias en los laboratorios de medios europeos**
 
@@ -686,8 +684,6 @@ El tercer arquetipo abarca los **labs centrados en la educación**, que consider
 
 Una tendencia común a los tres arquetipos es que los labs funcionan cada vez más como unidades interdisciplinares que traspasan fronteras. Conectan las funciones editoriales, tecnológicas y empresariales dentro de las organizaciones y, a menudo, forjan alianzas con empresas emergentes, universidades o clientes externos. Esta labor transfronteriza permite a los labs ser “punta de lanza” en un ecosistema mediático en rápida transformación.
 
- 
-
 ![](/images/001/media-lab-2.jpg)
 
 **Al servicio de las organizaciones y de la audiencia**
@@ -698,8 +694,6 @@ Por otro lado, muchos proyectos tienen como objetivo explícito mejorar la exper
 
 Nuestra investigación revela que los laboratorios de mayor éxito tienden a equilibrar estas dos orientaciones. Los labs que se centran exclusivamente en la experimentación interna corren el riesgo de aislarse de la realidad de las redacciones, mientras que los que se basan en las métricas comerciales a corto plazo pueden socavar la función de servicio público del periodismo.
 
- 
-
 **Resistencia cultural y complejidad organizativa**
 
 Los laboratorios de medios se enfrentan a serios retos. Uno de los mayores obstáculos es la resistencia cultural dentro de las organizaciones informativas. Algunos periodistas, acostumbrados a las rutinas establecidas, perciben los laboratorios con recelo, y los ven como elitistas o alejados del periodismo “real”. Esta resistencia se intensifica a menudo cuando los laboratorios se hallan separados estructuralmente de la redacción o cuando su labor se comunica de manera deficiente.
@@ -708,8 +702,6 @@ La complejidad organizativa agrava este problema. Las grandes emisoras públicas
 
 El artículo destaca que la integración con el resto del medio de comunicación es determinante. Algunos labs que mantienen una estrecha colaboración con los equipos editoriales e integran sus innovaciones en los flujos de trabajo tienen más probabilidades de lograr un cambio duradero. Por el contrario, los que funcionan como unidades aisladas, corren el riesgo de convertirse en algo simbólico, en vez de transformador.
 
- 
-
 **Restricciones de financiación y diferencias nacionales**
 
 La financiación es otra restricción que varía significativamente según el contexto nacional. Los labs de medios de servicio público suelen depender de una financiación estable pero políticamente sensible, mientras que los laboratorios privados deben justificar su existencia mediante criterios medibles o valor estratégico. El cierre del HH Lab de Alemania ilustra cómo los marcos legales y las prioridades de financiación —las subvenciones que favorecen la distribución impresa frente a la innovación digital— pueden socavar su sostenibilidad.
@@ -717,8 +709,6 @@ La financiación es otra restricción que varía significativamente según el co
 Los labs del norte de Europa tienden a operar en entornos de innovación más formales, con procesos claros y estructuras profesionalizadas, aunque no son inmunes a la presión financiera. Por su parte, los labs del sur de Europa se enfrentan a una mayor inestabilidad económica, la lenta renovación generacional y recursos más limitados. Sin embargo, suelen compensarlo con modelos de innovación flexibles y el compromiso cultural.
 
 Los laboratorios educativos cuentan con una dinámica de financiación completamente diferente. Su dependencia de socios externos, instituciones académicas o formación, los hace vulnerables a cambios sociales más amplios, como ocurrió durante la pandemia de COVID-19. No obstante, su valor social, especialmente en materia de alfabetización mediática, los posiciona como actores importantes más allá de la lógica comercial.
-
- 
 
 ![](/images/001/media-lab-il-sole-24.jpg)
 
@@ -738,8 +728,6 @@ En cuarto lugar, se intensificará la colaboración externa con universidades, e
 
 Por último, es probable que las funciones educativas y sociales ganen protagonismo. Dado que la confianza en los medios sigue siendo frágil y persiste la desinformación, los labs que apuestan por la alfabetización mediática, la transparencia y la participación de la audiencia tendrán cada vez más importancia para la función democrática del periodismo.
 
- 
-
 ![](/images/001/innovation-lab.jpg)
 
 **Perspectivas de la evolución de los laboratorios de medios**
@@ -752,8 +740,6 @@ Por último, es probable que las funciones educativas y sociales ganen protagoni
 
 4. Dependencia del apoyo político: El futuro de muchos labs, especialmente los de servicio público, dependerá de si los responsables políticos proporcionan los marcos legales y los mecanismos de financiación necesarios para apoyar la innovación.
 
- 
-
 **A modo de conclusión**
 
 Los labs de medios europeos no son experimentos ni soluciones uniformes. Se trata de respuestas organizativas moldeadas por los sistemas mediáticos nacionales, las culturas institucionales y las prioridades estratégicas. Estas tendencias — experimentación, interdisciplinariedad e innovación centrada en la audiencia— reflejan su esfuerzo continuo por conciliar la tradición con la transformación.
@@ -764,6 +750,6 @@ Su supervivencia dependerá de la integración, la adaptabilidad y la claridad d
 
 **Referencia:**
 
-Bisso Nunes, A. C., Cools, H., Flores, A. M., Porlezza, C., Kretzschmar, S., Eyrich, J., García-Avilés, J.A. & Singer, J. B. (2025). Sandbox Journalism: The Role of Media Labs as Innovation Drivers in European News Organisations. *Journalism Studies*, 1–22. https://doi.org/10.1080/1461670X.2025.2594650
+Bisso Nunes, A. C., Cools, H., Flores, A. M., Porlezza, C., Kretzschmar, S., Eyrich, J., García-Avilés, J.A. & Singer, J. B. (2025). Sandbox Journalism: The Role of Media Labs as Innovation Drivers in European News Organisations. *Journalism Studies*, 1–22. [https://doi.org/10.1080/1461670X.2025.2594650](https://www.tandfonline.com/doi/full/10.1080/1461670X.2025.2594650)
 
 <!--EndFragment-->
