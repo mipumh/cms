@@ -4,13 +4,13 @@ title: "Innovar también es cuidar: el bienestar emocional de los periodistas en
   un contexto de cambio"
 new_author: Chema Valero
 ---
-<!--\\\[if gte mso 9]><xml>
+<!--\\\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\\\[endif]-->
+</xml><!\\\\[endif]-->
 
-<!--\\\[if gte mso 9]><xml>
+<!--\\\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -50,9 +50,9 @@ new_author: Chema Valero
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\\\[endif]-->
+</xml><!\\\\[endif]-->
 
-<!--\\\[if gte mso 9]><xml>
+<!--\\\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -631,9 +631,9 @@ new_author: Chema Valero
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\\\[endif]-->
+</xml><!\\\\[endif]-->
 
-<!--\\\[if gte mso 10]>
+<!--\\\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -660,7 +660,7 @@ new_author: Chema Valero
 	mso-ligatures:standardcontextual;
 	mso-fareast-language:EN-US;}
 </style>
-<!\\\[endif]-->
+<!\\\\[endif]-->
 
 <!--StartFragment-->
 
@@ -693,8 +693,6 @@ Los estudios analizados coinciden en describir **el periodismo como una profesi�
 Estos factores no actúan de forma aislada. La revisión muestra que el malestar emocional surge del **efecto acumulativo de múltiples presiones que se refuerzan entre sí**, especialmente cuando faltan mecanismos de apoyo.
 
 ![](/images/001/pexels-n-voitkevich-6837564.jpg)
-
-
 
 **La cultura profesional como fuente de tensión**
 
@@ -734,8 +732,6 @@ A nivel sectorial, las respuestas son todavía incipientes. Existen avances como
 
 ![](/images/001/pexels-diohasbi-3280130.jpg)
 
-
-
 **Innovar desde el cuidado**
 
 El bienestar emocional de los periodistas no puede seguir entendiéndose como una cuestión individual ni como un añadido opcional. Debe abordarse como una **responsabilidad ética, organizativa y estructural del periodismo**.
@@ -743,5 +739,13 @@ El bienestar emocional de los periodistas no puede seguir entendiéndose como un
 Desde esta perspectiva, la innovación no se limita a introducir nuevas herramientas o formatos, sino que implica **repensar culturas profesionales, liderazgos y condiciones de trabajo**. Un periodismo innovador, sostenible y de calidad requiere entornos que protejan la seguridad psicológica, reconozcan las emociones como parte del trabajo informativo y reduzcan los estresores evitables.
 
 Para la formación en innovación periodística, esta revisión ofrece una enseñanza fundamental: preparar a los futuros profesionales no solo en competencias técnicas, sino también en **alfabetización emocional, gestión del estrés y trabajo colaborativo**, es una condición necesaria para afrontar un ecosistema mediático en transformación.
+
+
+
+*E﻿ste artículo forma parte del proyecto “Cultura organizacional e innovación en el periodismo: exploración, evaluación e intervención hacia un ecosistema mediático sostenible” (Novacult), financiado por el Ministerio de Innovación, Ciencia y Universidades (PID2022-138078OB-I00) y por FEDER, UE.*
+
+<!--EndFragment-->
+
+<!--EndFragment-->
 
 <!--EndFragment-->
